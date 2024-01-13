@@ -1078,21 +1078,26 @@
 &lt;img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;duration=3000&amp;color=F71717&amp;center=true&amp;multiline=true&amp;repeat=false&amp;random=false&amp;width=435&amp;height=100&amp;lines=%E6%AC%A2+%E8%BF%8E+%E6%9D%A5+%E5%88%B0;AUTO1001;自 动 化 认 知 与 实 践" alt="Typing SVG: Welcome"/>
 &lt;/a>
 &lt;/div>
-&lt;p>恭喜你来到 HITSZ 自动化专业的第一门专业课，你将会获得其他专业都不会有的学习经历😅。&lt;/p>
 &lt;p>本课程开设自 2022 年，合并了过去工程制图、自动化专业导论、机器人设计与实践、机械设计基础 4 门课程。&lt;/p>
 &lt;h2>授课教师&lt;span class="absolute -mt-20" id="授课教师">&lt;/span>
 &lt;a href="#%e6%8e%88%e8%af%be%e6%95%99%e5%b8%88" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>自动化专业导论、工程制图、机器人设计与实践部分分别由不同的老师先后负责讲授。&lt;/p>
 &lt;ul>
-&lt;li>自动化专业导论：Lou Yunjiang&lt;/li>
-&lt;li>工程制图：Yuan Han&lt;/li>
-&lt;li>机器人设计与实践：Xiong Hao，Xiong Xiaogang&lt;/li>
-&lt;li>实验课：Ge Yaming&lt;/li>
+&lt;li>自动化专业导论：楼云江&lt;/li>
+&lt;li>工程制图：袁晗&lt;/li>
+&lt;li>机器人设计与实践：熊昊，熊小刚&lt;/li>
+&lt;li>实验课：葛亚明&lt;/li>
 &lt;/ul>
 &lt;h2>关于考试&lt;span class="absolute -mt-20" id="关于考试">&lt;/span>
-&lt;a href="#%e5%85%b3%e4%ba%8e%e8%80%83%e8%af%95" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>2022 级自动化专业学生参与了这门课第一次考试，笔试内容主要来自课堂教学，例如电机驱动，电阻色环识别，Arduino 编程知识。
+&lt;a href="#%e5%85%b3%e4%ba%8e%e8%80%83%e8%af%95" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;blockquote>
+&lt;p>by &lt;a href="https://github.com/MaxwellJay256" target="_blank" rel="noopener">Maxwell&lt;/a>&lt;/p>
+&lt;/blockquote>
+&lt;p>2022 级自动化专业学生参与了这门课第一次考试，笔试内容主要来自课堂教学，例如电机驱动，电阻色环识别，Arduino 编程知识。
 考试难度对于从未接触过机器人或单片机的同学来说并不是很友好，而且主要考的都是死记硬背的东西，因此在学生间的评价很差。&lt;/p>
 &lt;h2>关于实验&lt;span class="absolute -mt-20" id="关于实验">&lt;/span>
 &lt;a href="#%e5%85%b3%e4%ba%8e%e5%ae%9e%e9%aa%8c" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;blockquote>
+&lt;p>by &lt;a href="https://github.com/MaxwellJay256" target="_blank" rel="noopener">Maxwell&lt;/a>&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
 &lt;p>以下内容仅代表 2022 级的情况&lt;/p>
 &lt;/blockquote>
 &lt;h3>前期&lt;span class="absolute -mt-20" id="前期">&lt;/span>
@@ -1112,14 +1117,11 @@
 &lt;ul>
 &lt;li>&lt;a href="https://github.com/MaxwellJay256/mega_12800" target="_blank" rel="noopener">Maxwell Jay - mega_12800&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://github.com/longlin10086/HITSZ_lab_project" target="_blank" rel="noopener">longlin li - HITSZ_lab_project&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://github.com/chenxijun/AutoCar" target="_blank" rel="noopener">Chenx Dust - AutoCar&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2>除了上面那些东西，你还应该知道&lt;span class="absolute -mt-20" id="除了上面那些东西你还应该知道">&lt;/span>
-&lt;a href="#%e9%99%a4%e4%ba%86%e4%b8%8a%e9%9d%a2%e9%82%a3%e4%ba%9b%e4%b8%9c%e8%a5%bf%e4%bd%a0%e8%bf%98%e5%ba%94%e8%af%a5%e7%9f%a5%e9%81%93" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;blockquote>
-&lt;p>待补充，也许是一些睿评？# 工程制图从22级开始与自动化导论、机器人设计与实践合并，不存在参考价值&lt;br>
+&lt;li>&lt;a href="https://github.com/chenxijun/AutoCar" target="_blank" rel="noopener">Chenx Dust - AutoCar&lt;/a>
 &lt;br>
-&lt;br>&lt;/p>
-&lt;/blockquote>
+&lt;br>
+&lt;br>&lt;/li>
+&lt;/ul>
 &lt;h2>资料下载&lt;span class="absolute -mt-20" id="资料下载">&lt;/span>
 &lt;a href="#%e8%b5%84%e6%96%99%e4%b8%8b%e8%bd%bd" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;div class="hextra-filetree mt-6 select-none text-sm text-gray-800 dark:text-gray-300 not-prose">
 &lt;div class="inline-block rounded-lg border px-4 py-2 dark:border-neutral-800">
