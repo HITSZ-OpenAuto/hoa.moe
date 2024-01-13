@@ -673,12 +673,18 @@
 &lt;p>&lt;img src="https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE-red" alt="Static Badge" loading="lazy" /> &lt;img src="https://img.shields.io/badge/%E5%AD%A6%E5%88%86-3-moccasin" alt="Static Badge" loading="lazy" />&lt;/p>
 &lt;p>&lt;img src="https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90%ef%bc%8822%e7%ba%a7%ef%bc%89-gold" alt="Static Badge" loading="lazy" /> &lt;img src="https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-20%25-wheat" alt="Static Badge" loading="lazy" /> &lt;img src="https://img.shields.io/badge/%e5%ae%9e%e9%aa%8c-30%25-wheat" alt="Static Badge" loading="lazy" /> &lt;img src="https://img.shields.io/badge/%e6%9c%9f%e6%9c%ab%e8%80%83%e8%af%95-50%25-wheat" alt="Static Badge" loading="lazy" />
 &lt;img src="https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90%ef%bc%8821%e7%ba%a7%ef%bc%89-gold" alt="Static Badge" loading="lazy" /> &lt;img src="https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-10%25-wheat" alt="Static Badge" loading="lazy" /> &lt;img src="https://img.shields.io/badge/%e5%ae%9e%e9%aa%8c-30%25-wheat" alt="Static Badge" loading="lazy" /> &lt;img src="https://img.shields.io/badge/%e6%9c%9f%e6%9c%ab%e8%80%83%e8%af%95-60%25-wheat" alt="Static Badge" loading="lazy" />&lt;/p>
-&lt;hr>
-&lt;blockquote>
+&lt;h2>教材&lt;span class="absolute -mt-20" id="教材">&lt;/span>
+&lt;a href="#%e6%95%99%e6%9d%90" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>
+&lt;p>C语言程序设计 / 苏小红等编著；蒋宗礼主审. &amp;ndash;4版. &amp;ndash; 北京：高等教育出版社，2019.8(2022.7重印)&lt;/p>
+&lt;p>ISBN 978-7-04-051998-3&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2>关于本课&lt;span class="absolute -mt-20" id="关于本课">&lt;/span>
+&lt;a href="#%e5%85%b3%e4%ba%8e%e6%9c%ac%e8%af%be" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;blockquote>
 &lt;p>by &lt;a href="https://github.com/longlin10086" target="_blank" rel="noopener">@longlin&lt;/a>, 2023.9&lt;/p>
 &lt;/blockquote>
-&lt;h2>关于本课&lt;span class="absolute -mt-20" id="关于本课">&lt;/span>
-&lt;a href="#%e5%85%b3%e4%ba%8e%e6%9c%ac%e8%af%be" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>3202 年了，大学中居然还存在这种考试要手写代码，语言标准还停留在上个世纪的编程语言课，简直不可思议。&lt;/p>
+&lt;p>3202 年了，大学中居然还存在这种考试要手写代码，语言标准还停留在上个世纪的编程语言课，简直不可思议。&lt;/p>
 &lt;p>作为大多数人接触的第一门编程语言，c语言劝退了很多萌新。如果你觉得这门语言晦涩难懂，大概率不是你的问题，而是教材或是授课老师的问题（也有可能是语言本身的问题）。你不能指望通过学校的课程学习这门课（当然如果你只是针对考试以后并不想做与编程有关的事情当我没说），你也不能指望通过国内教材学习编程语言，更不能指望b站上国内诸如某马、某士兵之类的培训机构。&lt;/p>
 &lt;p>个人认为比较好的学习流程是（当然这并不能给你带来高分）：&lt;/p>
 &lt;ul>
@@ -692,12 +698,11 @@
 &lt;/li>
 &lt;li>放弃 C 语言（逃）。直接上手 cpp 其实也没啥太大问题，不过 cpp 水太深，并且也很容易陷入与 c 语言一样的困境——接触的东西全是十几二十年前的内容，新特性一点不会。&lt;/li>
 &lt;/ul>
-&lt;hr>
-&lt;blockquote>
+&lt;h2>关于教师&lt;span class="absolute -mt-20" id="关于教师">&lt;/span>
+&lt;a href="#%e5%85%b3%e4%ba%8e%e6%95%99%e5%b8%88" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;blockquote>
 &lt;p>by &lt;a href="https://github.com/lmh12138" target="_blank" rel="noopener">@lmh&lt;/a>&lt;/p>
 &lt;/blockquote>
-&lt;h2>关于教师&lt;span class="absolute -mt-20" id="关于教师">&lt;/span>
-&lt;a href="#%e5%85%b3%e4%ba%8e%e6%95%99%e5%b8%88" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>教师上课风格没有很活泼，照着 ppt 念，而且速度偏快。&lt;/p>
+&lt;p>教师上课风格没有很活泼，照着 ppt 念，而且速度偏快。&lt;/p>
 &lt;p>听课并不必须，因为 C语言 的语法，主要不是听讲学来的，而是自己敲代码所体悟到，上课建议可以自己敲敲代码。&lt;/p>
 &lt;h2>关于实验&lt;span class="absolute -mt-20" id="关于实验">&lt;/span>
 &lt;a href="#%e5%85%b3%e4%ba%8e%e5%ae%9e%e9%aa%8c" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>实验一共九次。前四次实验较简单，而且是独立实验。后五次实验难度较大，代码量较大，综合考察指针、数组、函数、结构体，任务大体相似，只是具体要求不同。&lt;/p>
@@ -981,6 +986,13 @@
 &lt;img src="https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-20%25-wheat" alt="Static Badge" loading="lazy" />
 &lt;img src="https://img.shields.io/badge/%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95-30%25-wheat" alt="Static Badge" loading="lazy" />
 &lt;img src="https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-50%25-wheat" alt="Static Badge" loading="lazy" />&lt;/p>
+&lt;h2>教材&lt;span class="absolute -mt-20" id="教材">&lt;/span>
+&lt;a href="#%e6%95%99%e6%9d%90" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>
+&lt;p>大学数学. 线性代数与空间解析几何 / 郑宝东，郭潇，王忠英编. &amp;ndash;5版. &amp;ndash;北京：高等教育出版社，2021.11&lt;/p>
+&lt;p>ISBN 978-7-04-056810-3&lt;/p>
+&lt;/li>
+&lt;/ul>
 &lt;h2>授课教师&lt;span class="absolute -mt-20" id="授课教师">&lt;/span>
 &lt;a href="#%e6%8e%88%e8%af%be%e6%95%99%e5%b8%88" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
 &lt;li>Zeng Jiwen
