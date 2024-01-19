@@ -514,4 +514,1993 @@ title="Copy code"
 &lt;tr>&lt;td>3&lt;/td>&lt;td>大三上&lt;/td>&lt;td>&lt;a href="https://hoa.moe/docs/junior-autumn/auto3003/">数字图像处理&lt;/a>&lt;/td>&lt;td>2.0&lt;/td>&lt;td>32&lt;/td>&lt;td>24&lt;/td>&lt;td>8&lt;/td>&lt;td>&amp;nbsp;&lt;/td>&lt;/tr>
 &lt;tr>&lt;td>4&lt;/td>&lt;td>大三下&lt;/td>&lt;td>&lt;a href="https://hoa.moe/docs/junior-spring/auto3006/">机器视觉&lt;/a>&lt;/td>&lt;td>选修&lt;/td>&lt;td>2.0&lt;/td>&lt;td>32&lt;/td>&lt;td>24&lt;/td>&lt;td>8&lt;/td>&lt;td>&amp;nbsp;&lt;/td>&lt;/tr>&lt;/tbody>
 &lt;/table>&lt;/figure>
-按此选课策略，可以修满控制理论与控制工程模块的6学分和智能检测模块的4学分而达标。</description></item></channel></rss>
+按此选课策略，可以修满控制理论与控制工程模块的6学分和智能检测模块的4学分而达标。</description></item><item><title>在 Typora 中快速上手 Markdown 与 Latex</title><link>https://hoa.moe/blog/markdown-in-typora/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/blog/markdown-in-typora/</guid><description>
+&lt;p>Typora 是一款支持实时预览的 Markdown 文本编辑器。为了保证良好的 Markdown编辑体验，我们建议您先安装 Typora 后再来阅读之后的教程。同时，由于 Markdown 语法较为简单，本文不作过多文字性描述，只提供示例的 Markdown 代码与在 Typora 中可以简单实现的 Latex 代码。读者只需要在 Typora 中输入对应的代码，即可看到实时预览的效果。&lt;/p>
+&lt;h2>一、标题&lt;span class="absolute -mt-20" id="一标题">&lt;/span>
+&lt;a href="#%e4%b8%80%e6%a0%87%e9%a2%98" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;blockquote>
+&lt;p>语法：# (一级标题) ## (二级标题) ### (三级标题) &amp;hellip;&amp;hellip;&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>代码：&lt;/p>
+&lt;div class="code-block relative mt-6 first:mt-0 group/code">&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl"># 这是一级标题
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">## 这是二级标题&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0">
+&lt;button
+class="code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;div class="hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>效果:&lt;/p>
+&lt;h1>这是一级标题&lt;/h1>&lt;h2>这是二级标题&lt;span class="absolute -mt-20" id="这是二级标题">&lt;/span>
+&lt;a href="#%e8%bf%99%e6%98%af%e4%ba%8c%e7%ba%a7%e6%a0%87%e9%a2%98" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;/blockquote>
+&lt;blockquote>
+&lt;p>快捷键:&lt;/p>
+&lt;ul>
+&lt;li>Ctrl+数字1~6可以快速将选中的文本调成对应级别的标题&lt;/li>
+&lt;li>Ctrl+0可以快速将选中的文本调成普通文本&lt;/li>
+&lt;li>Ctrl+加号/减号对标题级别进行加减&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;h2>二、段落&lt;span class="absolute -mt-20" id="二段落">&lt;/span>
+&lt;a href="#%e4%ba%8c%e6%ae%b5%e8%90%bd" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>1、换行&lt;span class="absolute -mt-20" id="1换行">&lt;/span>
+&lt;a href="#1%e6%8d%a2%e8%a1%8c" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;blockquote>
+&lt;p>代码:&lt;/p>
+&lt;div class="code-block relative mt-6 first:mt-0 group/code">&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl">这是一个段落
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">这是一个段落&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0">
+&lt;button
+class="code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;div class="hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>效果:&lt;/p>
+&lt;p>这是一个段落
+这是一个段落&lt;/p>
+&lt;/blockquote>
+&lt;h3>2、分割线&lt;span class="absolute -mt-20" id="2分割线">&lt;/span>
+&lt;a href="#2%e5%88%86%e5%89%b2%e7%ba%bf" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;blockquote>
+&lt;p>语法: &amp;mdash;或者***+回车&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>代码:&lt;/p>
+&lt;div class="code-block relative mt-6 first:mt-0 group/code">&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl">---或者***&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0">
+&lt;button
+class="code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;div class="hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>效果:&lt;/p>
+&lt;hr>
+&lt;/blockquote>
+&lt;h2>三、文字显示&lt;span class="absolute -mt-20" id="三文字显示">&lt;/span>
+&lt;a href="#%e4%b8%89%e6%96%87%e5%ad%97%e6%98%be%e7%a4%ba" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>1、字体&lt;span class="absolute -mt-20" id="1字体">&lt;/span>
+&lt;a href="#1%e5%ad%97%e4%bd%93" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;blockquote>
+&lt;p>语法:&lt;/p>
+&lt;ul>
+&lt;li>粗体: 用一对双星号包裹&lt;/li>
+&lt;li>删除线: 用一对双飘号包裹&lt;/li>
+&lt;li>下划线: 用一对u标签包裹&lt;/li>
+&lt;li>斜体: 用一对单星号包裹&lt;/li>
+&lt;li>高亮: 用一对双等号包裹&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>代码:&lt;/p>
+&lt;div class="code-block relative mt-6 first:mt-0 group/code">&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl">**这是粗体**
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">~~这是删除线~~
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&amp;lt;u&amp;gt;这是下划线&amp;lt;/u&amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">*这是斜体*
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">==这是高亮==&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0">
+&lt;button
+class="code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;div class="hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>效果:
+&lt;strong>这是粗体&lt;/strong>
+&lt;del>这是删除线&lt;/del>
+&lt;u>这是下划线&lt;/u>
+&lt;em>这是斜体&lt;/em>&lt;/p>
+&lt;/blockquote>
+&lt;p>&lt;img src="highlight.png" alt="这是高亮" loading="lazy" />&lt;/p>
+&lt;blockquote>
+&lt;p>快捷键:&lt;/p>
+&lt;ul>
+&lt;li>加粗: Ctrl+B&lt;/li>
+&lt;li>删除线: Shift+Alt+5&lt;/li>
+&lt;li>下划线: Ctrl+U&lt;/li>
+&lt;li>斜体: Ctrl+I&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;h3>2、上下标&lt;span class="absolute -mt-20" id="2上下标">&lt;/span>
+&lt;a href="#2%e4%b8%8a%e4%b8%8b%e6%a0%87" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;blockquote>
+&lt;p>代码:&lt;/p>
+&lt;div class="code-block relative mt-6 first:mt-0 group/code">&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl">x^2^
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">H~2~O&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0">
+&lt;button
+class="code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;div class="hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;/blockquote>
+&lt;p>&lt;img src="super-and-sub.png" alt="上下标" loading="lazy" />&lt;/p>
+&lt;h2>四、列表&lt;span class="absolute -mt-20" id="四列表">&lt;/span>
+&lt;a href="#%e5%9b%9b%e5%88%97%e8%a1%a8" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>1、无序列表&lt;span class="absolute -mt-20" id="1无序列表">&lt;/span>
+&lt;a href="#1%e6%97%a0%e5%ba%8f%e5%88%97%e8%a1%a8" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;blockquote>
+&lt;p>代码:&lt;/p>
+&lt;div class="code-block relative mt-6 first:mt-0 group/code">&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl">*/-/+ +空格&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0">
+&lt;button
+class="code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;div class="hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>效果:
+1.只有同一级别:&lt;/p>
+&lt;ul>
+&lt;li>苹果&lt;/li>
+&lt;li>香蕉&lt;/li>
+&lt;li>橘子&lt;/li>
+&lt;/ul>
+&lt;p>2.子集类:&lt;/p>
+&lt;ul>
+&lt;li>一级分类
+&lt;ul>
+&lt;li>二级分类
+&lt;ul>
+&lt;li>三级分类&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>快捷键: Ctrl+Shift+]&lt;/p>
+&lt;/blockquote>
+&lt;h3>2、有序列表&lt;span class="absolute -mt-20" id="2有序列表">&lt;/span>
+&lt;a href="#2%e6%9c%89%e5%ba%8f%e5%88%97%e8%a1%a8" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;blockquote>
+&lt;p>代码:&lt;/p>
+&lt;div class="code-block relative mt-6 first:mt-0 group/code">&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl">数字+.+空格&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0">
+&lt;button
+class="code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;div class="hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>效果:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>第一个标题&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>第二个标题&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>第三个标题&lt;/p>
+&lt;ul>
+&lt;li>子内容1&lt;/li>
+&lt;li>子内容2&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>第四个标题&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>快捷键: Ctrl+Shift+[&lt;/p>
+&lt;/blockquote>
+&lt;h3>3、任务列表&lt;span class="absolute -mt-20" id="3任务列表">&lt;/span>
+&lt;a href="#3%e4%bb%bb%e5%8a%a1%e5%88%97%e8%a1%a8" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;blockquote>
+&lt;p>代码:&lt;/p>
+&lt;div class="code-block relative mt-6 first:mt-0 group/code">&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl">- [ ] 吃早餐
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">- [x] 背单词&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0">
+&lt;button
+class="code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;div class="hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>效果:&lt;/p>
+&lt;ul>
+&lt;li>&lt;input disabled="" type="checkbox"> 吃早餐&lt;/li>
+&lt;li>&lt;input checked="" disabled="" type="checkbox"> 背单词&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;h2>五、区块显示&lt;span class="absolute -mt-20" id="五区块显示">&lt;/span>
+&lt;a href="#%e4%ba%94%e5%8c%ba%e5%9d%97%e6%98%be%e7%a4%ba" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;blockquote>
+&lt;p>代码:&lt;/p>
+&lt;div class="code-block relative mt-6 first:mt-0 group/code">&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl">&amp;gt;+回车&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0">
+&lt;button
+class="code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;div class="hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>效果:&lt;/p>
+&lt;blockquote>
+&lt;p>这是最外层区块&lt;/p>
+&lt;blockquote>
+&lt;p>这是内层区块&lt;/p>
+&lt;/blockquote>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;blockquote>
+&lt;blockquote>
+&lt;p>这是最内层区块&lt;/p>
+&lt;/blockquote>
+&lt;/blockquote>
+&lt;/blockquote>
+&lt;/blockquote>
+&lt;h2>六、代码显示&lt;span class="absolute -mt-20" id="六代码显示">&lt;/span>
+&lt;a href="#%e5%85%ad%e4%bb%a3%e7%a0%81%e6%98%be%e7%a4%ba" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>1、行内代码&lt;span class="absolute -mt-20" id="1行内代码">&lt;/span>
+&lt;a href="#1%e8%a1%8c%e5%86%85%e4%bb%a3%e7%a0%81" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;blockquote>
+&lt;p>代码:&lt;/p>
+&lt;div class="code-block relative mt-6 first:mt-0 group/code">&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl">`int a=0;`（说明：`位于Esc下面）&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0">
+&lt;button
+class="code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;div class="hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>效果:
+&lt;code>int a=0;&lt;/code>&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>快捷键: Ctrl+Shift+`&lt;/p>
+&lt;/blockquote>
+&lt;h3>2、代码块&lt;span class="absolute -mt-20" id="2代码块">&lt;/span>
+&lt;a href="#2%e4%bb%a3%e7%a0%81%e5%9d%97" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;blockquote>
+&lt;p>代码:&lt;/p>
+&lt;div class="code-block relative mt-6 first:mt-0 group/code">&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl">```js/java/c#/text
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">内容
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">```&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0">
+&lt;button
+class="code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;div class="hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>快捷键: Ctrl+Shift+K&lt;/p>
+&lt;/blockquote>
+&lt;h2>七、链接&lt;span class="absolute -mt-20" id="七链接">&lt;/span>
+&lt;a href="#%e4%b8%83%e9%93%be%e6%8e%a5" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;blockquote>
+&lt;p>代码:&lt;/p>
+&lt;div class="code-block relative mt-6 first:mt-0 group/code">&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl">www.baidu.com
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">[百度一下](https://www.baidu.com)
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">[百度一下](https://www.baidu.com &amp;#34;https://www.baidu.com&amp;#34;)&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0">
+&lt;button
+class="code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;div class="hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>效果:
+&lt;a href="https://www.baidu.com" target="_blank" rel="noopener">www.baidu.com&lt;/a>
+&lt;a href="https://www.baidu.com" target="_blank" rel="noopener">百度一下&lt;/a>
+&lt;a href="https://www.baidu.com" title="https://www.baidu.com"target="_blank" rel="noopener">百度一下&lt;/a>&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>快捷键: Ctrl+K&lt;/p>
+&lt;/blockquote>
+&lt;h2>八、脚注&lt;span class="absolute -mt-20" id="八脚注">&lt;/span>
+&lt;a href="#%e5%85%ab%e8%84%9a%e6%b3%a8" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;blockquote>
+&lt;p>说明: 对文本进行解释说明。&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>代码:&lt;/p>
+&lt;div class="code-block relative mt-6 first:mt-0 group/code">&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl">[^文本]
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">[^文本]:解释说明&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0">
+&lt;button
+class="code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;div class="hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>效果:
+这是一个技术&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>&lt;/p>
+&lt;/blockquote>
+&lt;h2>九、图片插入&lt;span class="absolute -mt-20" id="九图片插入">&lt;/span>
+&lt;a href="#%e4%b9%9d%e5%9b%be%e7%89%87%e6%8f%92%e5%85%a5" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;blockquote>
+&lt;p>代码:&lt;/p>
+&lt;div class="code-block relative mt-6 first:mt-0 group/code">&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl">![不显示的文字](图片路径 &amp;#34;图片标题&amp;#34;)&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0">
+&lt;button
+class="code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;div class="hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>快捷键: Ctrl+Shift+I&lt;/p>
+&lt;/blockquote>
+&lt;h2>十、表格&lt;span class="absolute -mt-20" id="十表格">&lt;/span>
+&lt;a href="#%e5%8d%81%e8%a1%a8%e6%a0%bc" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;blockquote>
+&lt;p>代码:&lt;/p>
+&lt;div class="code-block relative mt-6 first:mt-0 group/code">&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl">| 1 | 2 | 3 |
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">| :--- | :--: | ---: |
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">| 4 | 5 | 6 |
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">| 7 | 8 | 9 |
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">| 10 | 11 | 12 |&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0">
+&lt;button
+class="code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;div class="hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>效果:&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>1&lt;/th>
+&lt;th style="text-align:center">2&lt;/th>
+&lt;th style="text-align:right">3&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>4&lt;/td>
+&lt;td style="text-align:center">5&lt;/td>
+&lt;td style="text-align:right">6&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>7&lt;/td>
+&lt;td style="text-align:center">8&lt;/td>
+&lt;td style="text-align:right">9&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>10&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:right">12&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>快捷键: Ctrl+T&lt;/p>
+&lt;/blockquote>
+&lt;h2>十一、流程图&lt;span class="absolute -mt-20" id="十一流程图">&lt;/span>
+&lt;a href="#%e5%8d%81%e4%b8%80%e6%b5%81%e7%a8%8b%e5%9b%be" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>1、横向流程图&lt;span class="absolute -mt-20" id="1横向流程图">&lt;/span>
+&lt;a href="#1%e6%a8%aa%e5%90%91%e6%b5%81%e7%a8%8b%e5%9b%be" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;blockquote>
+&lt;p>代码:&lt;/p>
+&lt;div class="code-block relative mt-6 first:mt-0 group/code">&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl">```mermaid
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">graph LR
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">A[方形]==&amp;gt;B(圆角)
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">B==&amp;gt;C{条件a}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">C--&amp;gt;|a=1|D[结果1]
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">C--&amp;gt;|a=2|E[结果2]
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">F[横向流程图]
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">```&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0">
+&lt;button
+class="code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;div class="hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>效果:&lt;/p>
+&lt;pre class="mermaid mt-6">graph LR
+A[方形]==>B(圆角)
+B==>C{条件a}
+C-->|a=1|D[结果1]
+C-->|a=2|E[结果2]
+F[横向流程图]&lt;/pre>&lt;/blockquote>
+&lt;h3>2、竖向流程图&lt;span class="absolute -mt-20" id="2竖向流程图">&lt;/span>
+&lt;a href="#2%e7%ab%96%e5%90%91%e6%b5%81%e7%a8%8b%e5%9b%be" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;blockquote>
+&lt;p>代码:&lt;/p>
+&lt;div class="code-block relative mt-6 first:mt-0 group/code">&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl">```mermaid
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">graph TD
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">A[方形]==&amp;gt;B(圆角)
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">B==&amp;gt;C{条件a}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">C--&amp;gt;|a=1|D[结果1]
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">C--&amp;gt;|a=2|E[结果2]
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">F[竖向流程图]
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">```&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0">
+&lt;button
+class="code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;div class="hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>效果:&lt;/p>
+&lt;pre class="mermaid mt-6">graph TD
+A[方形]==>B(圆角)
+B==>C{条件a}
+C-->|a=1|D[结果1]
+C-->|a=2|E[结果2]
+F[竖向流程图]&lt;/pre>&lt;/blockquote>
+&lt;h2>&lt;span class="absolute -mt-20" id="heading">&lt;/span>
+&lt;a href="#heading" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h2>十二、表情符号&lt;span class="absolute -mt-20" id="十二表情符号">&lt;/span>
+&lt;a href="#%e5%8d%81%e4%ba%8c%e8%a1%a8%e6%83%85%e7%ac%a6%e5%8f%b7" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;blockquote>
+&lt;p>代码:&lt;/p>
+&lt;div class="code-block relative mt-6 first:mt-0 group/code">&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl">:happy:、:cry:、:man:&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0">
+&lt;button
+class="code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;div class="hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;/blockquote>
+&lt;p>&lt;img src="emoji.png" alt="emoji" loading="lazy" />&lt;/p>
+&lt;h2>十三、数学公式的输入&lt;span class="absolute -mt-20" id="十三数学公式的输入">&lt;/span>
+&lt;a href="#%e5%8d%81%e4%b8%89%e6%95%b0%e5%ad%a6%e5%85%ac%e5%bc%8f%e7%9a%84%e8%be%93%e5%85%a5" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>1、公式的插入&lt;span class="absolute -mt-20" id="1公式的插入">&lt;/span>
+&lt;a href="#1%e5%85%ac%e5%bc%8f%e7%9a%84%e6%8f%92%e5%85%a5" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;h4>①行中公式&lt;span class="absolute -mt-20" id="行中公式">&lt;/span>
+&lt;a href="#%e8%a1%8c%e4%b8%ad%e5%85%ac%e5%bc%8f" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;blockquote>
+&lt;p>代码:&lt;/p>
+&lt;div class="code-block relative mt-6 first:mt-0 group/code">&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl">$x=0$&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0">
+&lt;button
+class="code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;div class="hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>效果:
+$x=0$&lt;/p>
+&lt;/blockquote>
+&lt;h4>②独立公式&lt;span class="absolute -mt-20" id="独立公式">&lt;/span>
+&lt;a href="#%e7%8b%ac%e7%ab%8b%e5%85%ac%e5%bc%8f" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;blockquote>
+&lt;p>代码:&lt;/p>
+&lt;div class="code-block relative mt-6 first:mt-0 group/code">&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl">$$
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">x=0
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">$$&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0">
+&lt;button
+class="code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;div class="hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>效果:
+$$
+x=0
+$$&lt;/p>
+&lt;/blockquote>
+&lt;h3>2、上下标&lt;span class="absolute -mt-20" id="2上下标-1">&lt;/span>
+&lt;a href="#2%e4%b8%8a%e4%b8%8b%e6%a0%87-1" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;blockquote>
+&lt;p>代码:&lt;/p>
+&lt;div class="code-block relative mt-6 first:mt-0 group/code">&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl">$x^{y^z}=(1+e^x)^{-2xy^w}$
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">$\underset{6}\bigotimes$&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0">
+&lt;button
+class="code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;div class="hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>效果:&lt;/p>
+&lt;p>$x^{y^z}=(1+e^x)^{-2xy^w}$&lt;/p>
+&lt;p>$\underset{6}\bigotimes$&lt;/p>
+&lt;/blockquote>
+&lt;h3>3、括号和分隔符&lt;span class="absolute -mt-20" id="3括号和分隔符">&lt;/span>
+&lt;a href="#3%e6%8b%ac%e5%8f%b7%e5%92%8c%e5%88%86%e9%9a%94%e7%ac%a6" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;blockquote>
+&lt;p>代码:&lt;/p>
+&lt;div class="code-block relative mt-6 first:mt-0 group/code">&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl">$\langle\quad\rangle\quad\lceil\quad\rceil\quad\lfloor\quad\rfloor\quad\lbrace\quad\rbrace\quad\lVert\quad\rVert$
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">$f(x,y,z)=3y^2z\left(3+\dfrac{7x+5}{1+y^2}\right)$
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">$\left.\dfrac{\mathrm{d}u}{\mathrm{d}x}\right|_{x=0}$&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0">
+&lt;button
+class="code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;div class="hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>效果:&lt;/p>
+&lt;p>$\langle\quad\rangle\quad\lceil\quad\rceil\quad\lfloor\quad\rfloor\quad\lbrace\quad\rbrace\quad\lVert\quad\rVert$&lt;/p>
+&lt;p>$f(x,y,z)=3y^2z\left(3+\dfrac{7x+5}{1+y^2}\right)$&lt;/p>
+&lt;p>$\left.\dfrac{\mathrm{d}u}{\mathrm{d}x}\right|_{x=0}$&lt;/p>
+&lt;/blockquote>
+&lt;h3>4、分数&lt;span class="absolute -mt-20" id="4分数">&lt;/span>
+&lt;a href="#4%e5%88%86%e6%95%b0" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;blockquote>
+&lt;p>代码:&lt;/p>
+&lt;div class="code-block relative mt-6 first:mt-0 group/code">&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl">$\frac{a}{b}\quad\dfrac{a}{b}\quad {a\over b}$&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0">
+&lt;button
+class="code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;div class="hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>效果:
+$\frac{a}{b}\quad\dfrac{a}{b}\quad {a\over b}$&lt;/p>
+&lt;/blockquote>
+&lt;h3>5、开方&lt;span class="absolute -mt-20" id="5开方">&lt;/span>
+&lt;a href="#5%e5%bc%80%e6%96%b9" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;blockquote>
+&lt;p>代码:&lt;/p>
+&lt;div class="code-block relative mt-6 first:mt-0 group/code">&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl">$\sqrt{2}\quad\sqrt[3]{2}$&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0">
+&lt;button
+class="code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;div class="hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>效果:
+$\sqrt{2}\quad\sqrt[3]{2}$&lt;/p>
+&lt;/blockquote>
+&lt;h3>6、省略号&lt;span class="absolute -mt-20" id="6省略号">&lt;/span>
+&lt;a href="#6%e7%9c%81%e7%95%a5%e5%8f%b7" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;blockquote>
+&lt;p>代码:&lt;/p>
+&lt;div class="code-block relative mt-6 first:mt-0 group/code">&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl">$\cdots\quad\ldots\quad\vdots\quad\ddots$&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0">
+&lt;button
+class="code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;div class="hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>效果:
+$\cdots\quad\ldots\quad\vdots\quad\ddots$&lt;/p>
+&lt;/blockquote>
+&lt;h3>7、矢量和均值&lt;span class="absolute -mt-20" id="7矢量和均值">&lt;/span>
+&lt;a href="#7%e7%9f%a2%e9%87%8f%e5%92%8c%e5%9d%87%e5%80%bc" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;blockquote>
+&lt;p>代码:&lt;/p>
+&lt;div class="code-block relative mt-6 first:mt-0 group/code">&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl">$
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">\overrightarrow{E(\vec{r})}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">\overleftarrow{E(\vec{r})}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">\overleftrightarrow{E(\vec{r})}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">\underrightarrow{E(\vec{r})}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">\underleftarrow{E(\vec{r})}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">\underleftrightarrow{E(\vec{r})}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">\overline{v}=\bar{v}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">\underline{v}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">$&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0">
+&lt;button
+class="code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;div class="hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>效果:
+$\overrightarrow{E(\vec{r})}\quad\overleftarrow{E(\vec{r})}\quad\overleftrightarrow{E(\vec{r})}\quad\underrightarrow{E(\vec{r})}\quad\underleftarrow{E(\vec{r})}\quad\underleftrightarrow{E(\vec{r})}\quad\overline{v}=\bar{v}\quad\underline{v}$&lt;/p>
+&lt;/blockquote>
+&lt;h3>8、积分&lt;span class="absolute -mt-20" id="8积分">&lt;/span>
+&lt;a href="#8%e7%a7%af%e5%88%86" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;blockquote>
+&lt;p>代码:&lt;/p>
+&lt;div class="code-block relative mt-6 first:mt-0 group/code">&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl">$$
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">\iint\limits_D\left(\dfrac{\partial Q}{\partial x}-\dfrac{\partial P}{\partial y}\right){\rm d}x{\rm d}y=\oint\limits_LP{\rm d}x+Q{\rm d}y
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">$$&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0">
+&lt;button
+class="code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;div class="hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>效果:
+$$
+\iint\limits_D\left(\dfrac{\partial Q}{\partial x}-\dfrac{\partial P}{\partial y}\right){\rm d}x{\rm d}y=\oint\limits_LP{\rm d}x+Q{\rm d}y
+$$&lt;/p>
+&lt;/blockquote>
+&lt;h3>9、极限&lt;span class="absolute -mt-20" id="9极限">&lt;/span>
+&lt;a href="#9%e6%9e%81%e9%99%90" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;blockquote>
+&lt;p>代码:&lt;/p>
+&lt;div class="code-block relative mt-6 first:mt-0 group/code">&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl">$\lim\limits_{n\to\infin}(1+\dfrac{1}{n})^n=e$&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0">
+&lt;button
+class="code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;div class="hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>效果:
+$\lim\limits_{n\to\infin}(1+\dfrac{1}{n})^n=e$&lt;/p>
+&lt;/blockquote>
+&lt;h3>10、累加、累乘及交集、并集&lt;span class="absolute -mt-20" id="10累加累乘及交集并集">&lt;/span>
+&lt;a href="#10%e7%b4%af%e5%8a%a0%e7%b4%af%e4%b9%98%e5%8f%8a%e4%ba%a4%e9%9b%86%e5%b9%b6%e9%9b%86" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;blockquote>
+&lt;div class="code-block relative mt-6 first:mt-0 group/code">&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl">$
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">\sum\limits_{i=1}^n\dfrac{1}{n^2}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">\prod\limits_{i=1}^n\dfrac{1}{n^2}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">\bigcup\limits_{i=1}^n\dfrac{1}{n^2}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">\bigcap\limits_{i=1}^n\dfrac{1}{n^2}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">$&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0">
+&lt;button
+class="code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;div class="hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>效果:
+$\sum\limits_{i=1}^n\dfrac{1}{n^2}\quad \quad\prod\limits_{i=1}^n\dfrac{1}{n^2}\quad \quad\bigcup\limits_{i=1}^n\dfrac{1}{n^2}\quad \quad\bigcap\limits_{i=1}^n\dfrac{1}{n^2}$&lt;/p>
+&lt;/blockquote>
+&lt;h3>11、希腊字母&lt;span class="absolute -mt-20" id="11希腊字母">&lt;/span>
+&lt;a href="#11%e5%b8%8c%e8%85%8a%e5%ad%97%e6%af%8d" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>语法&lt;/th>
+&lt;th>字母&lt;/th>
+&lt;th>语法&lt;/th>
+&lt;th>字母&lt;/th>
+&lt;th>语法&lt;/th>
+&lt;th>字母&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>\Alpha(\alpha)&lt;/td>
+&lt;td>$\Alpha(\alpha)$&lt;/td>
+&lt;td>\Beta(\beta)&lt;/td>
+&lt;td>$\Beta(\beta)$&lt;/td>
+&lt;td>\Gamma(\gamma)&lt;/td>
+&lt;td>$\Gamma(\gamma)$&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>\Epsilon(\epsilon)\varepsilon&lt;/td>
+&lt;td>$\Epsilon(\epsilon)\varepsilon$&lt;/td>
+&lt;td>\Zeta(\zeta)&lt;/td>
+&lt;td>$\Zeta(\zeta)$&lt;/td>
+&lt;td>\Eta(\eta)&lt;/td>
+&lt;td>$\Eta(\eta)$&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>\Iota(\iota)&lt;/td>
+&lt;td>$\Iota(\iota)$&lt;/td>
+&lt;td>\Kappa(\kappa)\varkappa&lt;/td>
+&lt;td>$\Kappa(\kappa)\varkappa$&lt;/td>
+&lt;td>\Lambda(\lambda)&lt;/td>
+&lt;td>$\Lambda(\lambda)$&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>\Nu(\nu)&lt;/td>
+&lt;td>$\Nu(\nu)$&lt;/td>
+&lt;td>\Xi(\xi)&lt;/td>
+&lt;td>$\Xi(\xi)$&lt;/td>
+&lt;td>\Omicron(\omicron)&lt;/td>
+&lt;td>$\Omicron(\omicron)$&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>\Rho(\rho)\varrho&lt;/td>
+&lt;td>$\Rho(\rho)\varrho$&lt;/td>
+&lt;td>\Sigma(\sigma)\varsigma&lt;/td>
+&lt;td>$\Sigma(\sigma)\varsigma$&lt;/td>
+&lt;td>\Tau(\tau)&lt;/td>
+&lt;td>$\Tau(\tau)$&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>\Phi(\phi)\varphi&lt;/td>
+&lt;td>$\Phi(\phi)\varphi$&lt;/td>
+&lt;td>\Chi(\chi)&lt;/td>
+&lt;td>$\Chi(\chi)$&lt;/td>
+&lt;td>\Psi(\psi)&lt;/td>
+&lt;td>$\Psi(\psi)$&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>\Delta(\delta)&lt;/td>
+&lt;td>$\Delta(\delta)$&lt;/td>
+&lt;td>\Theta(\theta)\vartheta&lt;/td>
+&lt;td>$\Theta(\theta)\vartheta$&lt;/td>
+&lt;td>\Mu(\mu)&lt;/td>
+&lt;td>$\Mu(\mu)$&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>\Pi(\pi)\varpi&lt;/td>
+&lt;td>$\Pi(\pi)\varpi$&lt;/td>
+&lt;td>\Omega(\omega)&lt;/td>
+&lt;td>$\Omega(\omega)$&lt;/td>
+&lt;td>\upsilon&lt;/td>
+&lt;td>$\upsilon$&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>\ell&lt;/td>
+&lt;td>$\ell$&lt;/td>
+&lt;td>\eth&lt;/td>
+&lt;td>$\eth$&lt;/td>
+&lt;td>\hbar&lt;/td>
+&lt;td>$\hbar$&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>\hslash&lt;/td>
+&lt;td>$\hslash$&lt;/td>
+&lt;td>\mho&lt;/td>
+&lt;td>$\mho$&lt;/td>
+&lt;td>\partial&lt;/td>
+&lt;td>$\partial$&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h3>12、特殊字符&lt;span class="absolute -mt-20" id="12特殊字符">&lt;/span>
+&lt;a href="#12%e7%89%b9%e6%ae%8a%e5%ad%97%e7%ac%a6" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;h4>①说明&lt;span class="absolute -mt-20" id="说明">&lt;/span>
+&lt;a href="#%e8%af%b4%e6%98%8e" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;blockquote>
+&lt;p>可以在字符前使用&lt;code>\large&lt;/code>或&lt;code>\small&lt;/code>以显示更大或更小的字符。${\LARGE A}{\Large A}{\large A}A{\small A}$&lt;/p>
+&lt;/blockquote>
+&lt;h4>②关系运算符&lt;span class="absolute -mt-20" id="关系运算符">&lt;/span>
+&lt;a href="#%e5%85%b3%e7%b3%bb%e8%bf%90%e7%ae%97%e7%ac%a6" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>输入&lt;/th>
+&lt;th>显示&lt;/th>
+&lt;th>输入&lt;/th>
+&lt;th>显示&lt;/th>
+&lt;th>输入&lt;/th>
+&lt;th>显示&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>\pm(\mp)&lt;/td>
+&lt;td>$\pm(\mp)$&lt;/td>
+&lt;td>\times&lt;/td>
+&lt;td>$\times$&lt;/td>
+&lt;td>\div&lt;/td>
+&lt;td>$\div$&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>\nmid&lt;/td>
+&lt;td>$\nmid$&lt;/td>
+&lt;td>\cdot&lt;/td>
+&lt;td>$\cdot$&lt;/td>
+&lt;td>\mid&lt;/td>
+&lt;td>$\mid$&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>\bigodot&lt;/td>
+&lt;td>$\bigodot$&lt;/td>
+&lt;td>\bigotimes&lt;/td>
+&lt;td>$\bigotimes$&lt;/td>
+&lt;td>\bigoplus&lt;/td>
+&lt;td>$\bigoplus$&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>\ge&lt;/td>
+&lt;td>$\ge$&lt;/td>
+&lt;td>\le&lt;/td>
+&lt;td>$\le$&lt;/td>
+&lt;td>\ll&lt;/td>
+&lt;td>$\ll$&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>\geqslant&lt;/td>
+&lt;td>$\geqslant$&lt;/td>
+&lt;td>\leqslant&lt;/td>
+&lt;td>$\leqslant$&lt;/td>
+&lt;td>\neq&lt;/td>
+&lt;td>$\neq$&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>\approx&lt;/td>
+&lt;td>$\approx$&lt;/td>
+&lt;td>\xlongequal{text}&lt;/td>
+&lt;td>$\xlongequal{text}$&lt;/td>
+&lt;td>\triangleq&lt;/td>
+&lt;td>$\triangleq$&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>\sim&lt;/td>
+&lt;td>$\sim$&lt;/td>
+&lt;td>\doteq&lt;/td>
+&lt;td>$\doteq$&lt;/td>
+&lt;td>\equiv&lt;/td>
+&lt;td>$\equiv$&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>\cong&lt;/td>
+&lt;td>$\cong$&lt;/td>
+&lt;td>\propto&lt;/td>
+&lt;td>$\propto$&lt;/td>
+&lt;td>\parallel(\&lt;/td>
+&lt;td>)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>\prec&lt;/td>
+&lt;td>$\prec$&lt;/td>
+&lt;td>\pmod{2}&lt;/td>
+&lt;td>$\pmod{2}$&lt;/td>
+&lt;td>\bmod&lt;/td>
+&lt;td>$\bmod{2}$&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h4>③集合运算符&lt;span class="absolute -mt-20" id="集合运算符">&lt;/span>
+&lt;a href="#%e9%9b%86%e5%90%88%e8%bf%90%e7%ae%97%e7%ac%a6" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>输入&lt;/th>
+&lt;th>显示&lt;/th>
+&lt;th>输入&lt;/th>
+&lt;th>显示&lt;/th>
+&lt;th>输入&lt;/th>
+&lt;th>显示&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>\emptyset&lt;/td>
+&lt;td>$\emptyset$&lt;/td>
+&lt;td>\varnothing&lt;/td>
+&lt;td>$\varnothing$&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>\subset&lt;/td>
+&lt;td>$\subset$&lt;/td>
+&lt;td>\subseteq&lt;/td>
+&lt;td>$\subseteq$&lt;/td>
+&lt;td>\subsetneq&lt;/td>
+&lt;td>$\subsetneq$&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>\supset&lt;/td>
+&lt;td>$\supset$&lt;/td>
+&lt;td>\supseteq&lt;/td>
+&lt;td>$\supseteq$&lt;/td>
+&lt;td>\supsetneq&lt;/td>
+&lt;td>$\supsetneq$&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>\bigcap&lt;/td>
+&lt;td>$\bigcap$&lt;/td>
+&lt;td>\bigcup&lt;/td>
+&lt;td>$\bigcup$&lt;/td>
+&lt;td>\setminus&lt;/td>
+&lt;td>$\setminus$&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>\bigvee&lt;/td>
+&lt;td>$\bigvee$&lt;/td>
+&lt;td>\bigwedge&lt;/td>
+&lt;td>$\bigwedge$&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>\in&lt;/td>
+&lt;td>$\in$&lt;/td>
+&lt;td>\notin&lt;/td>
+&lt;td>$\notin$&lt;/td>
+&lt;td>\ni&lt;/td>
+&lt;td>$\ni$&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h4>④三角运算符&lt;span class="absolute -mt-20" id="三角运算符">&lt;/span>
+&lt;a href="#%e4%b8%89%e8%a7%92%e8%bf%90%e7%ae%97%e7%ac%a6" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>输入&lt;/th>
+&lt;th>显示&lt;/th>
+&lt;th>输入&lt;/th>
+&lt;th>显示&lt;/th>
+&lt;th>输入&lt;/th>
+&lt;th>显示&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>\circ&lt;/td>
+&lt;td>$\circ$&lt;/td>
+&lt;td>\bot&lt;/td>
+&lt;td>$\bot$&lt;/td>
+&lt;td>\angle&lt;/td>
+&lt;td>$\angle$&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>\degree&lt;/td>
+&lt;td>$\degree$&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h4>⑤微积分运算符&lt;span class="absolute -mt-20" id="微积分运算符">&lt;/span>
+&lt;a href="#%e5%be%ae%e7%a7%af%e5%88%86%e8%bf%90%e7%ae%97%e7%ac%a6" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>输入&lt;/th>
+&lt;th>显示&lt;/th>
+&lt;th>输入&lt;/th>
+&lt;th>显示&lt;/th>
+&lt;th>输入&lt;/th>
+&lt;th>显示&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>\int&lt;/td>
+&lt;td>$\int$&lt;/td>
+&lt;td>\iint&lt;/td>
+&lt;td>$\iint$&lt;/td>
+&lt;td>\iiint&lt;/td>
+&lt;td>$\iiint$&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>\oint&lt;/td>
+&lt;td>$\oint$&lt;/td>
+&lt;td>\oiint&lt;/td>
+&lt;td>$\oiint$&lt;/td>
+&lt;td>\prime(‘)&lt;/td>
+&lt;td>$\prime$&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>\lim&lt;/td>
+&lt;td>$\lim$&lt;/td>
+&lt;td>\infin&lt;/td>
+&lt;td>$\infin$&lt;/td>
+&lt;td>\nabla&lt;/td>
+&lt;td>$\nabla$&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>\grad&lt;/td>
+&lt;td>∇&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h4>⑥逻辑运算符&lt;span class="absolute -mt-20" id="逻辑运算符">&lt;/span>
+&lt;a href="#%e9%80%bb%e8%be%91%e8%bf%90%e7%ae%97%e7%ac%a6" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>输入&lt;/th>
+&lt;th>显示&lt;/th>
+&lt;th>输入&lt;/th>
+&lt;th>显示&lt;/th>
+&lt;th>输入&lt;/th>
+&lt;th>显示&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>\because&lt;/td>
+&lt;td>$\because$&lt;/td>
+&lt;td>\therefore&lt;/td>
+&lt;td>$\therefore$&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>\forall&lt;/td>
+&lt;td>$\forall$&lt;/td>
+&lt;td>\exist&lt;/td>
+&lt;td>$\exist$&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>\not&amp;gt;&lt;/td>
+&lt;td>$\not&amp;gt;$&lt;/td>
+&lt;td>\not&amp;lt;&lt;/td>
+&lt;td>$\not&amp;lt;$&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>\land&lt;/td>
+&lt;td>$\land$&lt;/td>
+&lt;td>\lor&lt;/td>
+&lt;td>$\lor$&lt;/td>
+&lt;td>\lnot&lt;/td>
+&lt;td>$\lnot$&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>\top&lt;/td>
+&lt;td>$\top$&lt;/td>
+&lt;td>\vdash&lt;/td>
+&lt;td>$\vdash$&lt;/td>
+&lt;td>\vDash&lt;/td>
+&lt;td>$\vDash$&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h4>⑦带帽符号&lt;span class="absolute -mt-20" id="带帽符号">&lt;/span>
+&lt;a href="#%e5%b8%a6%e5%b8%bd%e7%ac%a6%e5%8f%b7" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>输入&lt;/th>
+&lt;th>显示&lt;/th>
+&lt;th>输入&lt;/th>
+&lt;th>显示&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>\hat{xy}&lt;/td>
+&lt;td>$\hat{xy}$&lt;/td>
+&lt;td>\widehat{xyz}&lt;/td>
+&lt;td>$\widehat{xyz}$&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>\tilde{xy}&lt;/td>
+&lt;td>$\tilde{xy}$&lt;/td>
+&lt;td>\widetilde{xyz}&lt;/td>
+&lt;td>$\widetilde{xyz}$&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>\check{x}&lt;/td>
+&lt;td>$\check{x}$&lt;/td>
+&lt;td>\breve{y}&lt;/td>
+&lt;td>$\breve{y}$&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>\grave{x}&lt;/td>
+&lt;td>$\grave{x}$&lt;/td>
+&lt;td>\acute{y}&lt;/td>
+&lt;td>$\acute{y}$&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>\dot{x}&lt;/td>
+&lt;td>$\dot{x}$&lt;/td>
+&lt;td>\ddot{x}&lt;/td>
+&lt;td>$\ddot{x}$&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h4>⑧选取符号&lt;span class="absolute -mt-20" id="选取符号">&lt;/span>
+&lt;a href="#%e9%80%89%e5%8f%96%e7%ac%a6%e5%8f%b7" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>输入&lt;/th>
+&lt;th>显示&lt;/th>
+&lt;th>输入&lt;/th>
+&lt;th>显示&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>\fbox{a+b+c+d}&lt;/td>
+&lt;td>$\fbox{a+b+c+d}$&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>\overbrace{xx\cdots x}^{lots of x}&lt;/td>
+&lt;td>$\overbrace{xx\cdots x}^{lots;of;x}$&lt;/td>
+&lt;td>\underbrace{xx\cdots x}_{lots of x}&lt;/td>
+&lt;td>$\underbrace{xx\cdots x}_{lots;of;x}$&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h4>⑨箭头符号&lt;span class="absolute -mt-20" id="箭头符号">&lt;/span>
+&lt;a href="#%e7%ae%ad%e5%a4%b4%e7%ac%a6%e5%8f%b7" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>输入&lt;/th>
+&lt;th>显示&lt;/th>
+&lt;th>输入&lt;/th>
+&lt;th>显示&lt;/th>
+&lt;th>输入&lt;/th>
+&lt;th>显示&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>\leftarrow&lt;/td>
+&lt;td>$\leftarrow$&lt;/td>
+&lt;td>\rightarrow&lt;/td>
+&lt;td>$\rightarrow$&lt;/td>
+&lt;td>\leftrightarrow&lt;/td>
+&lt;td>$\leftrightarrow$&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>\longleftarrow&lt;/td>
+&lt;td>$\longleftarrow$&lt;/td>
+&lt;td>\longrightarrow&lt;/td>
+&lt;td>$\longrightarrow$&lt;/td>
+&lt;td>\longleftrightarrow&lt;/td>
+&lt;td>$\longleftrightarrow$&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>\Leftarrow&lt;/td>
+&lt;td>$\Leftarrow$&lt;/td>
+&lt;td>\Rightarrow&lt;/td>
+&lt;td>$\Rightarrow$&lt;/td>
+&lt;td>\Leftrightarrow&lt;/td>
+&lt;td>$\Leftrightarrow$&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>\Longleftarrow&lt;/td>
+&lt;td>$\Longleftarrow$&lt;/td>
+&lt;td>\Longrightarrow&lt;/td>
+&lt;td>$\Longrightarrow$&lt;/td>
+&lt;td>\Longleftrightarrow&lt;/td>
+&lt;td>$\Longleftrightarrow$&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>\uparrow&lt;/td>
+&lt;td>$\uparrow$&lt;/td>
+&lt;td>\downarrow&lt;/td>
+&lt;td>$\downarrow$&lt;/td>
+&lt;td>\updownarrow&lt;/td>
+&lt;td>$\updownarrow$&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>\Uparrow&lt;/td>
+&lt;td>$\Uparrow$&lt;/td>
+&lt;td>\Downarrow&lt;/td>
+&lt;td>$\Downarrow$&lt;/td>
+&lt;td>\Updownarrow&lt;/td>
+&lt;td>$\Updownarrow$&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>\to&lt;/td>
+&lt;td>$\to$&lt;/td>
+&lt;td>\swarrow&lt;/td>
+&lt;td>$\swarrow$&lt;/td>
+&lt;td>\nearrow&lt;/td>
+&lt;td>$\nearrow$&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>\gets&lt;/td>
+&lt;td>$\gets$&lt;/td>
+&lt;td>\searrow&lt;/td>
+&lt;td>$\searrow$&lt;/td>
+&lt;td>\nwarrow&lt;/td>
+&lt;td>$\nwarrow$&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>\mapsto&lt;/td>
+&lt;td>$\mapsto$&lt;/td>
+&lt;td>\rightrightarrows&lt;/td>
+&lt;td>$\rightrightarrows$&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h4>⑩空格&lt;span class="absolute -mt-20" id="空格">&lt;/span>
+&lt;a href="#%e7%a9%ba%e6%a0%bc" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;p>&lt;img src="blank.png" alt="blank" loading="lazy" />&lt;/p>
+&lt;h3>13、字体&lt;span class="absolute -mt-20" id="13字体">&lt;/span>
+&lt;a href="#13%e5%ad%97%e4%bd%93" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;blockquote>
+&lt;p>代码:&lt;/p>
+&lt;div class="code-block relative mt-6 first:mt-0 group/code">&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl">${\字体{需要转换的字符}}$&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0">
+&lt;button
+class="code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;div class="hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;/blockquote>
+&lt;p>&lt;img src="font.png" alt="font" loading="lazy" />&lt;/p>
+&lt;h3>14、大括号和行标&lt;span class="absolute -mt-20" id="14大括号和行标">&lt;/span>
+&lt;a href="#14%e5%a4%a7%e6%8b%ac%e5%8f%b7%e5%92%8c%e8%a1%8c%e6%a0%87" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;blockquote>
+&lt;p>说明: 使用&lt;code>\left&lt;/code>和&lt;code>\right&lt;/code>来创建自动匹配高度的&lt;code>()&lt;/code>、&lt;code>[]&lt;/code>、&lt;code>{}&lt;/code>、&lt;code>.&lt;/code>。在每个公式末尾使用&lt;code>\tag{行标}&lt;/code>来实现行标。&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>代码:&lt;/p>
+&lt;div class="code-block relative mt-6 first:mt-0 group/code">&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl">$$
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">f\left(
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">\left[
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">\dfrac{1+\{x,y\}}{\left(\dfrac{x}{y}+\dfrac{y}{x}\right)(u+1)}+a
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">\right]
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">^{\dfrac{3}{2}}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">\right)
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">\tag{行标}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">$$&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0">
+&lt;button
+class="code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;div class="hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>效果:
+$$
+f\left(\left[\dfrac{1+{x,y}}{\left(\dfrac{x}{y}+\dfrac{y}{x}\right)(u+1)}+a\right]^{\dfrac{3}{2}}\right)\tag{1}
+$$&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>说明:如果你想将行内显示的分隔符也变大,也可以使用&lt;code>\middle&lt;/code>命令&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>代码:&lt;/p>
+&lt;div class="code-block relative mt-6 first:mt-0 group/code">&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl">$$
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">\left\langle q\middle\|\dfrac{\dfrac{x}{y}}{\dfrac{u}{v}}\middle|p\right\rangle
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">$$&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0">
+&lt;button
+class="code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;div class="hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>效果:
+$$
+\left\langle q\middle|\dfrac{\dfrac{x}{y}}{\dfrac{u}{v}}\middle|p\right\rangle
+$$&lt;/p>
+&lt;/blockquote>
+&lt;h3>15、其他命令&lt;span class="absolute -mt-20" id="15其他命令">&lt;/span>
+&lt;a href="#15%e5%85%b6%e4%bb%96%e5%91%bd%e4%bb%a4" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;h4>①注释文字&lt;span class="absolute -mt-20" id="注释文字">&lt;/span>
+&lt;a href="#%e6%b3%a8%e9%87%8a%e6%96%87%e5%ad%97" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;blockquote>
+&lt;p>代码:&lt;/p>
+&lt;div class="code-block relative mt-6 first:mt-0 group/code">&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl">$\text{文字}$&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0">
+&lt;button
+class="code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;div class="hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>效果:
+$$
+f(n)=\begin{cases}n/2,&amp;amp;\text{if $n$ is even}\3n+1,&amp;amp;\text{if $n$ is odd}\end{cases}
+$$&lt;/p>
+&lt;/blockquote>
+&lt;h4>③文字颜色&lt;span class="absolute -mt-20" id="文字颜色">&lt;/span>
+&lt;a href="#%e6%96%87%e5%ad%97%e9%a2%9c%e8%89%b2" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;blockquote>
+&lt;ul>
+&lt;li>适用新旧浏览器
+代码:&lt;/li>
+&lt;/ul>
+&lt;div class="code-block relative mt-6 first:mt-0 group/code">&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl">$\color{颜色}{文字}$&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0">
+&lt;button
+class="code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;div class="hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;/blockquote>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>输入&lt;/th>
+&lt;th>显示&lt;/th>
+&lt;th>输入&lt;/th>
+&lt;th>显示&lt;/th>
+&lt;th>输入&lt;/th>
+&lt;th>显示&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>black&lt;/td>
+&lt;td>$\color{black}{color}$&lt;/td>
+&lt;td>grey&lt;/td>
+&lt;td>$\color{grey}{color}$&lt;/td>
+&lt;td>silver&lt;/td>
+&lt;td>$\color{silver}{color}$&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>white&lt;/td>
+&lt;td>$\color{white}{color}$&lt;/td>
+&lt;td>maroon&lt;/td>
+&lt;td>$\color{maroon}{color}$&lt;/td>
+&lt;td>red&lt;/td>
+&lt;td>$\color{red}{color}$&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>yellow&lt;/td>
+&lt;td>$\color{yellow}{color}$&lt;/td>
+&lt;td>lime&lt;/td>
+&lt;td>$\color{lime}{color}$&lt;/td>
+&lt;td>olive&lt;/td>
+&lt;td>$\color{olive}{color}$&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>green&lt;/td>
+&lt;td>$\color{green}{color}$&lt;/td>
+&lt;td>teal&lt;/td>
+&lt;td>$\color{teal}{color}$&lt;/td>
+&lt;td>auqa&lt;/td>
+&lt;td>$\color{auqa}{color}$&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>blue&lt;/td>
+&lt;td>$\color{blue}{color}$&lt;/td>
+&lt;td>navy&lt;/td>
+&lt;td>$\color{navy}{color}$&lt;/td>
+&lt;td>purple&lt;/td>
+&lt;td>$\color{purple}{color}$&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>fuchsia&lt;/td>
+&lt;td>$\color{fuchsia}{color}$&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;blockquote>
+&lt;ul>
+&lt;li>适用新版浏览器
+代码:&lt;/li>
+&lt;/ul>
+&lt;div class="code-block relative mt-6 first:mt-0 group/code">&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl">$\color{#rgb}{文字}$ (注:其中r、g、b可以输入0~9和a~f来分别表示红色、绿色和蓝色的纯度)&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0">
+&lt;button
+class="code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;div class="hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;/blockquote>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>输入&lt;/th>
+&lt;th>输出&lt;/th>
+&lt;th>输入&lt;/th>
+&lt;th>输出&lt;/th>
+&lt;th>输入&lt;/th>
+&lt;th>输出&lt;/th>
+&lt;th>输入&lt;/th>
+&lt;th>输出&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>#000&lt;/td>
+&lt;td>$\color{#000}{color}$&lt;/td>
+&lt;td>#005&lt;/td>
+&lt;td>$\color{#005}{color}$&lt;/td>
+&lt;td>#00A&lt;/td>
+&lt;td>$\color{#00A}{color}$&lt;/td>
+&lt;td>#00F&lt;/td>
+&lt;td>$\color{#00F}{color}$&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>#500&lt;/td>
+&lt;td>$\color{#500}{color}$&lt;/td>
+&lt;td>#505&lt;/td>
+&lt;td>$\color{#505}{color}$&lt;/td>
+&lt;td>#50A&lt;/td>
+&lt;td>$\color{#50A}{color}$&lt;/td>
+&lt;td>#50F&lt;/td>
+&lt;td>$\color{#50F}{color}$&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>#A00&lt;/td>
+&lt;td>$\color{#A00}{color}$&lt;/td>
+&lt;td>#A05&lt;/td>
+&lt;td>$\color{#A05}{color}$&lt;/td>
+&lt;td>#A0A&lt;/td>
+&lt;td>$\color{#A0A}{color}$&lt;/td>
+&lt;td>#A0F&lt;/td>
+&lt;td>$\color{#A0F}{color}$&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>#F00&lt;/td>
+&lt;td>$\color{#F00}{color}$&lt;/td>
+&lt;td>#F05&lt;/td>
+&lt;td>$\color{#F05}{color}$&lt;/td>
+&lt;td>#F0A&lt;/td>
+&lt;td>$\color{#F0A}{color}$&lt;/td>
+&lt;td>#F0F&lt;/td>
+&lt;td>$\color{#F0F}{color}$&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>#050&lt;/td>
+&lt;td>$\color{#050}{color}$&lt;/td>
+&lt;td>#055&lt;/td>
+&lt;td>$\color{#055}{color}$&lt;/td>
+&lt;td>#05A&lt;/td>
+&lt;td>$\color{#05A}{color}$&lt;/td>
+&lt;td>#05F&lt;/td>
+&lt;td>$\color{#05F}{color}$&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>#550&lt;/td>
+&lt;td>$\color{#550}{color}$&lt;/td>
+&lt;td>#555&lt;/td>
+&lt;td>$\color{#555}{color}$&lt;/td>
+&lt;td>#55A&lt;/td>
+&lt;td>$\color{#55A}{color}$&lt;/td>
+&lt;td>#55F&lt;/td>
+&lt;td>$\color{#55F}{color}$&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>#A50&lt;/td>
+&lt;td>$\color{#A50}{color}$&lt;/td>
+&lt;td>#A55&lt;/td>
+&lt;td>$\color{#A55}{color}$&lt;/td>
+&lt;td>#A5A&lt;/td>
+&lt;td>$\color{#A5A}{color}$&lt;/td>
+&lt;td>#A5F&lt;/td>
+&lt;td>$\color{#A5F}{color}$&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>#F50&lt;/td>
+&lt;td>$\color{#F50}{color}$&lt;/td>
+&lt;td>#F55&lt;/td>
+&lt;td>$\color{#F55}{color}$&lt;/td>
+&lt;td>#F5A&lt;/td>
+&lt;td>$\color{#F5A}{color}$&lt;/td>
+&lt;td>#F5F&lt;/td>
+&lt;td>$\color{#F5F}{color}$&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>#0A0&lt;/td>
+&lt;td>$\color{#0A0}{color}$&lt;/td>
+&lt;td>#0A5&lt;/td>
+&lt;td>$\color{#0A5}{color}$&lt;/td>
+&lt;td>#0AA&lt;/td>
+&lt;td>$\color{#0AA}{color}$&lt;/td>
+&lt;td>#0AF&lt;/td>
+&lt;td>$\color{#0AF}{color}$&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>#5A0&lt;/td>
+&lt;td>$\color{#5A0}{color}$&lt;/td>
+&lt;td>#5A5&lt;/td>
+&lt;td>$\color{#5A5}{color}$&lt;/td>
+&lt;td>#5AA&lt;/td>
+&lt;td>$\color{#5AA}{color}$&lt;/td>
+&lt;td>#5AF&lt;/td>
+&lt;td>$\color{#5AF}{color}$&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>#AA0&lt;/td>
+&lt;td>$\color{#AA0}{color}$&lt;/td>
+&lt;td>#AA5&lt;/td>
+&lt;td>$\color{#AA5}{color}$&lt;/td>
+&lt;td>#AAA&lt;/td>
+&lt;td>$\color{#AAA}{color}$&lt;/td>
+&lt;td>#AAF&lt;/td>
+&lt;td>$\color{#AAF}{color}$&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>#FA0&lt;/td>
+&lt;td>$\color{#FA0}{color}$&lt;/td>
+&lt;td>#FA5&lt;/td>
+&lt;td>$\color{#FA5}{color}$&lt;/td>
+&lt;td>#FAA&lt;/td>
+&lt;td>$\color{#FAA}{color}$&lt;/td>
+&lt;td>#FAF&lt;/td>
+&lt;td>$\color{#FAF}{color}$&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>#0F0&lt;/td>
+&lt;td>$\color{#0F0}{color}$&lt;/td>
+&lt;td>#0F5&lt;/td>
+&lt;td>$\color{#0F5}{color}$&lt;/td>
+&lt;td>#0FA&lt;/td>
+&lt;td>$\color{#0FA}{color}$&lt;/td>
+&lt;td>#0FF&lt;/td>
+&lt;td>$\color{#0FF}{color}$&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>#5F0&lt;/td>
+&lt;td>$\color{#5F0}{color}$&lt;/td>
+&lt;td>#5F5&lt;/td>
+&lt;td>$\color{#5F5}{color}$&lt;/td>
+&lt;td>#5FA&lt;/td>
+&lt;td>$\color{#5FA}{color}$&lt;/td>
+&lt;td>#5FF&lt;/td>
+&lt;td>$\color{#5FF}{color}$&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>#AF0&lt;/td>
+&lt;td>$\color{#AF0}{color}$&lt;/td>
+&lt;td>#AF5&lt;/td>
+&lt;td>$\color{#AF5}{color}$&lt;/td>
+&lt;td>#AFA&lt;/td>
+&lt;td>$\color{#AFA}{color}$&lt;/td>
+&lt;td>#AFF&lt;/td>
+&lt;td>$\color{#AFF}{color}$&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>#FF0&lt;/td>
+&lt;td>$\color{#FF0}{color}$&lt;/td>
+&lt;td>#FF5&lt;/td>
+&lt;td>$\color{#FF5}{color}$&lt;/td>
+&lt;td>#FFA&lt;/td>
+&lt;td>$\color{#FFA}{color}$&lt;/td>
+&lt;td>#FFF&lt;/td>
+&lt;td>$\color{#FFF}{color}$&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h4>③删除线&lt;span class="absolute -mt-20" id="删除线">&lt;/span>
+&lt;a href="#%e5%88%a0%e9%99%a4%e7%ba%bf" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;blockquote>
+&lt;p>说明: 使用&lt;code>\require{cancle}&lt;/code>声明，再使用&lt;code>\cancle{字符}&lt;/code>、&lt;code>\bcancle{字符}&lt;/code>、&lt;code>\xcancle{字符}&lt;/code>、&lt;code>\cancleto{字符}{字符}&lt;/code>来实现各种&lt;strong>片段删除线&lt;/strong>效果。&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>代码:&lt;/p>
+&lt;div class="code-block relative mt-6 first:mt-0 group/code">&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl">$$
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">\require{cancel}\begin{array}{r1}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">\verb|y+\cancel{x}|&amp;amp;y+\cancel{x}\\
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">\verb|y+\cancel{y+x}|&amp;amp;y+\cancel{y+x}\\
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">\verb|y+\bcancel{x}|&amp;amp;y+\bcancel{x}\\
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">\verb|y+\xcancel{x}|&amp;amp;y+\xcancel{x}\\
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">\verb|y+\cancelto{0}{x}|&amp;amp;y+\cancelto{0}{x}\\
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">\verb+\frac{1\cancel9}{\cancel95}=\frac15+&amp;amp;\frac{1\cancel9}{\cancel95}=\frac15\\
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">\end{array}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">$$&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0">
+&lt;button
+class="code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;div class="hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;/blockquote>
+&lt;p>&lt;img src="delete-line-one.png" alt="delete-line-one" loading="lazy" />&lt;/p>
+&lt;blockquote>
+&lt;p>说明: 使用&lt;code>\require{enclose}&lt;/code>来允许&lt;strong>整段删除线&lt;/strong>的显示，再使用&lt;code>\enclose{删除线效果}{字符}&lt;/code>来使用各种整段删除线效果。其中，删除线效果有&lt;code>horizontalstrike&lt;/code>、&lt;code>verticalstrike&lt;/code>、&lt;code>updiagonalstrike&lt;/code>和&lt;code>downdiagonalstrike&lt;/code>,可以叠加使用。&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>代码:&lt;/p>
+&lt;div class="code-block relative mt-6 first:mt-0 group/code">&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl">$$
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">\require{enclose}\begin{array}{r1}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">\verb|\enclose{horizontalstrike}{x+y}|&amp;amp;\enclose{horizontalstrike}{x+y}\\
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">\verb|\enclose{verticalstrike}{\frac xy}|&amp;amp;\enclose{verticalstrike}{\frac xy}\\
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">\verb|\enclose{updiagonalstrike}{x+y}|&amp;amp;\enclose{updiagonalstrike}{x+y}\\
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">\verb|\enclose{downdiagonalstrike}{x+y}|&amp;amp;\enclose{downdiagonalstrike}{x+y}\\
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">\verb|\enclose{horizontalstrike,updiagonalstrike}{x+y}|&amp;amp;\enclose{horizontalstrike,updiagonalstrike}{x+y}\\
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">\end{array}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">$$&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0">
+&lt;button
+class="code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;div class="hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;/blockquote>
+&lt;p>&lt;img src="delete-line-two.png" alt="delete-line-two" loading="lazy" />&lt;/p>
+&lt;h3>16、矩阵&lt;span class="absolute -mt-20" id="16矩阵">&lt;/span>
+&lt;a href="#16%e7%9f%a9%e9%98%b5" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;h4>①无框矩阵&lt;span class="absolute -mt-20" id="无框矩阵">&lt;/span>
+&lt;a href="#%e6%97%a0%e6%a1%86%e7%9f%a9%e9%98%b5" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;blockquote>
+&lt;p>代码:&lt;/p>
+&lt;div class="code-block relative mt-6 first:mt-0 group/code">&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl">$$
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">\begin{matrix}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">1&amp;amp;x&amp;amp;x^2\\
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">1&amp;amp;y&amp;amp;y^2\\
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">1&amp;amp;z&amp;amp;z^2\\
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">\end{matrix}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">$$&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0">
+&lt;button
+class="code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;div class="hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;/blockquote>
+&lt;p>&lt;img src="no-frame-mat.png" alt="" loading="lazy" />&lt;/p>
+&lt;h4>②边框矩阵&lt;span class="absolute -mt-20" id="边框矩阵">&lt;/span>
+&lt;a href="#%e8%be%b9%e6%a1%86%e7%9f%a9%e9%98%b5" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;blockquote>
+&lt;p>说明: 在开头将&lt;code>matrix&lt;/code>替换为&lt;code>pmatrix&lt;/code>、&lt;code>bmatrix&lt;/code>、&lt;code>Bmatrix&lt;/code>、&lt;code>vmatrix&lt;/code>、&lt;code>Vmatrix&lt;/code>。&lt;/p>
+&lt;/blockquote>
+&lt;p>&lt;img src="matrix.png" alt="" loading="lazy" />&lt;/p>
+&lt;h4>③带分割线的矩阵&lt;span class="absolute -mt-20" id="带分割线的矩阵">&lt;/span>
+&lt;a href="#%e5%b8%a6%e5%88%86%e5%89%b2%e7%ba%bf%e7%9a%84%e7%9f%a9%e9%98%b5" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;blockquote>
+&lt;p>说明: 可以使用&lt;code>cc|c&lt;/code>来在一个三列矩阵中插入分割线。&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>代码:&lt;/p>
+&lt;div class="code-block relative mt-6 first:mt-0 group/code">&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl">$$
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">\left[
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">\begin{array}{cc|c}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">1&amp;amp;2&amp;amp;3\\
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">4&amp;amp;5&amp;amp;6
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">\end{array}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">\right]
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">$$&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0">
+&lt;button
+class="code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;div class="hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;/blockquote>
+&lt;p>&lt;img src="seg-mat.png" alt="" loading="lazy" />&lt;/p>
+&lt;h3>17、方程式序列&lt;span class="absolute -mt-20" id="17方程式序列">&lt;/span>
+&lt;a href="#17%e6%96%b9%e7%a8%8b%e5%bc%8f%e5%ba%8f%e5%88%97" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;blockquote>
+&lt;p>说明: 可以使用&lt;code>\begin{align}...\end{align}&lt;/code>来创建一列整齐且默认右对齐的方程式序列。请注意&lt;code>{align}&lt;/code>是&lt;strong>自动编号&lt;/strong>的，使用&lt;code>{align*}&lt;/code>来声明停止自动编号，也可以使用&lt;code>\notag&lt;/code>来取消特定行的自动编号。在需要的时候，你可以使用&lt;code>\begin{equation}...\end{equation}&lt;/code>来强制表达式自动编号。&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>代码:
+$$
+\begin{align}
+f(x)&amp;amp;=1+1\
+&amp;amp;=2
+\end{align}
+$$&lt;/p>
+&lt;p>$$
+\begin{equation}
+\left[
+\begin{array}{cc|c}
+1&amp;amp;2&amp;amp;3\
+4&amp;amp;5&amp;amp;6
+\end{array}
+\right]
+\end{equation}
+$$&lt;/p>
+&lt;div class="code-block relative mt-6 first:mt-0 group/code">&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl">$$
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">\begin{align}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">\sqrt{37}=\sqrt{\dfrac{73^2-1}{12^2}}\\
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&amp;amp;=\sqrt{\dfrac{73^2}{12^2}\cdot\dfrac{73^2-1}{73^2}}\\
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&amp;amp;=\sqrt{\dfrac{73^2}{12^2}}\sqrt{\dfrac{73^2-1}{73^2}}\notag\\
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&amp;amp;=\dfrac{73}{12}\sqrt{1-\dfrac{1}{73^2}}\\
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">\approx\dfrac{73}{12}\left(1-\dfrac{1}{2\cdot73^2}\right)\label{A}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">\end{align}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">$$
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">***
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">$$
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">\begin{align*}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">v+m&amp;amp;=0&amp;amp;\text{Given}\tag1\\
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">-w&amp;amp;=-w+0&amp;amp;\text{additive identity}\tag2\\
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">-w+0&amp;amp;=-w+(v+w)&amp;amp;\text{equations $(1)$ and $(2)$}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">\end{align*}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">$$&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0">
+&lt;button
+class="code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;div class="hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;/blockquote>
+&lt;p>&lt;img src="align.png" alt="" loading="lazy" />&lt;/p>
+&lt;blockquote>
+&lt;p>你可以使用&lt;code>\label{标签}&lt;/code>来创建一个标签，就如上面的方程式序列中展示的那样，之后使用&lt;code>\eqref{标签}&lt;/code>引用你想引用的公式。如果不想要括号，可以输入&lt;code>\ref{标签}&lt;/code>。&lt;/p>
+&lt;p>公式1和2的不同列之间存在间隔，如果你不想要，可以通过将&lt;code>align&lt;/code>替换为&lt;code>alignat{1}&lt;/code>来去除列间隔。&lt;/p>
+&lt;/blockquote>
+&lt;h3>18、条件表达式&lt;span class="absolute -mt-20" id="18条件表达式">&lt;/span>
+&lt;a href="#18%e6%9d%a1%e4%bb%b6%e8%a1%a8%e8%be%be%e5%bc%8f" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;blockquote>
+&lt;p>说明: 使用&lt;code>\begin{cases}&lt;/code>来创造一组默认左对齐的条件表达式,在每一行插入&lt;code>&amp;amp;&lt;/code>来指定需要对齐的内容,并在每一行结尾处使用&lt;code>\\&lt;/code>,以&lt;code>\end{cases}&lt;/code>结尾。&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>代码:&lt;/p>
+&lt;div class="code-block relative mt-6 first:mt-0 group/code">&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl">$$
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">f(n)=
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">\begin{cases}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">n/2,&amp;amp;\text{if $n$ is even}\\
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">3n+1,&amp;amp;\text{if $n$ is odd}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">\end{cases}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">$$&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0">
+&lt;button
+class="code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;div class="hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;/blockquote>
+&lt;p>&lt;img src="cases.png" alt="" loading="lazy" />&lt;/p>
+&lt;h3>19、配置行高&lt;span class="absolute -mt-20" id="19配置行高">&lt;/span>
+&lt;a href="#19%e9%85%8d%e7%bd%ae%e8%a1%8c%e9%ab%98" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;blockquote>
+&lt;p>说明: 可以使用&lt;code>\\[2ex]&lt;/code>语句替代该行末尾的&lt;code>\\&lt;/code>来让编译器适配 , 其中&lt;code>[ex]&lt;/code>指一个&amp;quot;X-Height&amp;quot; , 即x字母高度 , 也可以使用&lt;code>[3ex]&lt;/code>或&lt;code>[4ex]&lt;/code>等。&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>代码:&lt;/p>
+&lt;div class="code-block relative mt-6 first:mt-0 group/code">&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl">$$
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">f(n)=
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">\begin{cases}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">\dfrac n2,&amp;amp;\text{if $n$ is even}\\[2ex]
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">3n+1,&amp;amp;\text{if $n$ is odd}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">\end{cases}\tag{适配[2ex]}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">$$
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">***
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">$$
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">f(n)=
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">\begin{cases}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">\dfrac n2,&amp;amp;\text{if $n$ is even}\\
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">3n+1,&amp;amp;\text{if $n$ is odd}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">\end{cases}\tag{不适配[2ex]}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">$$&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0">
+&lt;button
+class="code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;div class="hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;/blockquote>
+&lt;p>&lt;img src="line-height.png" alt="" loading="lazy" />&lt;/p>
+&lt;h3>20、数组与表格&lt;span class="absolute -mt-20" id="20数组与表格">&lt;/span>
+&lt;a href="#20%e6%95%b0%e7%bb%84%e4%b8%8e%e8%a1%a8%e6%a0%bc" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;blockquote>
+&lt;p>说明: 数组与表格均以&lt;code>\begin{array}&lt;/code>开头,并在其后定义列数及每一列的文本对齐方式,&lt;code>c&lt;/code> &lt;code>l&lt;/code> &lt;code>r&lt;/code>分别代表居中、左对齐及右对齐。若要插入垂直分割线，在定义中插入&lt;code>|&lt;/code>，若要插入水平分割线，在定义中加入&lt;code>\hline&lt;/code>。&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>代码:&lt;/p>
+&lt;div class="code-block relative mt-6 first:mt-0 group/code">&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl">$$
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">\begin{array}{c|lcr}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">n&amp;amp;\text{left}&amp;amp;\text{center}&amp;amp;\text{right}\\
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">\hline
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">1&amp;amp;0.24&amp;amp;1&amp;amp;125\\
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">2&amp;amp;-1&amp;amp;189&amp;amp;-8\\
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">3&amp;amp;-20&amp;amp;2000&amp;amp;1+10i
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">\end{array}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">$$&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0">
+&lt;button
+class="code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;div class="hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;/blockquote>
+&lt;p>&lt;img src="array.png" alt="" loading="lazy" />&lt;/p>
+&lt;h2>十四、支持的HTML元素&lt;span class="absolute -mt-20" id="十四支持的html元素">&lt;/span>
+&lt;a href="#%e5%8d%81%e5%9b%9b%e6%94%af%e6%8c%81%e7%9a%84html%e5%85%83%e7%b4%a0" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>1、文本居中&lt;span class="absolute -mt-20" id="1文本居中">&lt;/span>
+&lt;a href="#1%e6%96%87%e6%9c%ac%e5%b1%85%e4%b8%ad" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;blockquote>
+&lt;p>代码&lt;/p>
+&lt;div class="code-block relative mt-6 first:mt-0 group/code">&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl">&amp;lt;center&amp;gt;内容&amp;lt;/center&amp;gt;&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0">
+&lt;button
+class="code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;div class="hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>效果&lt;/p>
+&lt;center>内容&lt;/center>
+&lt;/blockquote>
+&lt;h3>2、快捷键显示&lt;span class="absolute -mt-20" id="2快捷键显示">&lt;/span>
+&lt;a href="#2%e5%bf%ab%e6%8d%b7%e9%94%ae%e6%98%be%e7%a4%ba" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;blockquote>
+&lt;p>代码:&lt;/p>
+&lt;div class="code-block relative mt-6 first:mt-0 group/code">&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl">&amp;lt;kbd&amp;gt;内容&amp;lt;/kbd&amp;gt;&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0">
+&lt;button
+class="code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;div class="hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>效果:
+&lt;kbd>内容&lt;/kbd>&lt;/p>
+&lt;/blockquote>
+&lt;h3>3、加粗&lt;span class="absolute -mt-20" id="3加粗">&lt;/span>
+&lt;a href="#3%e5%8a%a0%e7%b2%97" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;blockquote>
+&lt;p>代码:&lt;/p>
+&lt;div class="code-block relative mt-6 first:mt-0 group/code">&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl">&amp;lt;b&amp;gt;加粗&amp;lt;/b&amp;gt;&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0">
+&lt;button
+class="code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;div class="hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>效果:&lt;/p>
+&lt;p>&lt;b>加粗&lt;/b>&lt;/p>
+&lt;/blockquote>
+&lt;h3>4、倾斜&lt;span class="absolute -mt-20" id="4倾斜">&lt;/span>
+&lt;a href="#4%e5%80%be%e6%96%9c" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;blockquote>
+&lt;p>代码:&lt;/p>
+&lt;div class="code-block relative mt-6 first:mt-0 group/code">&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl">&amp;lt;i&amp;gt;倾斜&amp;lt;/i&amp;gt;&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0">
+&lt;button
+class="code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;div class="hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>效果:
+&lt;i>倾斜&lt;/i>&lt;/p>
+&lt;/blockquote>
+&lt;h3>5、上下标&lt;span class="absolute -mt-20" id="5上下标">&lt;/span>
+&lt;a href="#5%e4%b8%8a%e4%b8%8b%e6%a0%87" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;blockquote>
+&lt;p>代码:&lt;/p>
+&lt;div class="code-block relative mt-6 first:mt-0 group/code">&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl">开始&amp;lt;sup&amp;gt;123hi你好&amp;lt;/sup&amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">开始&amp;lt;sub&amp;gt;321hi你好&amp;lt;/sub&amp;gt;&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0">
+&lt;button
+class="code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;div class="hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>效果:
+开始&lt;sup>123hi你好&lt;/sup>
+开始&lt;sub>321hi你好&lt;/sub>&lt;/p>
+&lt;/blockquote>
+&lt;h3>6、填充的黑色箭头&lt;span class="absolute -mt-20" id="6填充的黑色箭头">&lt;/span>
+&lt;a href="#6%e5%a1%ab%e5%85%85%e7%9a%84%e9%bb%91%e8%89%b2%e7%ae%ad%e5%a4%b4" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;blockquote>
+&lt;p>代码：&lt;/p>
+&lt;div class="code-block relative mt-6 first:mt-0 group/code">&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl">&amp;amp;#x27A4;&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0">
+&lt;button
+class="code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;div class="hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>效果：
+➤&lt;/p>
+&lt;/blockquote>
+&lt;h2>参考资料&lt;span class="absolute -mt-20" id="参考资料">&lt;/span>
+&lt;a href="#%e5%8f%82%e8%80%83%e8%b5%84%e6%96%99" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://www.bilibili.com/video/BV1h84y1Y7nn/" target="_blank" rel="noopener">【Typora 教程】手把手教你如何用Typora撰写笔记&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;div class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1">
+&lt;p>这是一个非常好用的框架。&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/div></description></item></channel></rss>
