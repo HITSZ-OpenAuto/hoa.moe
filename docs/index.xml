@@ -2353,7 +2353,7 @@ cellspacing——单元格之间的间隔，单位像素
 &lt;p>by &lt;a href="https://github.com/MaxwellJay256" target="_blank" rel="noopener">@Maxwell Jay&lt;/a>, 2023.11&lt;/p>
 &lt;/blockquote>
 &lt;p>其实大家对复变函数应该不会陌生，因为在 &lt;a href="https://github.com/HITSZ-OpenAuto/EE1011A" target="_blank" rel="noopener">电路IA&lt;/a> 中，我们已经学过在频域上求解正弦电路和用拉普拉斯变换解决电路暂态响应的问题。这两部分内容都属于复变函数和积分变换的应用。&lt;/p>
-&lt;p>教材可以用《复变函数与积分变换 简明教程》，也可以用《复变函数与积分变换》（不简明教程），二者的差别见 [1]，但使用简明教程不会影响学习效果（主要还是以课上为主）。&lt;/p>
+&lt;p>教材可以用《复变函数与积分变换 简明教程》，也可以用《复变函数与积分变换》（不简明教程），但使用简明教程不会影响学习效果（主要还是以课上为主）&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>。&lt;/p>
 &lt;p>整个课程的教学内容相比微积分等要少很多，个别地方的内容相对比较难理解，作业难度比考试高很多（有很多证明题），因此期末复习时还是以往年的考试题为主，不要太过于纠结于作业题。&lt;/p>
 &lt;p>此外建议多和老师交流问题，直接问老师比起在学生群里和同学讨论的效率会高很多。我期末前找 bgj 聊了两次天之后感觉收获比在自救群里盯梢一个星期还大。&lt;/p>
 &lt;p>最后抛开考试，这门课的内容与后面的专业课关联还是很强的（你在 &lt;a href="https://github.com/HITSZ-OpenAuto/EE1011A" target="_blank" rel="noopener">电路IA&lt;/a> 中已经体会过一次了），因此还是要好好学习。&lt;/p>
@@ -2362,15 +2362,14 @@ cellspacing——单元格之间的间隔，单位像素
 &lt;/blockquote>
 &lt;p>如前所述，《复变函数与积分变换》这门课是后续许多专业课的基础。特别是傅里叶变换与拉普拉斯变换，是十分常用且有用的工具。但由于课时有限，与自动控制理论相关的一些经典内容，比如奈奎斯特稳定性判据的数学基础——辐角原理等，在“简明教程”中没有得到介绍。&lt;/p>
 &lt;p>这门课难点在于理解、证明，但又由于是工科数学课程，其实并不很为难大家。具体表现为考试题比作业题要简单不少。对于不满足于应试、想要加深理解的同学来说，仔细理解经典命题的证明过程，体会其中的思想方法，是很有帮助的。当然，对于工科同学而言，计算是基本功，通过一定的量的练习，需要能熟练掌握常见的积分变换对以及常用的方法、性质。&lt;del>你也不想到时候求不出二阶系统的阶跃响应时域表达式吧。&lt;/del>&lt;/p>
-&lt;p>关于这门课的内容，我写过一份讲义（已上传至该项目中），依照“简明教程”的结构，涵盖其中的第 2-5 章，相对基础，自认为足以用于梳理课内主干内容。此外，Bao Yixin 老师的讲义内容丰富，相较于教材更具深度，对学习这门课很有帮助；2020级大数据专业一位同学写过一份《复变函数简明教程的简明教程》（同上），也很不错，比我的讲义写得好。&lt;/p>
+&lt;p>关于这门课的内容，我写过一份讲义（已上传至该项目中），依照“简明教程”的结构，涵盖其中的第 2-5 章，相对基础，自认为足以用于梳理课内主干内容。此外，Bao Yixin 老师的讲义内容丰富，相较于教材更具深度，对学习这门课很有帮助；2020 级大数据专业一位同学写过一份《复变函数简明教程的简明教程》（同上），也很不错，比我的讲义写得好。&lt;/p>
 &lt;blockquote>
 &lt;p>本书适用于需要快速查看定理的同学，以及想要对数学增进一些了解的工科同学，和想要稍微预习或者复习一下复变函数的同学。 ——《复变函数简明教程的简明教程》&lt;/p>
 &lt;/blockquote>
-&lt;p>[1] 《复变函数与积分变换 简明教程》相较于《复变函数与积分变换》（第 3 版）进行了一些精简，具体有：删去了“保形映射”一章，省略了解析函数的物理意义、相关函数、傅里叶变换的应用、多维傅里叶变换、辐角原理与儒歇定理等内容。这些内容有的是较深入的理论知识，有的是较实际的应用场景，对于巩固复变函数与积分变换知识其实是有帮助的，如果是按照“简明教程”学习的同学，可以自行学习了解这些内容。删去后，使得内容更加精简、基础，便于压缩课时（这也正是“简明”的目的之一）。&lt;/p>
 &lt;h2>推荐参考书&lt;span class="absolute -mt-20" id="推荐参考书">&lt;/span>
 &lt;a href="#%e6%8e%a8%e8%8d%90%e5%8f%82%e8%80%83%e4%b9%a6" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ol>
 &lt;li>《复变函数》（史济怀、刘太顺 著）&lt;/li>
-&lt;li>Stein &amp;amp; Shakarchi: Complex Analysis
+&lt;li>&lt;em>Complex Analysis&lt;/em> - Stein &amp;amp; Shakarchi
 &lt;br>
 &lt;br>
 &lt;br>&lt;/li>
@@ -2595,7 +2594,15 @@ cellspacing——单元格之间的间隔，单位像素
 &lt;/li>
 &lt;/ul>
 &lt;br>
-&lt;img src="https://mitcher-1316637614.cos.ap-nanjing.myqcloud.com/hoa/20231112170457.png?imageSlim" alt="Reward_Code" style="zoom:25%; display: block; margin: 0 auto;" /></description></item><item><title>(必修)概率论与数理统计</title><link>https://hoa.moe/docs/sophomore-autumn/math1004/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/sophomore-autumn/math1004/</guid><description>
+&lt;img src="https://mitcher-1316637614.cos.ap-nanjing.myqcloud.com/hoa/20231112170457.png?imageSlim" alt="Reward_Code" style="zoom:25%; display: block; margin: 0 auto;" />
+&lt;div class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1">
+&lt;p>《复变函数与积分变换 简明教程》相较于《复变函数与积分变换》（第 3 版）进行了一些精简，具体有：删去了“保形映射”一章，省略了解析函数的物理意义、相关函数、傅里叶变换的应用、多维傅里叶变换、辐角原理与儒歇定理等内容。这些内容有的是较深入的理论知识，有的是较实际的应用场景，对于巩固复变函数与积分变换知识其实是有帮助的，如果是按照“简明教程”学习的同学，可以自行学习了解这些内容。删去后，使得内容更加精简、基础，便于压缩课时（这也正是“简明”的目的之一）。&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/div></description></item><item><title>(必修)概率论与数理统计</title><link>https://hoa.moe/docs/sophomore-autumn/math1004/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/sophomore-autumn/math1004/</guid><description>
 &lt;p>&lt;img src="https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE-red" alt="Static Badge" loading="lazy" />
 &lt;img src="https://img.shields.io/badge/%E5%AD%A6%E5%88%86-3-moccasin" alt="Static Badge" loading="lazy" />&lt;/p>
 &lt;p>&lt;img src="https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold" alt="Static Badge" loading="lazy" />
