@@ -1,4 +1,51 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HITSZ 自动化课程攻略共享计划 – 博客</title><link>https://hoa.moe/blog/</link><description>Recent content in 博客 on HITSZ 自动化课程攻略共享计划</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><atom:link href="https://hoa.moe/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Auto 技术指南：使用 Django 搭建一个登录页面</title><link>https://hoa.moe/blog/programming-language-guide-django/</link><pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate><guid>https://hoa.moe/blog/programming-language-guide-django/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HITSZ 自动化课程攻略共享计划 – 博客</title><link>https://hoa.moe/blog/</link><description>Recent content in 博客 on HITSZ 自动化课程攻略共享计划</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><atom:link href="https://hoa.moe/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>你的学生邮箱能薅到哪些羊毛？</title><link>https://hoa.moe/blog/privileges-with-edu-email/</link><pubDate>Mon, 29 Jan 2024 20:15:00 +0800</pubDate><guid>https://hoa.moe/blog/privileges-with-edu-email/</guid><description>
+&lt;p>许多工程、科研用的商业软件，尤其是国外的软件，如果购买商用的正版，往往价格不菲。
+但是好在许多软件厂商都会提供其产品的免费学生版或教育版，通过学校邮箱即可申请使用。&lt;/p>
+&lt;p>笔者整理了一些自动化专业学生常用到的、可用学生邮箱申请教育版的免费软件清单（我们亲自测试申请了以下所有许可证）。
+也欢迎大家在评论区补充，我会及时更新到正文中。&lt;/p>
+&lt;h2>1. 编程相关&lt;span class="absolute -mt-20" id="1-编程相关">&lt;/span>
+&lt;a href="#1-%e7%bc%96%e7%a8%8b%e7%9b%b8%e5%85%b3" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>GitHub&lt;span class="absolute -mt-20" id="github">&lt;/span>
+&lt;a href="#github" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>申请链接&lt;/strong>：&lt;a href="https://docs.github.com/zh/education/explore-the-benefits-of-teaching-and-learning-with-github-education/github-global-campus-for-students/apply-to-github-global-campus-as-a-student" target="_blank" rel="noopener">&lt;strong>以学生身份申请 GitHub Global Campus - GitHub 文档&lt;/strong>&lt;/a>&lt;/p>
+&lt;p>申请 GitHub Global Campus，相当于：&lt;/p>
+&lt;ul>
+&lt;li>将 GitHub 个人账户升级为 PRO&lt;/li>
+&lt;li>获得 &lt;a href="https://github.com/features/copilot" target="_blank" rel="noopener">&lt;strong>GitHub Copilot&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>获得包含 JetBrains 在内的 &lt;a href="https://education.github.com/pack/offers" target="_blank" rel="noopener">Student Developer Pack&lt;/a> 中的权益&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>GitHub Copilot 并非唯一的 AI 代码助手，它也有其他免费的替代品，例如 &lt;a href="https://www.tabnine.com/" target="_blank" rel="noopener">TabNine&lt;/a>，&lt;a href="https://www.codeium.com/" target="_blank" rel="noopener">Codeium&lt;/a> 等。&lt;/p>
+&lt;/blockquote>
+&lt;h3>JetBrains&lt;span class="absolute -mt-20" id="jetbrains">&lt;/span>
+&lt;a href="#jetbrains" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>申请链接&lt;/strong>：&lt;a href="https://www.jetbrains.com/zh-cn/community/education/#students" target="_blank" rel="noopener">&lt;strong>免费教育许可证 - JetBrains&lt;/strong>&lt;/a>&lt;/p>
+&lt;p>不巧的是，HIT 位于 JetBrains 的 &lt;a href="https://github.com/JetBrains/swot/blob/master/lib/domains/stoplist.txt" target="_blank" rel="noopener">stoplist&lt;/a> 中。
+因此在上述申请链接直接使用学生邮箱会申请失败；即使使用 GitHub Student Developer Pack 登录也可能遭到拒绝。&lt;/p>
+&lt;blockquote>
+&lt;p>笔者正在尝试使用学信网学籍认证文件进行申请，后续结果会在这里更新。&lt;/p>
+&lt;/blockquote>
+&lt;h3>Qt&lt;span class="absolute -mt-20" id="qt">&lt;/span>
+&lt;a href="#qt" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>申请链接&lt;/strong>：&lt;a href="https://www.qt.io/qt-educational-license" target="_blank" rel="noopener">&lt;strong>Qt Educational Licenses for Students and Teachers - Qt&lt;/strong>&lt;/a>&lt;/p>
+&lt;p>Qt 是一个跨平台的 &lt;code>C++&lt;/code> GUI 库，可以用于开发桌面应用、嵌入式应用、移动应用等。
+Qt 教育许可证可以免费为用户提供 Qt 的商业专业级功能。&lt;/p>
+&lt;h2>2. 硬件相关&lt;span class="absolute -mt-20" id="2-硬件相关">&lt;/span>
+&lt;a href="#2-%e7%a1%ac%e4%bb%b6%e7%9b%b8%e5%85%b3" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>Altium Designer&lt;span class="absolute -mt-20" id="altium-designer">&lt;/span>
+&lt;a href="#altium-designer" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>申请链接&lt;/strong>：&lt;a href="https://www.altium.com/education/students" target="_blank" rel="noopener">&lt;strong>Altium Student Lab - Altium&lt;/strong>&lt;/a>&lt;/p>
+&lt;p>Altium Designer 是一款电子设计自动化软件，用于电路原理图、PCB、FPGA 设计，由 Altium Ltd. 开发。&lt;/p>
+&lt;h3>Autodesk&lt;span class="absolute -mt-20" id="autodesk">&lt;/span>
+&lt;a href="#autodesk" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>申请链接&lt;/strong>：&lt;a href="https://www.autodesk.com.cn/education/edu-software" target="_blank" rel="noopener">&lt;strong>Autodesk 教育和学生访问权限 - Autodesk&lt;/strong>&lt;/a>&lt;/p>
+&lt;p>Autodesk 是一家专业的 CAD 软件公司，旗下的软件包括
+&lt;a href="https://www.autodesk.com.cn/products/autocad" target="_blank" rel="noopener">AutoCAD&lt;/a>,
+&lt;a href="https://www.autodesk.com.cn/products/3ds-max" target="_blank" rel="noopener">3ds Max&lt;/a>,
+&lt;a href="https://www.autodesk.com.cn/products/maya" target="_blank" rel="noopener">Maya&lt;/a> 等。&lt;/p>
+&lt;p>Autodesk 的教育访问权限允许用户免费获得其绝大多数软件产品，包括以上 3 项。&lt;/p>
+&lt;h2>3. 数据分析&lt;span class="absolute -mt-20" id="3-数据分析">&lt;/span>
+&lt;a href="#3-%e6%95%b0%e6%8d%ae%e5%88%86%e6%9e%90" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>MATLAB?&lt;span class="absolute -mt-20" id="matlab">&lt;/span>
+&lt;a href="#matlab" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>2020 年，HIT 被美国禁止使用 &lt;a href="https://www.mathworks.cn/products/matlab.html" target="_blank" rel="noopener">MATLAB&lt;/a>。&lt;/p>
+&lt;p>考虑使用 &lt;a href="https://www.gnu.org/software/octave/" target="_blank" rel="noopener">GNU Octave&lt;/a> 作为在公开研究中的替代。
+&lt;code>Python&lt;/code> 也可以胜任 MATLAB 除去 Simulink 之外的大部分工作。&lt;/p>
+&lt;p>或者前往淘宝购买正版成品账号，价格在 20 元左右，关键词 &lt;code>MATLAB 正版&lt;/code>。&lt;/p>
+&lt;h3>Origin&lt;span class="absolute -mt-20" id="origin">&lt;/span>
+&lt;a href="#origin" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>申请链接&lt;/strong>：&lt;a href="https://www.originlab.com/index.aspx?go=PRODUCTS/OriginStudentVersion" target="_blank" rel="noopener">&lt;strong>Origin Student Version - OriginLab&lt;/strong>&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://www.originlab.com/index.aspx?go=PRODUCTS/Origin" target="_blank" rel="noopener">Origin&lt;/a> 是来自 &lt;a href="https://www.originlab.com/" target="_blank" rel="noopener">OriginLab&lt;/a> 的数据分析和绘图软件，并且拥有 &lt;code>C++&lt;/code> 和 &lt;code>Python&lt;/code> API。&lt;/p></description></item><item><title>Auto 技术指南：使用 Django 搭建一个登录页面</title><link>https://hoa.moe/blog/programming-language-guide-django/</link><pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate><guid>https://hoa.moe/blog/programming-language-guide-django/</guid><description>
 &lt;p>Django是基于Python的网站后端语言，单独列出来一个章节似乎并不是很合适，但是如果从其逻辑和之前的C或Pure Python 并不太一样的角度出发，似乎又可以理解。以我的角度看，Django是一个动态的语言，它会运行到某个地方停住，然后等待一个用户发来一个request，然后根据request做出反应。因而基于逻辑的不同，独立章节似乎便有必要了。(本来笔者是打算合并在第二章的，但是学习过后发现单列出来更为合适。)&lt;/p>
 &lt;h3>搭建平台的准备工作&lt;span class="absolute -mt-20" id="搭建平台的准备工作">&lt;/span>
 &lt;a href="#%e6%90%ad%e5%bb%ba%e5%b9%b3%e5%8f%b0%e7%9a%84%e5%87%86%e5%a4%87%e5%b7%a5%e4%bd%9c" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>和之前的C或Pure Python不一样的是，django会自动提前生成很多的文件。(这一部分我们只演示一次，之后的范例会直接讲述对&lt;code>views.py&lt;/code>与&lt;code>templates/&amp;lt;project_name&amp;gt;/&amp;lt;name&amp;gt;.html&lt;/code>的操作)首先我们在Linux/Mac平台下的命令行输入&lt;/p>
