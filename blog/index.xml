@@ -42,7 +42,9 @@ Qt 教育许可证可以免费为用户提供 Qt 的商业专业级功能。&lt;
 &lt;a href="#matlab" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>2020 年，HIT 被美国禁止使用 &lt;a href="https://www.mathworks.cn/products/matlab.html" target="_blank" rel="noopener">MATLAB&lt;/a>。&lt;/p>
 &lt;p>考虑使用 &lt;a href="https://www.gnu.org/software/octave/" target="_blank" rel="noopener">GNU Octave&lt;/a> 作为在公开研究中的替代。
 &lt;code>Python&lt;/code> 也可以胜任 MATLAB 除去 Simulink 之外的大部分工作。&lt;/p>
-&lt;p>或者前往淘宝购买正版成品账号，价格在 20 元左右，关键词 &lt;code>MATLAB 正版&lt;/code>。&lt;/p>
+&lt;blockquote>
+&lt;p>也可以前往淘宝购买正版成品账号，价格在 20 元左右，关键词 &lt;code>MATLAB 正版&lt;/code>。&lt;/p>
+&lt;/blockquote>
 &lt;h3>Origin&lt;span class="absolute -mt-20" id="origin">&lt;/span>
 &lt;a href="#origin" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>申请链接&lt;/strong>：&lt;a href="https://www.originlab.com/index.aspx?go=PRODUCTS/OriginStudentVersion" target="_blank" rel="noopener">&lt;strong>Origin Student Version - OriginLab&lt;/strong>&lt;/a>&lt;/p>
 &lt;p>&lt;a href="https://www.originlab.com/index.aspx?go=PRODUCTS/Origin" target="_blank" rel="noopener">Origin&lt;/a> 是来自 &lt;a href="https://www.originlab.com/" target="_blank" rel="noopener">OriginLab&lt;/a> 的数据分析和绘图软件，并且拥有 &lt;code>C++&lt;/code> 和 &lt;code>Python&lt;/code> API。&lt;/p></description></item><item><title>Auto 技术指南：使用 Django 搭建一个登录页面</title><link>https://hoa.moe/blog/programming-language-guide-django/</link><pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate><guid>https://hoa.moe/blog/programming-language-guide-django/</guid><description>
