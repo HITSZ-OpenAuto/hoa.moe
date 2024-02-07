@@ -2261,11 +2261,18 @@ title="Copy code"
 &lt;/blockquote>
 &lt;h3>JetBrains&lt;span class="absolute -mt-20" id="jetbrains">&lt;/span>
 &lt;a href="#jetbrains" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>申请链接&lt;/strong>：&lt;a href="https://www.jetbrains.com/zh-cn/community/education/#students" target="_blank" rel="noopener">&lt;strong>免费教育许可证 - JetBrains&lt;/strong>&lt;/a>&lt;/p>
+&lt;p>JetBrains 是来自捷克的软件开发公司，针对许多编程语言提供了一系列的 IDE，例如面向 &lt;code>Java&lt;/code> 的 &lt;a href="https://www.jetbrains.com/idea/" target="_blank" rel="noopener">IntelliJ IDEA&lt;/a>、面向 &lt;code>Python&lt;/code> 的 &lt;a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noopener">PyCharm&lt;/a>、面向 &lt;code>C++&lt;/code> 的 &lt;a href="https://www.jetbrains.com/clion/" target="_blank" rel="noopener">CLion&lt;/a> 等。&lt;/p>
 &lt;p>不巧的是，HIT 位于 JetBrains 的 &lt;a href="https://github.com/JetBrains/swot/blob/master/lib/domains/stoplist.txt" target="_blank" rel="noopener">stoplist&lt;/a> 中。
 因此在上述申请链接直接使用学生邮箱会申请失败；即使使用 GitHub Student Developer Pack 登录也可能遭到拒绝。&lt;/p>
-&lt;blockquote>
-&lt;p>笔者正在尝试使用学信网学籍认证文件进行申请，后续结果会在这里更新。&lt;/p>
-&lt;/blockquote>
+&lt;ul>
+&lt;li>解决办法：&lt;/li>
+&lt;/ul>
+&lt;ol>
+&lt;li>使用 GitHub Student Developer Pack 登录遭到拒绝的原因是 JetBrains 发现你的 GitHub 用户中含有「xxx@stu.hit.edu.cn」的邮箱。
+因此，你可以临时将学生邮箱从你的 GitHub 账户中移除，再使用 GitHub 申请 JetBrains 教育许可证；等到需要更新你的 GitHub 学生认证时再将学生邮箱添加回去。&lt;/li>
+&lt;li>使用学信网的学籍证明申请 JetBrains 教育许可证。
+参考&lt;a href="https://zhuanlan.zhihu.com/p/378185042" target="_blank" rel="noopener">「Jetbrains 学生授权获取指南 - 知乎」&lt;/a>中的流程。&lt;/li>
+&lt;/ol>
 &lt;h3>Qt&lt;span class="absolute -mt-20" id="qt">&lt;/span>
 &lt;a href="#qt" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>申请链接&lt;/strong>：&lt;a href="https://www.qt.io/qt-educational-license" target="_blank" rel="noopener">&lt;strong>Qt Educational Licenses for Students and Teachers - Qt&lt;/strong>&lt;/a>&lt;/p>
 &lt;p>Qt 是一个跨平台的 &lt;code>C++&lt;/code> GUI 库，可以用于开发桌面应用、嵌入式应用、移动应用等。
