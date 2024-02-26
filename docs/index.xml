@@ -2897,6 +2897,35 @@ cellspacing——单元格之间的间隔，单位像素
 &lt;span class="ml-1">assignments&lt;/span>
 &lt;/button>
 &lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
+&lt;li class="group flex list-none flex-col">
+&lt;button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
+&lt;span data-state="closed" class="data-[state=open]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span data-state="closed" class="data-[state=closed]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span class="ml-1">2023_WJD_习题答案修订&lt;/span>
+&lt;/button>
+&lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/EE1011B/raw/main/assignments/2023_WJD_%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88%E4%BF%AE%E8%AE%A2/%E7%AC%AC10%E7%AB%A0%20%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94.pdf" class="ml-1">第10章 习题解答.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/EE1011B/raw/main/assignments/2023_WJD_%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88%E4%BF%AE%E8%AE%A2/%E7%AC%AC11%E7%AB%A0%20%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94.pdf" class="ml-1">第11章 习题解答.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/EE1011B/raw/main/assignments/2023_WJD_%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88%E4%BF%AE%E8%AE%A2/%E7%AC%AC12%E7%AB%A0%20%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94.pdf" class="ml-1">第12章 习题解答.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/EE1011B/raw/main/assignments/2023_WJD_%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88%E4%BF%AE%E8%AE%A2/%E7%AC%AC13%E7%AB%A0%20%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94.pdf" class="ml-1">第13章 习题解答.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/EE1011B/raw/main/assignments/2023_WJD_%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88%E4%BF%AE%E8%AE%A2/%E9%99%84%E5%BD%95A%20%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94.pdf" class="ml-1">附录A 习题解答.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
 &lt;li class="flex list-none">
 &lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/EE1011B/raw/main/assignments/ch10_%E4%BA%8C%E7%AB%AF%E5%8F%A3%E7%BD%91%E7%BB%9C.pdf" class="ml-1">ch10_二端口网络.pdf&lt;/a>
 &lt;/span>
@@ -2914,7 +2943,7 @@ cellspacing——单元格之间的间隔，单位像素
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/EE1011B/raw/main/assignments/%E7%94%B5%E8%B7%AF%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94.pdf" class="ml-1">电路习题解答.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/EE1011B/raw/main/assignments/%E7%94%B5%E8%B7%AF%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94%EF%BC%88%E5%8E%9F%E7%89%88%EF%BC%89.pdf" class="ml-1">电路习题解答（原版）.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
@@ -4187,6 +4216,95 @@ cellspacing——单元格之间的间隔，单位像素
 &lt;li>Charles K. Alexander, et al., Fundamentals of Electric Circuits(4th_Edition), McGraw-Hill, 2009.&lt;/li>
 &lt;/ol>
 &lt;p>&lt;strong>本门课是选课制，有两个老师授课，所有电气、自动化学生从两个老师的课里任选，而不是传统的按班级划分。所以了解老师的授课风格很重要。&lt;/strong>&lt;/p>
+&lt;h2>课程内容&lt;span class="absolute -mt-20" id="课程内容">&lt;/span>
+&lt;a href="#%e8%af%be%e7%a8%8b%e5%86%85%e5%ae%b9" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>孙立山、陈希有等编著，电路理论基础（第四版）&lt;strong>前9章&lt;/strong>。即：&lt;/p>
+&lt;details class="last-of-type:mb-0 rounded-lg bg-neutral-50 dark:bg-neutral-800 p-2 mt-4 group" >
+&lt;summary class="flex items-center cursor-pointer select-none list-none p-1 rounded transition-colors hover:bg-gray-100 dark:hover:bg-neutral-800 before:mr-1 before:inline-block before:transition-transform before:content-[''] dark:before:invert rtl:before:rotate-180 group-open:before:rotate-90">
+&lt;strong class="text-lg">第一章 电路元件和电路基本定律&lt;/strong>
+&lt;/summary>
+&lt;div class="p-2 overflow-hidden">
+主要内容是：电路和电路模型，基本物理量（电压、电流、电功率、电动势），参考方向与功率计算，电阻、电容、电感元件（时域模型）、独立电源与受控电源、基尔霍夫定律
+&lt;/div>
+&lt;/details>
+&lt;details class="last-of-type:mb-0 rounded-lg bg-neutral-50 dark:bg-neutral-800 p-2 mt-4 group" >
+&lt;summary class="flex items-center cursor-pointer select-none list-none p-1 rounded transition-colors hover:bg-gray-100 dark:hover:bg-neutral-800 before:mr-1 before:inline-block before:transition-transform before:content-[''] dark:before:invert rtl:before:rotate-180 group-open:before:rotate-90">
+&lt;strong class="text-lg">第二章 线性直流电路&lt;/strong>
+&lt;/summary>
+&lt;div class="p-2 overflow-hidden">
+主要内容是：电阻网络等效、含源支路等效、支路电流法 、回路电流法、 节点电压法、含运放电路的分析。
+&lt;/div>
+&lt;/details>
+&lt;details class="last-of-type:mb-0 rounded-lg bg-neutral-50 dark:bg-neutral-800 p-2 mt-4 group" >
+&lt;summary class="flex items-center cursor-pointer select-none list-none p-1 rounded transition-colors hover:bg-gray-100 dark:hover:bg-neutral-800 before:mr-1 before:inline-block before:transition-transform before:content-[''] dark:before:invert rtl:before:rotate-180 group-open:before:rotate-90">
+&lt;strong class="text-lg">第三章 电路定理&lt;/strong>
+&lt;/summary>
+&lt;div class="p-2 overflow-hidden">
+主要内容是：置换定理、齐性定理、叠加定理、等效电源定理（戴维南定理和诺顿定理）、特勒根定理、互易定理、对偶原理。 &lt;strong>本章比较灵活。&lt;/strong>
+&lt;/div>
+&lt;/details>
+&lt;blockquote>
+&lt;p>by @&lt;a href="https://github.com/OliverWu515" target="_blank" rel="noopener">Oliver Wu&lt;/a>, 2024.2&lt;/p>
+&lt;/blockquote>
+&lt;details class="last-of-type:mb-0 rounded-lg bg-neutral-50 dark:bg-neutral-800 p-2 mt-4 group" >
+&lt;summary class="flex items-center cursor-pointer select-none list-none p-1 rounded transition-colors hover:bg-gray-100 dark:hover:bg-neutral-800 before:mr-1 before:inline-block before:transition-transform before:content-[''] dark:before:invert rtl:before:rotate-180 group-open:before:rotate-90">
+&lt;strong class="text-lg">我个人会将第二、三章的学习顺序调整如下：（点击展开）&lt;/strong>
+&lt;/summary>
+&lt;div class="p-2 overflow-hidden">
+2.3 支路电流法；2.4 回路电流法；2.5 节点电压法；2.6-2.7 含运放电路的分析；2.1 电阻网络等效；3.1/2.2/3.3 含源支路和含源一端口等效；3.2 齐性定理、叠加定理；3.4-3.6 特勒根定理、互易定理、对偶原理。
+&lt;/div>
+&lt;/details>
+&lt;details class="last-of-type:mb-0 rounded-lg bg-neutral-50 dark:bg-neutral-800 p-2 mt-4 group" >
+&lt;summary class="flex items-center cursor-pointer select-none list-none p-1 rounded transition-colors hover:bg-gray-100 dark:hover:bg-neutral-800 before:mr-1 before:inline-block before:transition-transform before:content-[''] dark:before:invert rtl:before:rotate-180 group-open:before:rotate-90">
+&lt;strong class="text-lg">第四章 正弦稳态电路的相量分析&lt;/strong>
+&lt;/summary>
+&lt;div class="p-2 overflow-hidden">
+主要内容：正弦量、正弦量的相量表示法、基尔霍夫定律的相量形式、电路相量模型、阻抗与导纳、正弦稳态电路的相量分析法、正弦电流电路的功率、耦合电感、理想变压器。
+&lt;/div>
+&lt;/details>
+&lt;details class="last-of-type:mb-0 rounded-lg bg-neutral-50 dark:bg-neutral-800 p-2 mt-4 group" >
+&lt;summary class="flex items-center cursor-pointer select-none list-none p-1 rounded transition-colors hover:bg-gray-100 dark:hover:bg-neutral-800 before:mr-1 before:inline-block before:transition-transform before:content-[''] dark:before:invert rtl:before:rotate-180 group-open:before:rotate-90">
+&lt;strong class="text-lg">第五章 三相电路&lt;/strong>
+&lt;/summary>
+&lt;div class="p-2 overflow-hidden">
+主要包含：三相电路相关概念（三相电源、星形、三角形联结）、对称三相电路的计算、不对称三相电路的计算、三相电路的功率。
+&lt;/div>
+&lt;/details>
+&lt;details class="last-of-type:mb-0 rounded-lg bg-neutral-50 dark:bg-neutral-800 p-2 mt-4 group" >
+&lt;summary class="flex items-center cursor-pointer select-none list-none p-1 rounded transition-colors hover:bg-gray-100 dark:hover:bg-neutral-800 before:mr-1 before:inline-block before:transition-transform before:content-[''] dark:before:invert rtl:before:rotate-180 group-open:before:rotate-90">
+&lt;strong class="text-lg">第六章 非正弦周期电流电路&lt;/strong>
+&lt;/summary>
+&lt;div class="p-2 overflow-hidden">
+主要包含：非正弦周期电流和电压、谐波分析法、非正弦周期电流电压的有效值与平均功率、非正弦周期电流电路的计算。
+&lt;/div>
+&lt;/details>
+&lt;blockquote>
+&lt;p>by @&lt;a href="https://github.com/OliverWu515" target="_blank" rel="noopener">Oliver Wu&lt;/a>, 2024.2&lt;/p>
+&lt;/blockquote>
+&lt;p>预习时可将第六章提到第五章之前。&lt;/p>
+&lt;details class="last-of-type:mb-0 rounded-lg bg-neutral-50 dark:bg-neutral-800 p-2 mt-4 group" >
+&lt;summary class="flex items-center cursor-pointer select-none list-none p-1 rounded transition-colors hover:bg-gray-100 dark:hover:bg-neutral-800 before:mr-1 before:inline-block before:transition-transform before:content-[''] dark:before:invert rtl:before:rotate-180 group-open:before:rotate-90">
+&lt;strong class="text-lg">第七章 频率特性和谐振现象&lt;/strong>
+&lt;/summary>
+&lt;div class="p-2 overflow-hidden">
+主要内容：网络函数与频率特性、串联谐振电路、并联谐振电路。
+&lt;/div>
+&lt;/details>
+&lt;details class="last-of-type:mb-0 rounded-lg bg-neutral-50 dark:bg-neutral-800 p-2 mt-4 group" >
+&lt;summary class="flex items-center cursor-pointer select-none list-none p-1 rounded transition-colors hover:bg-gray-100 dark:hover:bg-neutral-800 before:mr-1 before:inline-block before:transition-transform before:content-[''] dark:before:invert rtl:before:rotate-180 group-open:before:rotate-90">
+&lt;strong class="text-lg">第八章 线性动态电路暂态过程的时域分析&lt;/strong>
+&lt;/summary>
+&lt;div class="p-2 overflow-hidden">
+主要包括：动态电路的暂态过程，电路量初值的求解，一阶电路的零输入响应、零状态响应（阶跃响应、冲激响应、正弦电源作用下的一阶电路）和全响应，三要素法，卷积积分法、二阶电路暂态过程、状态变量分析法。
+&lt;/div>
+&lt;/details>
+&lt;details class="last-of-type:mb-0 rounded-lg bg-neutral-50 dark:bg-neutral-800 p-2 mt-4 group" >
+&lt;summary class="flex items-center cursor-pointer select-none list-none p-1 rounded transition-colors hover:bg-gray-100 dark:hover:bg-neutral-800 before:mr-1 before:inline-block before:transition-transform before:content-[''] dark:before:invert rtl:before:rotate-180 group-open:before:rotate-90">
+&lt;strong class="text-lg">第九章 线性动态电路暂态过程的复频域分析&lt;/strong>
+&lt;/summary>
+&lt;div class="p-2 overflow-hidden">
+主要包括：常用函数的拉普拉斯变换、拉普拉斯反变换、复频域中电路定律与电路模型、暂态电路的拉普拉斯分析法、复频域网络函数。
+&lt;/div>
+&lt;/details>
 &lt;h2>授课教师&lt;span class="absolute -mt-20" id="授课教师">&lt;/span>
 &lt;a href="#%e6%8e%88%e8%af%be%e6%95%99%e5%b8%88" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;blockquote>
 &lt;p>by @&lt;a href="https://github.com/OliverWu515" target="_blank" rel="noopener">Oliver Wu&lt;/a> and &lt;a href="https://github.com/MaxwellJay256" target="_blank" rel="noopener">@Maxwell Jay&lt;/a>, 2023.11&lt;/p>
@@ -4277,7 +4395,7 @@ cellspacing——单元格之间的间隔，单位像素
 万勿掉进死做题的怪圈，靠着对知识模糊的“感觉”做很多题、或者看着答案做很多题、或者做了题但没订正没总结，都不算做题！&lt;/li>
 &lt;/ul>
 &lt;p align="right">&lt;strong>update time&lt;/strong>&lt;/p>
-&lt;p align="right">&lt;strong>2023.12&lt;/strong>&lt;/p>
+&lt;p align="right">&lt;strong>2024.2&lt;/strong>&lt;/p>
 &lt;br>
 &lt;br>
 &lt;br>
@@ -4420,6 +4538,10 @@ cellspacing——单元格之间的间隔，单位像素
 &lt;/li>
 &lt;li class="flex list-none">
 &lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/EE1011A/raw/main/exams/2023%E6%98%A5%E5%AD%A6%E6%9C%9F%E7%94%B5%E8%B7%AFII%E6%9C%9F%E8%80%83%E8%AF%95%E9%A2%98%EF%BC%88%E5%9B%9E%E5%BF%86%E6%89%8B%E5%86%99%E7%89%88%EF%BC%89.rar" class="ml-1">2023春学期电路II期考试题（回忆手写版）.rar&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/EE1011A/raw/main/exams/2023%E7%94%B5%E8%B7%AFIA%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88V1.1.pdf" class="ml-1">2023电路IA期末试题参考答案V1.1.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
@@ -9325,6 +9447,159 @@ Visual Studio 也是 MFC 或 C# 的最佳选择。&lt;/p>
 &lt;li class="flex list-none">
 &lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3006/raw/main/notes/%E6%9C%BA%E5%99%A8%E8%A7%86%E8%A7%89%E5%A4%8D%E4%B9%A0%E6%8F%90%E7%BA%B2%28%E6%80%BB%29.pdf" class="ml-1">机器视觉复习提纲(总).pdf&lt;/a>
 &lt;/span>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/div>
+&lt;/div>
+&lt;br>&lt;/p>
+&lt;h2>支持我们&lt;span class="absolute -mt-20" id="支持我们">&lt;/span>
+&lt;a href="#%e6%94%af%e6%8c%81%e6%88%91%e4%bb%ac" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>如果你喜欢 HITSZ 自动化课程攻略共享计划，想支持我们，以下是几种支持我们的方式:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>HITSZ 自动化课程攻略共享计划 是所有同学都可以参与编写贡献的，如果你有好的笔记或者资料，欢迎前往我们的 &lt;a href="https://github.com/HITSZ-OpenAuto" target="_blank" rel="noopener">GitHub&lt;/a> 进行贡献，也可以发邮件至 &lt;a href="mailto:hi@hoa.moe" >📮hi@hoa.moe&lt;/a> 联系我们，我们会在收到的第一时间进行答复。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>将本网站分享给你的同学也是支持我们的重要方式。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>如果您认为本页面提供的信息对您有帮助，请考虑捐赠 ¥2 给我们。每一份慷慨支持都将大幅减轻我们承担的域名及对象存储服务的费用负担。我们鼓励选择“向对方展示我的名字”，你的ID和留言将会显示在我们的 &lt;a href="https://hoa.moe/sponsor/#%e6%84%9f%e8%b0%a2%e5%90%8d%e5%8d%95" target="_blank" rel="noopener">Sponsor&lt;/a> 页面中。&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;br>
+&lt;img src="https://hoa.moe/images/sponsor.webp" alt="Reward_Code" style="zoom:25%; display: block; margin: 0 auto;" /></description></item><item><title>(研究生阶段课程)最优估计</title><link>https://hoa.moe/docs/senior-autumn/auto5003/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/senior-autumn/auto5003/</guid><description>
+&lt;!--
+1. 通过 [Shields.io](https://shields.io/) 生成如下的徽章，标注课程的基本信息。
+2. 请根据课程的具体内容增删仓库的子文件夹。子文件夹建议使用小写英文，并且添加 README.md。
+3. 关于课程的描述可以不止以下几个方面，酌情增删。
+4. hoa.moe 生成本课程对应页面后，请将页面链接复制到 GitHub 仓库的 About/Website 中。
+5. 可以在 GitHub 页面的 About/Topics 中为课程添加话题名称。
+-->
+&lt;p>&lt;img src="https://img.shields.io/badge/%E8%80%83%E6%9F%A5%E8%AF%BE-green" alt="考查课" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/%E5%AD%A6%E5%88%86-2-moccasin" alt="学分" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/%e7%a0%94%e7%a9%b6%e7%94%9f%e9%98%b6%e6%ae%b5%e8%af%be%e7%a8%8b-lightskyblue" alt="研究生阶段课程" loading="lazy" />&lt;/p>
+&lt;p>&lt;img src="https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold" alt="成绩构成" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/%e4%bd%9c%e4%b8%9a-10%25-wheat" alt="作业10%" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/%e5%87%ba%e5%8b%a4-10%25-wheat" alt="出勤10%" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/%e9%a1%b9%e7%9b%ae-40%25-wheat" alt="项目40%" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-40%25-wheat" alt="期末考试40%" loading="lazy" />&lt;/p>
+&lt;h2>授课教师&lt;span class="absolute -mt-20" id="授课教师">&lt;/span>
+&lt;a href="#%e6%8e%88%e8%af%be%e6%95%99%e5%b8%88" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>许鋆
+&lt;ul>
+&lt;li>授课风格：&lt;/li>
+&lt;li>听课建议：&lt;/li>
+&lt;li>……&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2>关于考试&lt;span class="absolute -mt-20" id="关于考试">&lt;/span>
+&lt;a href="#%e5%85%b3%e4%ba%8e%e8%80%83%e8%af%95" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>可带一张A4纸。&lt;/p>
+&lt;h2>学习建议&lt;span class="absolute -mt-20" id="学习建议">&lt;/span>
+&lt;a href="#%e5%ad%a6%e4%b9%a0%e5%bb%ba%e8%ae%ae" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;br>
+&lt;br>
+&lt;br>
+&lt;h2>资料下载&lt;span class="absolute -mt-20" id="资料下载">&lt;/span>
+&lt;a href="#%e8%b5%84%e6%96%99%e4%b8%8b%e8%bd%bd" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;div class="hextra-filetree mt-6 select-none text-sm text-gray-800 dark:text-gray-300 not-prose">
+&lt;div class="inline-block rounded-lg border px-4 py-2 dark:border-neutral-800">
+&lt;li class="group flex list-none flex-col">
+&lt;button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
+&lt;span data-state="closed" class="data-[state=open]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span data-state="closed" class="data-[state=closed]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span class="ml-1">assignments&lt;/span>
+&lt;/button>
+&lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
+&lt;li class="group flex list-none flex-col">
+&lt;button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
+&lt;span data-state="closed" class="data-[state=open]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span data-state="closed" class="data-[state=closed]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span class="ml-1">2023&lt;/span>
+&lt;/button>
+&lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO5003/raw/main/assignments/2023/hw1.pdf" class="ml-1">hw1.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO5003/raw/main/assignments/2023/hw1_answer.pdf" class="ml-1">hw1_answer.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO5003/raw/main/assignments/2023/hw2.pdf" class="ml-1">hw2.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO5003/raw/main/assignments/2023/hw2_answer.pdf" class="ml-1">hw2_answer.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO5003/raw/main/assignments/2023/hw3.pdf" class="ml-1">hw3.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO5003/raw/main/assignments/2023/%E6%9C%80%E4%BC%98%E4%BC%B0%E8%AE%A1hw2.pdf" class="ml-1">最优估计hw2.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li class="group flex list-none flex-col">
+&lt;button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
+&lt;span data-state="closed" class="data-[state=open]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span data-state="closed" class="data-[state=closed]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span class="ml-1">exams&lt;/span>
+&lt;/button>
+&lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO5003/raw/main/exams/2023_MengAo_A4review.docx" class="ml-1">2023_MengAo_A4review.docx&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO5003/raw/main/exams/2023_WuKunyuan_A4%E7%BA%B8.docx" class="ml-1">2023_WuKunyuan_A4纸.docx&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li class="group flex list-none flex-col">
+&lt;button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
+&lt;span data-state="closed" class="data-[state=open]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span data-state="closed" class="data-[state=closed]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span class="ml-1">slides&lt;/span>
+&lt;/button>
+&lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
+&lt;li class="group flex list-none flex-col">
+&lt;button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
+&lt;span data-state="closed" class="data-[state=open]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span data-state="closed" class="data-[state=closed]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span class="ml-1">2023_lecture&lt;/span>
+&lt;/button>
+&lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO5003/raw/main/slides/2023_lecture/lec1-introduction.pdf" class="ml-1">lec1-introduction.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO5003/raw/main/slides/2023_lecture/lec2_sto_theory.pdf" class="ml-1">lec2_sto_theory.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO5003/raw/main/slides/2023_lecture/lec3_est_theory.pdf" class="ml-1">lec3_est_theory.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO5003/raw/main/slides/2023_lecture/lec4_ls.pdf" class="ml-1">lec4_ls.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO5003/raw/main/slides/2023_lecture/lec5-propagation.pdf" class="ml-1">lec5-propagation.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO5003/raw/main/slides/2023_lecture/lec6-kf.pdf" class="ml-1">lec6-kf.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;/ul>
 &lt;/li>
 &lt;/ul>
 &lt;/li>

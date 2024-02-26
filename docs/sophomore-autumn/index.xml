@@ -959,6 +959,35 @@
 &lt;span class="ml-1">assignments&lt;/span>
 &lt;/button>
 &lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
+&lt;li class="group flex list-none flex-col">
+&lt;button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
+&lt;span data-state="closed" class="data-[state=open]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span data-state="closed" class="data-[state=closed]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span class="ml-1">2023_WJD_习题答案修订&lt;/span>
+&lt;/button>
+&lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/EE1011B/raw/main/assignments/2023_WJD_%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88%E4%BF%AE%E8%AE%A2/%E7%AC%AC10%E7%AB%A0%20%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94.pdf" class="ml-1">第10章 习题解答.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/EE1011B/raw/main/assignments/2023_WJD_%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88%E4%BF%AE%E8%AE%A2/%E7%AC%AC11%E7%AB%A0%20%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94.pdf" class="ml-1">第11章 习题解答.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/EE1011B/raw/main/assignments/2023_WJD_%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88%E4%BF%AE%E8%AE%A2/%E7%AC%AC12%E7%AB%A0%20%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94.pdf" class="ml-1">第12章 习题解答.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/EE1011B/raw/main/assignments/2023_WJD_%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88%E4%BF%AE%E8%AE%A2/%E7%AC%AC13%E7%AB%A0%20%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94.pdf" class="ml-1">第13章 习题解答.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/EE1011B/raw/main/assignments/2023_WJD_%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88%E4%BF%AE%E8%AE%A2/%E9%99%84%E5%BD%95A%20%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94.pdf" class="ml-1">附录A 习题解答.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
 &lt;li class="flex list-none">
 &lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/EE1011B/raw/main/assignments/ch10_%E4%BA%8C%E7%AB%AF%E5%8F%A3%E7%BD%91%E7%BB%9C.pdf" class="ml-1">ch10_二端口网络.pdf&lt;/a>
 &lt;/span>
@@ -976,7 +1005,7 @@
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/EE1011B/raw/main/assignments/%E7%94%B5%E8%B7%AF%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94.pdf" class="ml-1">电路习题解答.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/EE1011B/raw/main/assignments/%E7%94%B5%E8%B7%AF%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94%EF%BC%88%E5%8E%9F%E7%89%88%EF%BC%89.pdf" class="ml-1">电路习题解答（原版）.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
