@@ -4900,24 +4900,23 @@ cellspacing——单元格之间的间隔，单位像素
 &lt;img src="https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-30%25-wheat" alt="作业30%" loading="lazy" />
 &lt;img src="https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-70%25-wheat" alt="期末考试70%" loading="lazy" />&lt;/p>
 &lt;h2>授课教师&lt;span class="absolute -mt-20" id="授课教师">&lt;/span>
-&lt;a href="#%e6%8e%88%e8%af%be%e6%95%99%e5%b8%88" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
-&lt;li>教师1：
-&lt;ul>
-&lt;li>授课风格：&lt;/li>
-&lt;li>是否需要认真听讲做笔记&lt;/li>
-&lt;li>听课建议&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
+&lt;a href="#%e6%8e%88%e8%af%be%e6%95%99%e5%b8%88" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>与 &lt;a href="https://github.com/HITSZ-OpenAuto/PHYS1001A" target="_blank" rel="noopener">大学物理IA&lt;/a> 相同。&lt;/p>
 &lt;h2>关于考试&lt;span class="absolute -mt-20" id="关于考试">&lt;/span>
-&lt;a href="#%e5%85%b3%e4%ba%8e%e8%80%83%e8%af%95" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
-&lt;li>考试难度：&lt;/li>
-&lt;/ul>
-&lt;h2>Tips&lt;span class="absolute -mt-20" id="tips">&lt;/span>
-&lt;a href="#tips" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h2>课程建议&lt;span class="absolute -mt-20" id="课程建议">&lt;/span>
-&lt;a href="#%e8%af%be%e7%a8%8b%e5%bb%ba%e8%ae%ae" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;br>
+&lt;a href="#%e5%85%b3%e4%ba%8e%e8%80%83%e8%af%95" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;blockquote>
+&lt;p>by &lt;a href="https://github.com/MaxwellJay256" target="_blank" rel="noopener">@Maxwell Jay&lt;/a>, 2024.3&lt;/p>
+&lt;/blockquote>
+&lt;p>和 大学物理IA 相似，考试难度不高，基本不涉及复杂的物理模型分析，90+ 的分数还是比较容易争取到的。&lt;/p>
+&lt;h2>学习建议&lt;span class="absolute -mt-20" id="学习建议">&lt;/span>
+&lt;a href="#%e5%ad%a6%e4%b9%a0%e5%bb%ba%e8%ae%ae" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;blockquote>
+&lt;p>by &lt;a href="https://github.com/MaxwellJay256" target="_blank" rel="noopener">@Maxwell Jay&lt;/a>, 2024.3&lt;/p>
+&lt;/blockquote>
+&lt;p>大学物理IB 的教学内容主要为&lt;strong>机械波&lt;/strong>、&lt;strong>光学&lt;/strong>、&lt;strong>热学&lt;/strong>、&lt;strong>量子物理&lt;/strong>。&lt;/p>
+&lt;p>相比 大学物理IA，知识点会显得非常杂而不精，每一部分都讲得比较基础，但是加起来就会显得很多，以至于考前复习时感觉无从下手。&lt;/p>
+&lt;p>我的对策是多给自己留一些时间用来复习（对于 2022 级学生，大物IB 的期末考试是大二上学期的最后一门考试，有至少两周的准备时间），把物理公式记熟。
+只要记得住公式和方程，考试时就不会有什么问题。&lt;/p>
+&lt;p>可以用来练习的成套试卷并不多，因此珍惜每一次练习的机会，反复咀嚼不清楚的地方；清华题库中的题目难度偏高，不建议死磕。&lt;br>
 &lt;br>
-&lt;br>
+&lt;br>&lt;/p>
 &lt;h2>资料下载&lt;span class="absolute -mt-20" id="资料下载">&lt;/span>
 &lt;a href="#%e8%b5%84%e6%96%99%e4%b8%8b%e8%bd%bd" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;div class="hextra-filetree mt-6 select-none text-sm text-gray-800 dark:text-gray-300 not-prose">
 &lt;div class="inline-block rounded-lg border px-4 py-2 dark:border-neutral-800">
