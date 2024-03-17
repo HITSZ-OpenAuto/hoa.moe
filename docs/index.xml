@@ -4894,11 +4894,60 @@ cellspacing——单元格之间的间隔，单位像素
 4. hoa.moe 生成本课程对应页面后，请将页面链接复制到 GitHub 仓库的 About/Website 中。
 5. 可以在 GitHub 页面的 About/Topics 中为课程添加话题名称。
 -->
-&lt;p>&lt;img src="https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE-red" alt="考试课" loading="lazy" />
-&lt;img src="https://img.shields.io/badge/%E5%AD%A6%E5%88%86-4-moccasin" alt="学分" loading="lazy" />&lt;/p>
+&lt;p>&lt;img src="https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE-red" alt="考试课" loading="lazy" />&lt;/p>
 &lt;p>&lt;img src="https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold" alt="成绩构成" loading="lazy" />
 &lt;img src="https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-30%25-wheat" alt="作业30%" loading="lazy" />
 &lt;img src="https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-70%25-wheat" alt="期末考试70%" loading="lazy" />&lt;/p>
+&lt;p>&lt;strong>注意！从2024春季学期开始，《大学物理》课程安排有所调整，但仅更改了某些模块的讲授顺序，总体内容不变，因此将原“大学物理IA”、“大学物理IB”栏目合并为“大学物理”栏目。&lt;/strong>
+鉴于部分资料中仍有“大学物理IA”与“大学物理IB”字样，为了避免新旧课程混淆，下面列出原《大学物理IA》、《大学物理IB》课程和现在《大学物理XA》、《大学物理XB》（计算机与电子通信、自动化与电气工程、机器人与智能装备等大类开设）以及《大学物理IA》、《大学物理IB》（材料、土木、化学等大类开设）的对照表。&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>课程名称&lt;/th>
+&lt;th>开课学期&lt;/th>
+&lt;th>学分&lt;/th>
+&lt;th>主要内容&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>原&lt;/strong>大学物理IA&lt;/td>
+&lt;td>大一春&lt;/td>
+&lt;td>4.0&lt;/td>
+&lt;td>运动与力、狭义相对论、电磁学&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>原&lt;/strong>大学物理IB&lt;/td>
+&lt;td>大二秋&lt;/td>
+&lt;td>4.0&lt;/td>
+&lt;td>机械波（振动与波动）、光学、热学、量子物理&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>新&lt;/strong>大学物理XA&lt;/td>
+&lt;td>大一春&lt;/td>
+&lt;td>5.0&lt;/td>
+&lt;td>运动与力、机械波（振动与波动）、狭义相对论、电磁学&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>新&lt;/strong>大学物理XB&lt;/td>
+&lt;td>大二秋&lt;/td>
+&lt;td>4.0&lt;/td>
+&lt;td>光学、热学、量子物理&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>新&lt;/strong>大学物理IA&lt;/td>
+&lt;td>大一春&lt;/td>
+&lt;td>4.5&lt;/td>
+&lt;td>运动与力、机械波（振动与波动）、电磁学&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>新&lt;/strong>大学物理IB&lt;/td>
+&lt;td>大二秋&lt;/td>
+&lt;td>4.5&lt;/td>
+&lt;td>光学、热学、狭义相对论、量子物理&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
 &lt;h2>授课教师&lt;span class="absolute -mt-20" id="授课教师">&lt;/span>
 &lt;a href="#%e6%8e%88%e8%af%be%e6%95%99%e5%b8%88" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>与 &lt;a href="https://github.com/HITSZ-OpenAuto/PHYS1001A" target="_blank" rel="noopener">大学物理IA&lt;/a> 相同。&lt;/p>
 &lt;h2>关于考试&lt;span class="absolute -mt-20" id="关于考试">&lt;/span>
@@ -4914,7 +4963,8 @@ cellspacing——单元格之间的间隔，单位像素
 &lt;p>相比 大学物理IA，知识点会显得非常杂而不精，每一部分都讲得比较基础，但是加起来就会显得很多，以至于考前复习时感觉无从下手。&lt;/p>
 &lt;p>我的对策是多给自己留一些时间用来复习（对于 2022 级学生，大物IB 的期末考试是大二上学期的最后一门考试，有至少两周的准备时间），把物理公式记熟。
 只要记得住公式和方程，考试时就不会有什么问题。&lt;/p>
-&lt;p>可以用来练习的成套试卷并不多，因此珍惜每一次练习的机会，反复咀嚼不清楚的地方；清华题库中的题目难度偏高，不建议死磕。&lt;br>
+&lt;p>可以用来练习的成套试卷并不多，因此珍惜每一次练习的机会，反复咀嚼不清楚的地方；清华题库中的题目难度偏高，不建议死磕。
+&lt;br>
 &lt;br>
 &lt;br>&lt;/p>
 &lt;h2>资料下载&lt;span class="absolute -mt-20" id="资料下载">&lt;/span>
@@ -4971,6 +5021,44 @@ cellspacing——单元格之间的间隔，单位像素
 &lt;li class="flex list-none">
 &lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1001B/raw/main/materials/%E7%89%A9%E7%90%86%E5%AD%A6%E7%AC%AC%E5%85%AD%E7%89%88%E4%B9%A0%E9%A2%98%E5%88%86%E6%9E%90%E4%B8%8E%E8%A7%A3%E7%AD%94.pdf" class="ml-1">物理学第六版习题分析与解答.pdf&lt;/a>
 &lt;/span>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li class="group flex list-none flex-col">
+&lt;button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
+&lt;span data-state="closed" class="data-[state=open]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span data-state="closed" class="data-[state=closed]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span class="ml-1">notes&lt;/span>
+&lt;/button>
+&lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1001B/raw/main/notes/2023_zsa_%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86IB%E7%AC%94%E8%AE%B0.pdf" class="ml-1">2023_zsa_大学物理IB笔记.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="group flex list-none flex-col">
+&lt;button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
+&lt;span data-state="closed" class="data-[state=open]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span data-state="closed" class="data-[state=closed]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span class="ml-1">Empty_2023&lt;/span>
+&lt;/button>
+&lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1001B/raw/main/notes/Empty_2023/2023_Empty_%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86IB%EF%BC%88%E5%85%89%E5%AD%A6%EF%BC%89.pdf" class="ml-1">2023_Empty_大学物理IB（光学）.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1001B/raw/main/notes/Empty_2023/2023_Empty_%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86IB%EF%BC%88%E6%8C%AF%E5%8A%A8%E4%B8%8E%E6%B3%A2%EF%BC%89.pdf" class="ml-1">2023_Empty_大学物理IB（振动与波）.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1001B/raw/main/notes/Empty_2023/2023_Empty_%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86IB%EF%BC%88%E7%83%AD%E5%AD%A6%E4%B8%8E%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%89.pdf" class="ml-1">2023_Empty_大学物理IB（热学与量子物理）.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1001B/raw/main/notes/Empty_2023/2023_Empty_%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86IB%EF%BC%88%E8%80%83%E5%89%8D%E5%BF%85%E7%9C%8B%EF%BC%89.pdf" class="ml-1">2023_Empty_大学物理IB（考前必看）.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;/ul>
 &lt;/li>
 &lt;/ul>
 &lt;/li>
@@ -5415,15 +5503,71 @@ Visual Studio 也是 MFC 或 C# 的最佳选择。&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;br>
-&lt;img src="https://hoa.moe/images/sponsor.webp" alt="Reward_Code" style="zoom:25%; display: block; margin: 0 auto;" /></description></item><item><title>(必修)大学物理IA</title><link>https://hoa.moe/docs/fresh-spring/phys1001a/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/fresh-spring/phys1001a/</guid><description>
-&lt;p>&lt;img src="https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE-red" alt="考试课" loading="lazy" />
-&lt;img src="https://img.shields.io/badge/%E5%AD%A6%E5%88%86-4-moccasin" alt="学分" loading="lazy" />&lt;/p>
+&lt;img src="https://hoa.moe/images/sponsor.webp" alt="Reward_Code" style="zoom:25%; display: block; margin: 0 auto;" /></description></item><item><title>(必修)大学物理</title><link>https://hoa.moe/docs/fresh-spring/phys1001a/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/fresh-spring/phys1001a/</guid><description>
+&lt;!--
+1. 通过 [Shields.io](https://shields.io/) 生成如下的徽章，标注课程的基本信息。
+2. 请根据课程的具体内容增删仓库的子文件夹。子文件夹建议使用小写英文，并且添加 README.md。
+3. 关于课程的描述可以不止以下几个方面，酌情增删。
+4. hoa.moe 生成本课程对应页面后，请将页面链接复制到 GitHub 仓库的 About/Website 中。
+5. 可以在 GitHub 页面的 About/Topics 中为课程添加话题名称。
+-->
+&lt;p>&lt;img src="https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE-red" alt="考试课" loading="lazy" />&lt;/p>
 &lt;p>&lt;img src="https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold" alt="成绩构成" loading="lazy" />
 &lt;img src="https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-30%25-wheat" alt="作业30%" loading="lazy" />
 &lt;img src="https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-70%25-wheat" alt="期末考试70%" loading="lazy" />&lt;/p>
+&lt;p>&lt;strong>注意！从2024春季学期开始，《大学物理》课程安排有所调整，但仅更改了某些模块的讲授顺序，总体内容不变，因此将原“大学物理IA”、“大学物理IB”栏目合并为“大学物理”栏目。&lt;/strong>
+鉴于部分资料中仍有“大学物理IA”与“大学物理IB”字样，为了避免新旧课程混淆，下面列出原《大学物理IA》、《大学物理IB》课程和现在《大学物理XA》、《大学物理XB》（计算机与电子通信、自动化与电气工程、机器人与智能装备等大类开设）以及《大学物理IA》、《大学物理IB》（材料、土木、化学等大类开设）的对照表。&lt;strong>大家对照下表查找资料。&lt;/strong> 例如，原先“大学物理IB”的笔记里，有关“振动与波动”的部分，就可供“大学物理XA&amp;quot;的同学所用。&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>课程名称&lt;/th>
+&lt;th>开课学期&lt;/th>
+&lt;th>学分&lt;/th>
+&lt;th>主要内容&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>原&lt;/strong>大学物理IA&lt;/td>
+&lt;td>大一春&lt;/td>
+&lt;td>4.0&lt;/td>
+&lt;td>运动与力、狭义相对论、电磁学&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>原&lt;/strong>大学物理IB&lt;/td>
+&lt;td>大二秋&lt;/td>
+&lt;td>4.0&lt;/td>
+&lt;td>振动与波动、光学、热学、量子物理&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>新&lt;/strong>大学物理XA&lt;/td>
+&lt;td>大一春&lt;/td>
+&lt;td>5.0&lt;/td>
+&lt;td>运动与力、振动与波动、狭义相对论、电磁学&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>新&lt;/strong>大学物理XB&lt;/td>
+&lt;td>大二秋&lt;/td>
+&lt;td>4.0&lt;/td>
+&lt;td>光学、热学、量子物理&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>新&lt;/strong>大学物理IA&lt;/td>
+&lt;td>大一春&lt;/td>
+&lt;td>4.5&lt;/td>
+&lt;td>运动与力、振动与波动、电磁学&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>新&lt;/strong>大学物理IB&lt;/td>
+&lt;td>大二秋&lt;/td>
+&lt;td>4.5&lt;/td>
+&lt;td>光学、热学、狭义相对论、量子物理&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
 &lt;h2>授课教师&lt;span class="absolute -mt-20" id="授课教师">&lt;/span>
 &lt;a href="#%e6%8e%88%e8%af%be%e6%95%99%e5%b8%88" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
-&lt;li>教师1：Ma Yonghui
+&lt;li>教师1：马永辉
 &lt;ul>
 &lt;li>授课风格：PPT，偶尔板书。&lt;/li>
 &lt;li>2023年期末考试前公布了班上学生的平时成绩，除了个别不交作业的，大多数人都是29或30分。&lt;/li>
@@ -5431,7 +5575,7 @@ Visual Studio 也是 MFC 或 C# 的最佳选择。&lt;/p>
 &lt;li>听课建议&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;li>教师2：Wang Yongjie
+&lt;li>教师2：王永杰
 &lt;ul>
 &lt;li>授课风格：PPT，很少板书。&lt;/li>
 &lt;li>PPT念得比较细致，解释得其实也很清楚。但是因为语调没有什么变化所以听起来比较容易犯困。&lt;/li>
@@ -5439,17 +5583,28 @@ Visual Studio 也是 MFC 或 C# 的最佳选择。&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2>关于考试&lt;span class="absolute -mt-20" id="关于考试">&lt;/span>
-&lt;a href="#%e5%85%b3%e4%ba%8e%e8%80%83%e8%af%95" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
-&lt;li>考试难度：比较简单，基本不涉及复杂的模型和过程分析。&lt;/li>
+&lt;a href="#%e5%85%b3%e4%ba%8e%e8%80%83%e8%af%95" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;blockquote>
+&lt;p>by &lt;a href="https://github.com/MaxwellJay256" target="_blank" rel="noopener">@Maxwell Jay&lt;/a>, 2024.3&lt;/p>
+&lt;/blockquote>
+&lt;ul>
+&lt;li>考试难度：比较简单，基本不涉及复杂的模型和过程分析。90+ 的分数还是比较容易争取到的。&lt;/li>
 &lt;li>考试题型是10×3选择+10×3填空+4*10计算题。&lt;/li>
 &lt;li>会在试卷上给出物理常量，但不一定都会用到。&lt;/li>
 &lt;li>允许使用无编程功能的计算器，如Casio fx-991，并且计算器正好自带科学常数。&lt;/li>
 &lt;/ul>
-&lt;h2>Tips&lt;span class="absolute -mt-20" id="tips">&lt;/span>
-&lt;a href="#tips" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h2>课程建议&lt;span class="absolute -mt-20" id="课程建议">&lt;/span>
-&lt;a href="#%e8%af%be%e7%a8%8b%e5%bb%ba%e8%ae%ae" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;br>
+&lt;h2>学习建议&lt;span class="absolute -mt-20" id="学习建议">&lt;/span>
+&lt;a href="#%e5%ad%a6%e4%b9%a0%e5%bb%ba%e8%ae%ae" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;blockquote>
+&lt;p>此内容为原先大学物理IB文档中的内容，现在课程内容调整后，部分内容可能不适用，请各位注意！
+by &lt;a href="https://github.com/MaxwellJay256" target="_blank" rel="noopener">@Maxwell Jay&lt;/a>, 2024.3&lt;/p>
+&lt;/blockquote>
+&lt;p>大学物理IB 的教学内容主要为&lt;strong>振动与波动&lt;/strong>、&lt;strong>光学&lt;/strong>、&lt;strong>热学&lt;/strong>、&lt;strong>量子物理&lt;/strong>。&lt;/p>
+&lt;p>相比 大学物理IA，知识点会显得非常杂而不精，每一部分都讲得比较基础，但是加起来就会显得很多，以至于考前复习时感觉无从下手。&lt;/p>
+&lt;p>我的对策是多给自己留一些时间用来复习（对于 2022 级学生，大物IB 的期末考试是大二上学期的最后一门考试，有至少两周的准备时间），把物理公式记熟。
+只要记得住公式和方程，考试时就不会有什么问题。&lt;/p>
+&lt;p>可以用来练习的成套试卷并不多，因此珍惜每一次练习的机会，反复咀嚼不清楚的地方；清华题库中的题目难度偏高，不建议死磕。
 &lt;br>
 &lt;br>
+&lt;br>&lt;/p>
 &lt;h2>资料下载&lt;span class="absolute -mt-20" id="资料下载">&lt;/span>
 &lt;a href="#%e8%b5%84%e6%96%99%e4%b8%8b%e8%bd%bd" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;div class="hextra-filetree mt-6 select-none text-sm text-gray-800 dark:text-gray-300 not-prose">
 &lt;div class="inline-block rounded-lg border px-4 py-2 dark:border-neutral-800">
@@ -5476,6 +5631,80 @@ Visual Studio 也是 MFC 或 C# 的最佳选择。&lt;/p>
 &lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1001A/raw/main/exams/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86IA%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E8%AF%95%E9%A2%98%EF%BC%88%E6%89%93%E5%8D%B0%EF%BC%89.pdf" class="ml-1">大学物理IA期中考试试题（打印）.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1001A/raw/main/exams/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86IB%E5%BE%80%E5%B9%B4%E9%A2%981.pdf" class="ml-1">大学物理IB往年题1.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1001A/raw/main/exams/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86IB%E5%BE%80%E5%B9%B4%E9%A2%982.pdf" class="ml-1">大学物理IB往年题2.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1001A/raw/main/exams/%E5%A4%A7%E7%89%A9IB%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0%E8%AF%95%E9%A2%98.pdf" class="ml-1">大物IB期末复习试题.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1001A/raw/main/exams/%E5%A4%A7%E7%89%A9IB%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0%E8%AF%95%E9%A2%98%E8%A7%A3%E6%9E%90202303%E4%BF%AE.pdf" class="ml-1">大物IB期末复习试题解析202303修.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="group flex list-none flex-col">
+&lt;button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
+&lt;span data-state="closed" class="data-[state=open]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span data-state="closed" class="data-[state=closed]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span class="ml-1">清华题库试题&lt;/span>
+&lt;/button>
+&lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1001A/raw/main/exams/%E6%B8%85%E5%8D%8E%E9%A2%98%E5%BA%93%E8%AF%95%E9%A2%98/%E5%85%89%E5%AD%A6%E7%BB%83%E4%B9%A0.pdf" class="ml-1">光学练习.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1001A/raw/main/exams/%E6%B8%85%E5%8D%8E%E9%A2%98%E5%BA%93%E8%AF%95%E9%A2%98/%E5%88%9A%E4%BD%93%E7%BB%83%E4%B9%A0.pdf" class="ml-1">刚体练习.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1001A/raw/main/exams/%E6%B8%85%E5%8D%8E%E9%A2%98%E5%BA%93%E8%AF%95%E9%A2%98/%E5%8A%9B%E5%AD%A6%EF%BC%88%E8%B4%A8%E7%82%B9%E5%8A%A8%E5%8A%9B%E5%AD%A6%E3%80%81%E8%BF%90%E5%8A%A8%E5%AD%A6%E3%80%81%E5%8A%9F%E4%B8%8E%E8%83%BD%E9%87%8F%EF%BC%89%E7%BB%83%E4%B9%A0.pdf" class="ml-1">力学（质点动力学、运动学、功与能量）练习.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1001A/raw/main/exams/%E6%B8%85%E5%8D%8E%E9%A2%98%E5%BA%93%E8%AF%95%E9%A2%98/%E6%9C%BA%E6%A2%B0%E6%8C%AF%E5%8A%A8%E7%BB%83%E4%B9%A0.pdf" class="ml-1">机械振动练习.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1001A/raw/main/exams/%E6%B8%85%E5%8D%8E%E9%A2%98%E5%BA%93%E8%AF%95%E9%A2%98/%E6%9C%BA%E6%A2%B0%E6%B3%A2%E7%BB%83%E4%B9%A0.pdf" class="ml-1">机械波练习.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1001A/raw/main/exams/%E6%B8%85%E5%8D%8E%E9%A2%98%E5%BA%93%E8%AF%95%E9%A2%98/%E7%83%AD%E5%AD%A6%E7%BB%83%E4%B9%A0.pdf" class="ml-1">热学练习.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1001A/raw/main/exams/%E6%B8%85%E5%8D%8E%E9%A2%98%E5%BA%93%E8%AF%95%E9%A2%98/%E7%94%B5%E5%AD%A6%E7%BB%83%E4%B9%A0.pdf" class="ml-1">电学练习.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1001A/raw/main/exams/%E6%B8%85%E5%8D%8E%E9%A2%98%E5%BA%93%E8%AF%95%E9%A2%98/%E7%9B%B8%E5%AF%B9%E8%AE%BA%E7%BB%83%E4%B9%A0.pdf" class="ml-1">相对论练习.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1001A/raw/main/exams/%E6%B8%85%E5%8D%8E%E9%A2%98%E5%BA%93%E8%AF%95%E9%A2%98/%E7%A3%81%E5%AD%A6%E7%BB%83%E4%B9%A0.pdf" class="ml-1">磁学练习.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li class="group flex list-none flex-col">
+&lt;button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
+&lt;span data-state="closed" class="data-[state=open]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span data-state="closed" class="data-[state=closed]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span class="ml-1">materials&lt;/span>
+&lt;/button>
+&lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1001A/raw/main/materials/%E7%89%A9%E7%90%86%E5%AD%A6%E7%AC%AC%E5%85%AD%E7%89%88%E4%B9%A0%E9%A2%98%E5%88%86%E6%9E%90%E4%B8%8E%E8%A7%A3%E7%AD%94.pdf" class="ml-1">物理学第六版习题分析与解答.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li class="group flex list-none flex-col">
@@ -5485,6 +5714,35 @@ Visual Studio 也是 MFC 或 C# 的最佳选择。&lt;/p>
 &lt;span class="ml-1">notes&lt;/span>
 &lt;/button>
 &lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
+&lt;li class="group flex list-none flex-col">
+&lt;button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
+&lt;span data-state="closed" class="data-[state=open]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span data-state="closed" class="data-[state=closed]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span class="ml-1">2023_Empty&lt;/span>
+&lt;/button>
+&lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1001A/raw/main/notes/2023_Empty/2023_Empty_%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86IB%EF%BC%88%E5%85%89%E5%AD%A6%EF%BC%89.pdf" class="ml-1">2023_Empty_大学物理IB（光学）.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1001A/raw/main/notes/2023_Empty/2023_Empty_%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86IB%EF%BC%88%E6%8C%AF%E5%8A%A8%E4%B8%8E%E6%B3%A2%EF%BC%89.pdf" class="ml-1">2023_Empty_大学物理IB（振动与波）.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1001A/raw/main/notes/2023_Empty/2023_Empty_%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86IB%EF%BC%88%E7%83%AD%E5%AD%A6%E4%B8%8E%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%89.pdf" class="ml-1">2023_Empty_大学物理IB（热学与量子物理）.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1001A/raw/main/notes/2023_Empty/2023_Empty_%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86IB%EF%BC%88%E8%80%83%E5%89%8D%E5%BF%85%E7%9C%8B%EF%BC%89.pdf" class="ml-1">2023_Empty_大学物理IB（考前必看）.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1001A/raw/main/notes/2023_zsa_%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86IB%E7%AC%94%E8%AE%B0.pdf" class="ml-1">2023_zsa_大学物理IB笔记.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
 &lt;li class="flex list-none">
 &lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1001A/raw/main/notes/Sora%E7%9A%84%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E8%A1%A5%E5%A4%A9%E6%94%BB%E7%95%A5.pdf" class="ml-1">Sora的大学物理补天攻略.pdf&lt;/a>
 &lt;/span>
@@ -5589,6 +5847,37 @@ Visual Studio 也是 MFC 或 C# 的最佳选择。&lt;/p>
 &lt;/li>
 &lt;li>是否需要认真听讲做笔记：如果你愿意听他的课，最好就完全跟着他的思路来。老师会在课上讲很多的例题，如果能把它们都记下来并且课后稍微复习一下，基本上就足够掌握这一部分的内容了（都把例题喂到你嘴里了这还不冲？）。&lt;/li>
 &lt;li>听课建议：如果你是挑剔的学生，大多数课都不愿意听老师讲，那么他的课应该是你最后一个选择skip的。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>by &lt;a href="https://github.com/IcyDesert" target="_blank" rel="noopener">IcyDesert&lt;/a>, 2024.3&lt;/p>
+&lt;/blockquote>
+&lt;ul>
+&lt;li>余君武
+&lt;ul>
+&lt;li>授课风格：
+&lt;ul>
+&lt;li>板书为主，幻灯片为辅（更像他的讲义），首先板书细致讲本节课内容和重点，再&lt;del>照本宣科&lt;/del>念一遍 ppt，还会逐题板书讲幻灯片例题&lt;/li>
+&lt;li>偶尔吹水，但内容也与课程有关，基本是以生动的例子来类比定理，给你直觉上的理解&lt;/li>
+&lt;li>每章讲完后会上一节习题课，其中有相当一部分就是黄本原题&lt;/li>
+&lt;li>讲课非常有活力，有时讲兴奋了还会「指指点点」，气氛拉满&lt;/li>
+&lt;li>可能因为例题还没讲完而拖堂&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>听课建议：
+&lt;ul>
+&lt;li>老师上课时会补充不少 经典例题、方法、技巧 等，非常值得记下来；此外，他还会解释常见的 错误理解、难点 等，帮助你理解概念——这正是自学容易忽略的地方&lt;/li>
+&lt;li>老师不考勤，但是个人不太建议自学（&lt;/li>
+&lt;li>可以参考本部的《工科数学分析学习指导与习题解答》，他的讲解和这本书有一些重合部分&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>课后：
+&lt;ul>
+&lt;li>所有上课的课件都会发群里（甚至可以直接提醒他发），也会时不时分享一些技巧、黄本题目答案之类&lt;/li>
+&lt;li>不懂可以直接问，非常负责任&lt;/li>
+&lt;/ul>
+&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
