@@ -1,20 +1,45 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HITSZ 自动化课程攻略共享计划 – 大一·春</title><link>https://hoa.moe/docs/fresh-spring/</link><description>Recent content in 大一·春 on HITSZ 自动化课程攻略共享计划</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><atom:link href="https://hoa.moe/docs/fresh-spring/index.xml" rel="self" type="application/rss+xml"/><item><title>(必修)大学物理实验IA</title><link>https://hoa.moe/docs/fresh-spring/phys1002a/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/fresh-spring/phys1002a/</guid><description>
-&lt;p>&lt;img src="https://img.shields.io/badge/%E8%80%83%E6%9F%A5%E8%AF%BE-green" alt="Static Badge" loading="lazy" />
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HITSZ 自动化课程攻略共享计划 – 大一·春</title><link>https://hoa.moe/docs/fresh-spring/</link><description>Recent content in 大一·春 on HITSZ 自动化课程攻略共享计划</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><atom:link href="https://hoa.moe/docs/fresh-spring/index.xml" rel="self" type="application/rss+xml"/><item><title>(必修)大学物理实验</title><link>https://hoa.moe/docs/fresh-spring/phys1002a/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/fresh-spring/phys1002a/</guid><description>
+&lt;div class="overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200">
+&lt;div class="ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2">&lt;div class="select-none text-xl" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">
+ℹ️
+&lt;/div>&lt;/div>
+&lt;div class="w-full min-w-0 leading-7">
+&lt;div class="mt-6 leading-7 first:mt-0">
+自 &lt;code>2024.03.20&lt;/code> 开始，由于大物实验每年的不确定性，原 &lt;strong>大学物理实验IA&lt;/strong> 与 &lt;strong>大学物理实验IB&lt;/strong> 现合并成统一的 &lt;strong>大学物理实验&lt;/strong> 页面。采用统一的命名方式，本学期不再采用的实验资料转移至 &lt;code>archived&lt;/code> 文件夹。
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;h2>大学物理实验A&lt;span class="absolute -mt-20" id="大学物理实验a">&lt;/span>
+&lt;a href="#%e5%a4%a7%e5%ad%a6%e7%89%a9%e7%90%86%e5%ae%9e%e9%aa%8ca" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;img src="https://img.shields.io/badge/%E8%80%83%E6%9F%A5%E8%AF%BE-green" alt="Static Badge" loading="lazy" />
 &lt;img src="https://img.shields.io/badge/%E5%AD%A6%E5%88%86-1-moccasin" alt="Static Badge" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/%e5%ae%9e%e9%aa%8c%e5%ad%a6%e6%97%b6-20-moccasin" alt="Static Badge" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/%E5%AE%9E%E9%AA%8C-purple" alt="Static Badge" loading="lazy" />&lt;/p>
+&lt;p>&lt;img src="https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold" alt="Static Badge" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/%E6%AF%8F%E6%AC%A1%E5%AE%9E%E9%AA%8C%E5%BE%97%E5%88%86%E7%9A%84%E5%8A%A0%E6%9D%83%E5%92%8C-wheat" alt="Static Badge" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/2023%20%E5%B9%B4%E6%B2%A1%E6%9C%89%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E5%95%A6-wheat" alt="Static Badge" loading="lazy" />&lt;/p>
+&lt;h2>大学物理实验B&lt;span class="absolute -mt-20" id="大学物理实验b">&lt;/span>
+&lt;a href="#%e5%a4%a7%e5%ad%a6%e7%89%a9%e7%90%86%e5%ae%9e%e9%aa%8cb" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;img src="https://img.shields.io/badge/%E8%80%83%E6%9F%A5%E8%AF%BE-green" alt="Static Badge" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/%E5%AD%A6%E5%88%86-1-moccasin" alt="Static Badge" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/%e5%ae%9e%e9%aa%8c%e5%ad%a6%e6%97%b6-24-moccasin" alt="Static Badge" loading="lazy" />
 &lt;img src="https://img.shields.io/badge/%E5%AE%9E%E9%AA%8C-purple" alt="Static Badge" loading="lazy" />&lt;/p>
 &lt;p>&lt;img src="https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold" alt="Static Badge" loading="lazy" />
 &lt;img src="https://img.shields.io/badge/%E6%AF%8F%E6%AC%A1%E5%AE%9E%E9%AA%8C%E5%BE%97%E5%88%86%E7%9A%84%E5%8A%A0%E6%9D%83%E5%92%8C-wheat" alt="Static Badge" loading="lazy" />
 &lt;img src="https://img.shields.io/badge/2023%20%E5%B9%B4%E6%B2%A1%E6%9C%89%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E5%95%A6-wheat" alt="Static Badge" loading="lazy" />&lt;/p>
 &lt;h2>新人须知&lt;span class="absolute -mt-20" id="新人须知">&lt;/span>
-&lt;a href="#%e6%96%b0%e4%ba%ba%e9%a1%bb%e7%9f%a5" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>物理实验需要开学后在单独的选课平台上，从大约十多个实验（2023 年为 12 个）中，选足 20 学时的实验完成。这些实验中大多是 2 学时（1 节大课），少数为 4 学时（2 节大课）。&lt;/p>
-&lt;p>每一个实验在该学期内会开设很多次，需要学生自己选择上哪一天的，并且不与其他课冲突（由于不是在本研教学平台上选课，选好的实验并不会显示在你的教务平台课程表中）。你可以将实验选在学期初避免占用期末周，也可以将实验选在学期后期，&lt;del>趁国庆节假期把所有实验的预习给做完&lt;/del>，这样时间更充足。&lt;/p>
+&lt;a href="#%e6%96%b0%e4%ba%ba%e9%a1%bb%e7%9f%a5" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>物理实验需要开学后在单独的选课平台上，从大约十多个实验中，选足课程要求学时的实验完成。这些实验中大多是 2 学时（1 节大课），少数为 4 学时（2 节大课）。&lt;/p>
+&lt;p>2024 年春季学时要求：&lt;/p>
+&lt;ul>
+&lt;li>大物实验A 共 12 个实验，要求完成 $\ge 20$ 学时实验课时&lt;/li>
+&lt;li>大物实验B 共 13 个实验，要求完成 $\ge 24$ 学时实验课时&lt;/li>
+&lt;/ul>
+&lt;p>每一个实验在该学期内会开设很多次，需要学生自己选择上哪一天的，并且不与其他课冲突（由于不是在本研教学平台上选课，选好的实验并不会显示在你的教务平台课程表中）。你可以将实验选在学期初避免占用期末周，也可以将实验选在学期后期，这样时间 &lt;del>（或许？）&lt;/del> 更充足。&lt;/p>
 &lt;p>每次实验前要完成实验预习（要求手写）并在课上交由老师检查，实验做完后需要在规定日期前提交实验报告（2023 年是实验后两周内），报告使用 pdf 格式（过去只能交纸质，甚至&lt;strong>手写&lt;/strong>）。&lt;/p>
 &lt;h3>选什么实验呢？&lt;span class="absolute -mt-20" id="选什么实验呢">&lt;/span>
 &lt;a href="#%e9%80%89%e4%bb%80%e4%b9%88%e5%ae%9e%e9%aa%8c%e5%91%a2" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;blockquote>
-&lt;p>by &lt;a href="https://github.com/MaxwellJay256" target="_blank" rel="noopener">@Maxwell Jay&lt;/a>, 2023.12&lt;/p>
+&lt;p>by &lt;a href="https://github.com/MaxwellJay256" target="_blank" rel="noopener">@Maxwell Jay&lt;/a> and &lt;a href="https://github.com/longlin10086" target="_blank" rel="noopener">@Longlin Li&lt;/a>, 2023.12 update: 2024.3&lt;/p>
 &lt;/blockquote>
 &lt;p>这应该是同学在选实验的时候最关心的问题。
-首先，你选的实验总学时要满足 20 学时；其次，不管你是否卷学分绩，你大概希望花在实验上的时间越少越好，也就是说，实验越简单越好。&lt;/p>
+首先，你选的实验总学时要满足学时要求；其次，不管你是否卷学分绩，你大概希望花在实验上的时间越少越好，也就是说，实验越简单越好。&lt;/p>
 &lt;p>根据本人一学期下来的经验，我认为评价一个实验难不难，就看 3 点：&lt;strong>实验操作成功率&lt;/strong>、&lt;strong>是否要计算不确定度&lt;/strong>、&lt;strong>是否要绘图&lt;/strong>。&lt;/p>
 &lt;ol>
 &lt;li>实验操作成功率：这个指的是实验的操作是否容易出错，导致记录的数据有误无法通过检查或得不到理想结果。如果操作失误，就会在课上耽误很多时间去校正结果。这一点主要看个人的操作能力。&lt;/li>
@@ -23,9 +48,9 @@
 &lt;/ol>
 &lt;p>每个实验文件夹下的 &lt;code>README.md&lt;/code> 文件中都有对应实验的一些描述，你可以参考这些评价来选择你的实验。&lt;/p>
 &lt;h2>关于本仓库&lt;span class="absolute -mt-20" id="关于本仓库">&lt;/span>
-&lt;a href="#%e5%85%b3%e4%ba%8e%e6%9c%ac%e4%bb%93%e5%ba%93" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>这门课只有 1 学分，然而总共有 24 学时，相当费时费力，所以我们的应对办法就是将省事的工具集中起来，让选做各种物理实验的同学们能更快地完成实验外的工作。&lt;/p>
+&lt;a href="#%e5%85%b3%e4%ba%8e%e6%9c%ac%e4%bb%93%e5%ba%93" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>这门课只有 1 学分，然而总共有 20 学时以上要求，相当费时费力，所以我们的应对办法就是将省事的工具集中起来，让选做各种物理实验的同学们能更快地完成实验外的工作。&lt;/p>
 &lt;h3>目录&lt;span class="absolute -mt-20" id="目录">&lt;/span>
-&lt;a href="#%e7%9b%ae%e5%bd%95" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>实验顺序参考自 2023 年秋季实验指导书。&lt;/p>
+&lt;a href="#%e7%9b%ae%e5%bd%95" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>本学期开设的实验已标粗显示。&lt;/p>
 &lt;table>
 &lt;thead>
 &lt;tr>
@@ -44,7 +69,7 @@
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">02&lt;/td>
-&lt;td style="text-align:center">拉伸法测杨氏弹性模量&lt;/td>
+&lt;td style="text-align:center">&lt;strong>拉伸法测杨氏弹性模量&lt;/strong>&lt;/td>
 &lt;td style="text-align:center">&lt;a href="https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp02" target="_blank" rel="noopener">Exp02&lt;/a>&lt;/td>
 &lt;td style="text-align:center">2&lt;/td>
 &lt;/tr>
@@ -68,31 +93,31 @@
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">06&lt;/td>
-&lt;td style="text-align:center">磁耦合谐振式无线电力传输实验研究&lt;/td>
+&lt;td style="text-align:center">&lt;strong>磁耦合谐振式无线电力传输实验研究&lt;/strong>&lt;/td>
 &lt;td style="text-align:center">&lt;a href="https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp06" target="_blank" rel="noopener">Exp06&lt;/a>&lt;/td>
 &lt;td style="text-align:center">4&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">07&lt;/td>
-&lt;td style="text-align:center">声速的测量&lt;/td>
+&lt;td style="text-align:center">&lt;strong>空气中声速的测量&lt;/strong>&lt;/td>
 &lt;td style="text-align:center">&lt;a href="https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp07" target="_blank" rel="noopener">Exp07&lt;/a>&lt;/td>
 &lt;td style="text-align:center">2&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">08&lt;/td>
-&lt;td style="text-align:center">迈克尔逊干涉仪&lt;/td>
+&lt;td style="text-align:center">&lt;strong>迈克尔逊干涉仪&lt;/strong>&lt;/td>
 &lt;td style="text-align:center">&lt;a href="https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp08" target="_blank" rel="noopener">Exp08&lt;/a>&lt;/td>
 &lt;td style="text-align:center">4&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">09&lt;/td>
-&lt;td style="text-align:center">电子电荷的测定——密立根油滴法&lt;/td>
+&lt;td style="text-align:center">&lt;strong>电子电荷的测定——密立根油滴法&lt;/strong>&lt;/td>
 &lt;td style="text-align:center">&lt;a href="https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp09" target="_blank" rel="noopener">Exp09&lt;/a>&lt;/td>
 &lt;td style="text-align:center">4&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">10&lt;/td>
-&lt;td style="text-align:center">霍尔效应传感器和各向异性磁电阻传感器&lt;/td>
+&lt;td style="text-align:center">&lt;strong>霍尔效应传感器和各向异性磁电阻传感器&lt;/strong>&lt;/td>
 &lt;td style="text-align:center">&lt;a href="https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp10" target="_blank" rel="noopener">Exp10&lt;/a>&lt;/td>
 &lt;td style="text-align:center">4&lt;/td>
 &lt;/tr>
@@ -104,15 +129,99 @@
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">12&lt;/td>
-&lt;td style="text-align:center">液体表面张力系数测量&lt;/td>
+&lt;td style="text-align:center">&lt;strong>液体表面张力系数测量&lt;/strong>&lt;/td>
 &lt;td style="text-align:center">&lt;a href="https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp12" target="_blank" rel="noopener">Exp12&lt;/a>&lt;/td>
 &lt;td style="text-align:center">2&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">13&lt;/td>
+&lt;td style="text-align:center">&lt;strong>自组显微镜与望远镜&lt;/strong>&lt;/td>
+&lt;td style="text-align:center">&lt;a href="https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp13" target="_blank" rel="noopener">Exp13&lt;/a>&lt;/td>
+&lt;td style="text-align:center">4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">14&lt;/td>
+&lt;td style="text-align:center">&lt;strong>分光计的调节及应用&lt;/strong>&lt;/td>
+&lt;td style="text-align:center">&lt;a href="https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp14" target="_blank" rel="noopener">Exp14&lt;/a>&lt;/td>
+&lt;td style="text-align:center">4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">15&lt;/td>
+&lt;td style="text-align:center">&lt;strong>光的等厚干涉现象与应用&lt;/strong>&lt;/td>
+&lt;td style="text-align:center">&lt;a href="https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp15" target="_blank" rel="noopener">Exp15&lt;/a>&lt;/td>
+&lt;td style="text-align:center">2&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">16&lt;/td>
+&lt;td style="text-align:center">&lt;strong>准稳态法测不良导体的比热容和导热系数&lt;/strong>&lt;/td>
+&lt;td style="text-align:center">&lt;a href="https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp16" target="_blank" rel="noopener">Exp16&lt;/a>&lt;/td>
+&lt;td style="text-align:center">2&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">17&lt;/td>
+&lt;td style="text-align:center">&lt;strong>全息技术实验（虚拟仿真项目）&lt;/strong>&lt;/td>
+&lt;td style="text-align:center">&lt;a href="https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp17" target="_blank" rel="noopener">Exp17&lt;/a>&lt;/td>
+&lt;td style="text-align:center">4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">18&lt;/td>
+&lt;td style="text-align:center">&lt;strong>RLC电路暂态特性的研究&lt;/strong>&lt;/td>
+&lt;td style="text-align:center">&lt;a href="https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp18" target="_blank" rel="noopener">Exp18&lt;/a>&lt;/td>
+&lt;td style="text-align:center">2&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">19&lt;/td>
+&lt;td style="text-align:center">&lt;strong>双光栅检测微弱振动&lt;/strong>&lt;/td>
+&lt;td style="text-align:center">&lt;a href="https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp19" target="_blank" rel="noopener">Exp19&lt;/a>&lt;/td>
+&lt;td style="text-align:center">2&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">20&lt;/td>
+&lt;td style="text-align:center">&lt;strong>巨磁阻效应与应用&lt;/strong>&lt;/td>
+&lt;td style="text-align:center">&lt;a href="https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp20" target="_blank" rel="noopener">Exp20&lt;/a>&lt;/td>
+&lt;td style="text-align:center">4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">21&lt;/td>
+&lt;td style="text-align:center">&lt;strong>弗兰克-赫兹实验&lt;/strong>&lt;/td>
+&lt;td style="text-align:center">&lt;a href="https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp21" target="_blank" rel="noopener">Exp21&lt;/a>&lt;/td>
+&lt;td style="text-align:center">2&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">22&lt;/td>
+&lt;td style="text-align:center">&lt;strong>光电效应法测定普朗克常量&lt;/strong>&lt;/td>
+&lt;td style="text-align:center">&lt;a href="https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp22" target="_blank" rel="noopener">Exp22&lt;/a>&lt;/td>
+&lt;td style="text-align:center">2&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">23&lt;/td>
+&lt;td style="text-align:center">&lt;strong>磁光效应及其在光通信中的应用&lt;/strong>&lt;/td>
+&lt;td style="text-align:center">&lt;a href="https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp23" target="_blank" rel="noopener">Exp23&lt;/a>&lt;/td>
+&lt;td style="text-align:center">2&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">24&lt;/td>
+&lt;td style="text-align:center">&lt;strong>液晶电光效应及其应用&lt;/strong>&lt;/td>
+&lt;td style="text-align:center">&lt;a href="https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp24" target="_blank" rel="noopener">Exp24&lt;/a>&lt;/td>
+&lt;td style="text-align:center">4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">25&lt;/td>
+&lt;td style="text-align:center">&lt;strong>红外波的物理特性及其研究（虚拟仿真项目）&lt;/strong>&lt;/td>
+&lt;td style="text-align:center">&lt;a href="https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp25" target="_blank" rel="noopener">Exp25&lt;/a>&lt;/td>
+&lt;td style="text-align:center">2&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">archived&lt;/td>
+&lt;td style="text-align:center">被移除实验资料的归档&lt;/td>
+&lt;td style="text-align:center">&lt;a href="https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/archived" target="_blank" rel="noopener">archived&lt;/a>&lt;/td>
+&lt;td style="text-align:center">*&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
 &lt;h2>贡献&lt;span class="absolute -mt-20" id="贡献">&lt;/span>
 &lt;a href="#%e8%b4%a1%e7%8c%ae" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>每个人选择的物理实验不同，一个人即使上传了自己全部的实验资料也不能覆盖到所有人的需求；仓库的几位维护者在一学期内也不一定做了全部的实验。&lt;/p>
-&lt;p>如果你发现某个实验下的 &lt;code>README.md&lt;/code> 文件缺少内容，或者想添加自己的评价，都可以通过 Pull Request 的方式来贡献你的想法。&lt;/p>
+&lt;p>如果你发现某个实验下的 &lt;code>README.md&lt;/code> 文件缺少内容，或者想添加自己的评价，都可以通过 Pull Request 或 将文件打包发送邮件至 &lt;a href="mailto:hi@hoa.moe" >📮hi@hoa.moe&lt;/a> 的方式来贡献你的想法。&lt;/p>
 &lt;p>即使是已经有人上传了资料的实验，你也可以在这个实验的目录下添加自己的版本，把你的资料放进去。
 我们建议你上传这些内容：&lt;/p>
 &lt;ul>
@@ -123,7 +232,7 @@
 &lt;p>同时，非常欢迎大佬能为这些物理实验制作 $LaTeX$ 或 typst 等模版，
 这样对于熟悉这些排版系统的人来说会更加方便。&lt;/p>
 &lt;h2>Others&lt;span class="absolute -mt-20" id="others">&lt;/span>
-&lt;a href="#others" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>关于大学物理实验 IB 的资料，有一个 LaTeX 模板仓库：&lt;a href="https://github.com/LittleYe233/hitsz-physics-ib-reports" target="_blank" rel="noopener">hitsz-physics-ib-reports&lt;/a>
+&lt;a href="#others" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>关于大学物理实验的资料，有一个 LaTeX 模板仓库：&lt;a href="https://github.com/LittleYe233/hitsz-physics-ib-reports" target="_blank" rel="noopener">hitsz-physics-ib-reports&lt;/a>
 &lt;br>
 &lt;br>
 &lt;br>&lt;/p>
@@ -398,11 +507,11 @@
 &lt;/button>
 &lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1002A/raw/main/Exp11/7_%E5%A4%AA%E9%98%B3%E8%83%BD%E7%94%B5%E6%B1%A0.pdf" class="ml-1">7_太阳能电池.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1002A/raw/main/Exp11/%E5%A4%AA%E9%98%B3%E8%83%BD%E7%94%B5%E6%B1%A0%E7%9A%84%E5%9F%BA%E6%9C%AC%E7%89%B9%E6%80%A7%E7%A0%94%E7%A9%B6%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A%E6%A8%A1%E6%9D%BF.docx" class="ml-1">太阳能电池的基本特性研究实验报告模板.docx&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1002A/raw/main/Exp11/%E5%A4%AA%E9%98%B3%E8%83%BD%E7%94%B5%E6%B1%A0%E7%9A%84%E5%9F%BA%E6%9C%AC%E7%89%B9%E6%80%A7%E7%A0%94%E7%A9%B6%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A%E6%A8%A1%E6%9D%BF.docx" class="ml-1">太阳能电池的基本特性研究实验报告模板.docx&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1002A/raw/main/Exp11/%E5%A4%AA%E9%98%B3%E8%83%BD%E7%94%B5%E6%B1%A0%EF%BC%8821%E7%BA%A7%20Oliver%20Wu%EF%BC%89.pdf" class="ml-1">太阳能电池（21级 Oliver Wu）.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
@@ -433,6 +542,123 @@
 &lt;/li>
 &lt;li class="flex list-none">
 &lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1002A/raw/main/Exp12/%E6%B6%B2%E4%BD%93%E8%A1%A8%E9%9D%A2%E5%BC%A0%E5%8A%9B%E7%B3%BB%E6%95%B0%E6%B5%8B%E9%87%8F%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A%E6%A8%A1%E6%9D%BF.docx" class="ml-1">液体表面张力系数测量实验报告模板.docx&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li class="group flex list-none flex-col">
+&lt;button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
+&lt;span data-state="closed" class="data-[state=open]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span data-state="closed" class="data-[state=closed]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span class="ml-1">Exp13&lt;/span>
+&lt;/button>
+&lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1002A/raw/main/Exp13/%E8%87%AA%E7%BB%84%E6%98%BE%E5%BE%AE%E9%95%9C%EF%BC%8821%E7%BA%A7%20Oliver%20Wu%EF%BC%89.pdf" class="ml-1">自组显微镜（21级 Oliver Wu）.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li class="group flex list-none flex-col">
+&lt;button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
+&lt;span data-state="closed" class="data-[state=open]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span data-state="closed" class="data-[state=closed]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span class="ml-1">Exp14&lt;/span>
+&lt;/button>
+&lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1002A/raw/main/Exp14/%E5%88%86%E5%85%89%E8%AE%A1%E7%9A%84%E8%B0%83%E8%8A%82%E5%8F%8A%E5%BA%94%E7%94%A8%EF%BC%8821%E7%BA%A7%20Oliver%20Wu%EF%BC%89.pdf" class="ml-1">分光计的调节及应用（21级 Oliver Wu）.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li class="group flex list-none flex-col">
+&lt;button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
+&lt;span data-state="closed" class="data-[state=open]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span data-state="closed" class="data-[state=closed]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span class="ml-1">Exp15&lt;/span>
+&lt;/button>
+&lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1002A/raw/main/Exp15/%E5%85%89%E7%9A%84%E7%AD%89%E5%8E%9A%E5%B9%B2%E6%B6%89%E7%8E%B0%E8%B1%A1%E4%B8%8E%E5%BA%94%E7%94%A8%EF%BC%8821%E7%BA%A7%20Oliver%20Wu%EF%BC%89.pdf" class="ml-1">光的等厚干涉现象与应用（21级 Oliver Wu）.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li class="group flex list-none flex-col">
+&lt;button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
+&lt;span data-state="closed" class="data-[state=open]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span data-state="closed" class="data-[state=closed]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span class="ml-1">Exp16&lt;/span>
+&lt;/button>
+&lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1002A/raw/main/Exp16/%E5%87%86%E7%A8%B3%E6%80%81%E6%B3%95%E6%B5%8B%E4%B8%8D%E8%89%AF%E5%AF%BC%E4%BD%93%E7%9A%84%E6%AF%94%E7%83%AD%E5%AE%B9%E5%92%8C%E5%AF%BC%E7%83%AD%E7%B3%BB%E6%95%B0%EF%BC%8821%E7%BA%A7%20Oliver%20Wu%EF%BC%89.pdf" class="ml-1">准稳态法测不良导体的比热容和导热系数（21级 Oliver Wu）.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li class="group flex list-none flex-col">
+&lt;button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
+&lt;span data-state="closed" class="data-[state=open]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span data-state="closed" class="data-[state=closed]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span class="ml-1">Exp18&lt;/span>
+&lt;/button>
+&lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1002A/raw/main/Exp18/RLC%E6%9A%82%E6%80%81%E7%94%B5%E8%B7%AF%E7%89%B9%E6%80%A7%E7%A0%94%E7%A9%B6%EF%BC%8821%E7%BA%A7%20Oliver%20Wu%EF%BC%89.pdf" class="ml-1">RLC暂态电路特性研究（21级 Oliver Wu）.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li class="group flex list-none flex-col">
+&lt;button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
+&lt;span data-state="closed" class="data-[state=open]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span data-state="closed" class="data-[state=closed]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span class="ml-1">Exp19&lt;/span>
+&lt;/button>
+&lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1002A/raw/main/Exp19/%E5%8F%8C%E5%85%89%E6%A0%85%E6%A3%80%E6%B5%8B%E5%BE%AE%E5%BC%B1%E6%8C%AF%E5%8A%A8%EF%BC%8821%E7%BA%A7%20Oliver%20Wu%EF%BC%89.pdf" class="ml-1">双光栅检测微弱振动（21级 Oliver Wu）.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li class="group flex list-none flex-col">
+&lt;button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
+&lt;span data-state="closed" class="data-[state=open]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span data-state="closed" class="data-[state=closed]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span class="ml-1">Exp22&lt;/span>
+&lt;/button>
+&lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1002A/raw/main/Exp22/%E5%85%89%E7%94%B5%E6%95%88%E6%B3%95%E6%B5%8B%E6%99%AE%E6%9C%97%E5%85%8B%E5%B8%B8%E9%87%8F%EF%BC%8821%E7%BA%A7%20Oliver%20Wu%EF%BC%89.pdf" class="ml-1">光电效法测普朗克常量（21级 Oliver Wu）.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li class="group flex list-none flex-col">
+&lt;button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
+&lt;span data-state="closed" class="data-[state=open]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span data-state="closed" class="data-[state=closed]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span class="ml-1">Exp23&lt;/span>
+&lt;/button>
+&lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1002A/raw/main/Exp23/%E7%A3%81%E5%85%89%E6%95%88%E5%BA%94%E5%8F%8A%E5%85%B6%E5%9C%A8%E5%85%89%E9%80%9A%E4%BF%A1%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8%EF%BC%8821%E7%BA%A7%20Oliver%20Wu%EF%BC%89.pdf" class="ml-1">磁光效应及其在光通信中的应用（21级 Oliver Wu）.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li class="group flex list-none flex-col">
+&lt;button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
+&lt;span data-state="closed" class="data-[state=open]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span data-state="closed" class="data-[state=closed]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span class="ml-1">archived&lt;/span>
+&lt;/button>
+&lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1002A/raw/main/archived/%E5%85%89%E5%88%BB%E5%B7%A5%E8%89%BA%EF%BC%8821%E7%BA%A7%20Oliver%20Wu%EF%BC%89.pdf" class="ml-1">光刻工艺（21级 Oliver Wu）.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;/ul>
