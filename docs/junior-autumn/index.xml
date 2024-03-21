@@ -1079,139 +1079,6 @@ cellspacing——单元格之间的间隔，单位像素
 &lt;/li>
 &lt;/ul>
 &lt;br>
-&lt;img src="https://hoa.moe/images/sponsor.webp" alt="Reward_Code" style="zoom:25%; display: block; margin: 0 auto;" /></description></item><item><title>(必修)机械设计基础</title><link>https://hoa.moe/docs/junior-autumn/mech2010/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/junior-autumn/mech2010/</guid><description>
-&lt;p>&lt;img src="https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE-red" alt="考试课" loading="lazy" />
-&lt;img src="https://img.shields.io/badge/%E5%AD%A6%E5%88%86-2.5-blue" alt="学分" loading="lazy" />&lt;/p>
-&lt;p>&lt;img src="https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold" alt="成绩构成" loading="lazy" />
-&lt;img src="https://img.shields.io/badge/%E5%B9%B3%E6%97%B6%E6%88%90%E7%BB%A9-30%25-wheat" alt="平时成绩30%" loading="lazy" />
-&lt;img src="https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-20%25-wheat" alt="作业20%" loading="lazy" />
-&lt;img src="https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-50%25-wheat" alt="期末考试50%" loading="lazy" />
-&lt;br>
-&lt;br>
-&lt;br>&lt;/p>
-&lt;h2>资料下载&lt;span class="absolute -mt-20" id="资料下载">&lt;/span>
-&lt;a href="#%e8%b5%84%e6%96%99%e4%b8%8b%e8%bd%bd" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;div class="hextra-filetree mt-6 select-none text-sm text-gray-800 dark:text-gray-300 not-prose">
-&lt;div class="inline-block rounded-lg border px-4 py-2 dark:border-neutral-800">
-&lt;li class="group flex list-none flex-col">
-&lt;button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
-&lt;span data-state="closed" class="data-[state=open]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/>&lt;/svg>&lt;/span>
-&lt;span data-state="closed" class="data-[state=closed]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/>&lt;/svg>&lt;/span>
-&lt;span class="ml-1">assignments&lt;/span>
-&lt;/button>
-&lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
-&lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MECH2010/raw/main/assignments/%E6%9D%A8%E5%8F%AF%E6%A1%A2%20%E6%9C%BA%E6%A2%B0%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80%20%E7%AC%AC%E4%B8%83%E7%89%88%20%E8%BE%85%E5%AF%BC%E8%AF%BE%E5%90%8E%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88%E8%AF%A6%E8%A7%A3%20_split.pdf" class="ml-1">杨可桢 机械设计基础 第七版 辅导课后习题答案详解 _split.pdf&lt;/a>
-&lt;/span>
-&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li class="group flex list-none flex-col">
-&lt;button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
-&lt;span data-state="closed" class="data-[state=open]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/>&lt;/svg>&lt;/span>
-&lt;span data-state="closed" class="data-[state=closed]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/>&lt;/svg>&lt;/span>
-&lt;span class="ml-1">exams&lt;/span>
-&lt;/button>
-&lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
-&lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MECH2010/raw/main/exams/77%E6%9C%BA%E6%A2%B0%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80.pdf" class="ml-1">77机械设计基础.pdf&lt;/a>
-&lt;/span>
-&lt;/li>
-&lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MECH2010/raw/main/exams/%5B%E7%BD%91%E7%9B%98%E8%AE%A1%E5%88%92%5D%E6%9C%BA%E6%A2%B0%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80%E5%BE%80%E5%B9%B4%E9%A2%98.pdf" class="ml-1">[网盘计划]机械设计基础往年题.pdf&lt;/a>
-&lt;/span>
-&lt;/li>
-&lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MECH2010/raw/main/exams/%E6%9C%BA%E6%A2%B0%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.docx" class="ml-1">机械设计基础参考答案.docx&lt;/a>
-&lt;/span>
-&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li class="group flex list-none flex-col">
-&lt;button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
-&lt;span data-state="closed" class="data-[state=open]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/>&lt;/svg>&lt;/span>
-&lt;span data-state="closed" class="data-[state=closed]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/>&lt;/svg>&lt;/span>
-&lt;span class="ml-1">labs&lt;/span>
-&lt;/button>
-&lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
-&lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MECH2010/raw/main/labs/1.%20%E6%9C%BA%E6%9E%84%E8%AE%A4%E8%AF%86%E4%B8%8E%E8%BF%90%E5%8A%A8%E7%AE%80%E5%9B%BE%E6%B5%8B%E7%BB%98%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A%EF%BC%88%E8%87%AA%E5%8A%A8%E5%8C%96%E3%80%81%E7%94%B5%E6%B0%94%EF%BC%89.pdf" class="ml-1">&lt;ol>
-&lt;li>机构认识与运动简图测绘实验报告（自动化、电气）.pdf&lt;/li>
-&lt;/ol>
-&lt;/a>
-&lt;/span>
-&lt;/li>
-&lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MECH2010/raw/main/labs/2.%20%E9%BD%BF%E8%BD%AE%E8%8C%83%E6%88%90%E5%8E%9F%E7%90%86%E4%B8%8E%E9%BD%BF%E8%BD%AE%E5%8F%82%E6%95%B0%E6%B5%8B%E8%AF%95%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A.pdf" class="ml-1">&lt;ol start="2">
-&lt;li>齿轮范成原理与齿轮参数测试实验报告.pdf&lt;/li>
-&lt;/ol>
-&lt;/a>
-&lt;/span>
-&lt;/li>
-&lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MECH2010/raw/main/labs/3.%20%E6%9C%BA%E5%99%A8%E7%BB%84%E6%88%90%E5%8F%8A%E5%85%B8%E5%9E%8B%E6%9C%BA%E6%A2%B0%E9%9B%B6%E9%83%A8%E4%BB%B6%E8%AE%A4%E8%AF%86%E4%B8%8E%E5%88%86%E6%9E%90%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A.pdf" class="ml-1">&lt;ol start="3">
-&lt;li>机器组成及典型机械零部件认识与分析实验报告.pdf&lt;/li>
-&lt;/ol>
-&lt;/a>
-&lt;/span>
-&lt;/li>
-&lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MECH2010/raw/main/labs/4.%20%E5%B8%A6%E4%BC%A0%E5%8A%A8%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A.pdf" class="ml-1">&lt;ol start="4">
-&lt;li>带传动实验报告.pdf&lt;/li>
-&lt;/ol>
-&lt;/a>
-&lt;/span>
-&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li class="group flex list-none flex-col">
-&lt;button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
-&lt;span data-state="closed" class="data-[state=open]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/>&lt;/svg>&lt;/span>
-&lt;span data-state="closed" class="data-[state=closed]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/>&lt;/svg>&lt;/span>
-&lt;span class="ml-1">notes&lt;/span>
-&lt;/button>
-&lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
-&lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MECH2010/raw/main/notes/%E6%9C%BA%E6%A2%B0%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0%28%E4%B8%8D%E4%B8%80%E5%AE%9A%E5%A5%BD%E7%94%A8%29_%E5%B1%B1%E6%A8%B5.pdf" class="ml-1">机械设计基础复习笔记(不一定好用)_山樵.pdf&lt;/a>
-&lt;/span>
-&lt;/li>
-&lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MECH2010/raw/main/notes/%E6%9C%BA%E6%A2%B0%E8%AE%BE%E8%AE%A1%F0%9F%98%88%F0%9F%98%88%F0%9F%98%88_by_Spar%20Oce%CC%81sel_2023.apkg" class="ml-1">机械设计😈😈😈_by_Spar Océsel_2023.apkg&lt;/a>
-&lt;/span>
-&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li class="group flex list-none flex-col">
-&lt;button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
-&lt;span data-state="closed" class="data-[state=open]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/>&lt;/svg>&lt;/span>
-&lt;span data-state="closed" class="data-[state=closed]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/>&lt;/svg>&lt;/span>
-&lt;span class="ml-1">slides&lt;/span>
-&lt;/button>
-&lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
-&lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MECH2010/raw/main/slides/23%E7%A7%8B%E6%9C%BA%E6%A2%B0%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80%E8%AF%BE%E4%BB%B6.pdf" class="ml-1">23秋机械设计基础课件.pdf&lt;/a>
-&lt;/span>
-&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/div>
-&lt;/div>
-&lt;br>
-如果你是校内学生，可移步至 &lt;a href="https://open.osa.moe/openauto/MECH2010" target="_blank" rel="noopener">open.osa.moe&lt;/a> 查看电子书和课件
-&lt;br>&lt;/p>
-&lt;h2>支持我们&lt;span class="absolute -mt-20" id="支持我们">&lt;/span>
-&lt;a href="#%e6%94%af%e6%8c%81%e6%88%91%e4%bb%ac" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>如果你喜欢 HITSZ 自动化课程攻略共享计划，想支持我们，以下是几种支持我们的方式:&lt;/p>
-&lt;ul>
-&lt;li>
-&lt;p>HITSZ 自动化课程攻略共享计划 是所有同学都可以参与编写贡献的，如果你有好的笔记或者资料，欢迎前往我们的 &lt;a href="https://github.com/HITSZ-OpenAuto" target="_blank" rel="noopener">GitHub&lt;/a> 进行贡献，也可以发邮件至 &lt;a href="mailto:hi@hoa.moe" >📮hi@hoa.moe&lt;/a> 联系我们，我们会在收到的第一时间进行答复。&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>将本网站分享给你的同学也是支持我们的重要方式。&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>如果您认为本页面提供的信息对您有帮助，请考虑捐赠 ¥2 给我们。每一份慷慨支持都将大幅减轻我们承担的域名的费用负担。我们鼓励选择“向对方展示我的名字”，你的 ID 和留言将会显示在我们的 &lt;a href="https://hoa.moe/sponsor/#%e6%84%9f%e8%b0%a2%e5%90%8d%e5%8d%95" target="_blank" rel="noopener">感谢名单&lt;/a> 中。&lt;/p>
-&lt;/li>
-&lt;/ul>
-&lt;br>
 &lt;img src="https://hoa.moe/images/sponsor.webp" alt="Reward_Code" style="zoom:25%; display: block; margin: 0 auto;" /></description></item><item><title>(必修)自动控制理论A</title><link>https://hoa.moe/docs/junior-autumn/auto3001a/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/junior-autumn/auto3001a/</guid><description>
 &lt;div align="left">
 &lt;figure>
@@ -1777,6 +1644,139 @@ cellspacing——单元格之间的间隔，单位像素
 &lt;/div>
 &lt;br>
 如果你是校内学生，可移步至 &lt;a href="https://open.osa.moe/openauto/AUTO3003" target="_blank" rel="noopener">open.osa.moe&lt;/a> 查看电子书和课件
+&lt;br>&lt;/p>
+&lt;h2>支持我们&lt;span class="absolute -mt-20" id="支持我们">&lt;/span>
+&lt;a href="#%e6%94%af%e6%8c%81%e6%88%91%e4%bb%ac" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>如果你喜欢 HITSZ 自动化课程攻略共享计划，想支持我们，以下是几种支持我们的方式:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>HITSZ 自动化课程攻略共享计划 是所有同学都可以参与编写贡献的，如果你有好的笔记或者资料，欢迎前往我们的 &lt;a href="https://github.com/HITSZ-OpenAuto" target="_blank" rel="noopener">GitHub&lt;/a> 进行贡献，也可以发邮件至 &lt;a href="mailto:hi@hoa.moe" >📮hi@hoa.moe&lt;/a> 联系我们，我们会在收到的第一时间进行答复。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>将本网站分享给你的同学也是支持我们的重要方式。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>如果您认为本页面提供的信息对您有帮助，请考虑捐赠 ¥2 给我们。每一份慷慨支持都将大幅减轻我们承担的域名的费用负担。我们鼓励选择“向对方展示我的名字”，你的 ID 和留言将会显示在我们的 &lt;a href="https://hoa.moe/sponsor/#%e6%84%9f%e8%b0%a2%e5%90%8d%e5%8d%95" target="_blank" rel="noopener">感谢名单&lt;/a> 中。&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;br>
+&lt;img src="https://hoa.moe/images/sponsor.webp" alt="Reward_Code" style="zoom:25%; display: block; margin: 0 auto;" /></description></item><item><title>(归档)机械设计基础</title><link>https://hoa.moe/docs/junior-autumn/mech2010/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/junior-autumn/mech2010/</guid><description>
+&lt;p>&lt;img src="https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE-red" alt="考试课" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/%E5%AD%A6%E5%88%86-2.5-blue" alt="学分" loading="lazy" />&lt;/p>
+&lt;p>&lt;img src="https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold" alt="成绩构成" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/%E5%B9%B3%E6%97%B6%E6%88%90%E7%BB%A9-30%25-wheat" alt="平时成绩30%" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-20%25-wheat" alt="作业20%" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-50%25-wheat" alt="期末考试50%" loading="lazy" />
+&lt;br>
+&lt;br>
+&lt;br>&lt;/p>
+&lt;h2>资料下载&lt;span class="absolute -mt-20" id="资料下载">&lt;/span>
+&lt;a href="#%e8%b5%84%e6%96%99%e4%b8%8b%e8%bd%bd" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;div class="hextra-filetree mt-6 select-none text-sm text-gray-800 dark:text-gray-300 not-prose">
+&lt;div class="inline-block rounded-lg border px-4 py-2 dark:border-neutral-800">
+&lt;li class="group flex list-none flex-col">
+&lt;button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
+&lt;span data-state="closed" class="data-[state=open]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span data-state="closed" class="data-[state=closed]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span class="ml-1">assignments&lt;/span>
+&lt;/button>
+&lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MECH2010/raw/main/assignments/%E6%9D%A8%E5%8F%AF%E6%A1%A2%20%E6%9C%BA%E6%A2%B0%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80%20%E7%AC%AC%E4%B8%83%E7%89%88%20%E8%BE%85%E5%AF%BC%E8%AF%BE%E5%90%8E%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88%E8%AF%A6%E8%A7%A3%20_split.pdf" class="ml-1">杨可桢 机械设计基础 第七版 辅导课后习题答案详解 _split.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li class="group flex list-none flex-col">
+&lt;button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
+&lt;span data-state="closed" class="data-[state=open]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span data-state="closed" class="data-[state=closed]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span class="ml-1">exams&lt;/span>
+&lt;/button>
+&lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MECH2010/raw/main/exams/77%E6%9C%BA%E6%A2%B0%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80.pdf" class="ml-1">77机械设计基础.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MECH2010/raw/main/exams/%5B%E7%BD%91%E7%9B%98%E8%AE%A1%E5%88%92%5D%E6%9C%BA%E6%A2%B0%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80%E5%BE%80%E5%B9%B4%E9%A2%98.pdf" class="ml-1">[网盘计划]机械设计基础往年题.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MECH2010/raw/main/exams/%E6%9C%BA%E6%A2%B0%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.docx" class="ml-1">机械设计基础参考答案.docx&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li class="group flex list-none flex-col">
+&lt;button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
+&lt;span data-state="closed" class="data-[state=open]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span data-state="closed" class="data-[state=closed]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span class="ml-1">labs&lt;/span>
+&lt;/button>
+&lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MECH2010/raw/main/labs/1.%20%E6%9C%BA%E6%9E%84%E8%AE%A4%E8%AF%86%E4%B8%8E%E8%BF%90%E5%8A%A8%E7%AE%80%E5%9B%BE%E6%B5%8B%E7%BB%98%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A%EF%BC%88%E8%87%AA%E5%8A%A8%E5%8C%96%E3%80%81%E7%94%B5%E6%B0%94%EF%BC%89.pdf" class="ml-1">&lt;ol>
+&lt;li>机构认识与运动简图测绘实验报告（自动化、电气）.pdf&lt;/li>
+&lt;/ol>
+&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MECH2010/raw/main/labs/2.%20%E9%BD%BF%E8%BD%AE%E8%8C%83%E6%88%90%E5%8E%9F%E7%90%86%E4%B8%8E%E9%BD%BF%E8%BD%AE%E5%8F%82%E6%95%B0%E6%B5%8B%E8%AF%95%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A.pdf" class="ml-1">&lt;ol start="2">
+&lt;li>齿轮范成原理与齿轮参数测试实验报告.pdf&lt;/li>
+&lt;/ol>
+&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MECH2010/raw/main/labs/3.%20%E6%9C%BA%E5%99%A8%E7%BB%84%E6%88%90%E5%8F%8A%E5%85%B8%E5%9E%8B%E6%9C%BA%E6%A2%B0%E9%9B%B6%E9%83%A8%E4%BB%B6%E8%AE%A4%E8%AF%86%E4%B8%8E%E5%88%86%E6%9E%90%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A.pdf" class="ml-1">&lt;ol start="3">
+&lt;li>机器组成及典型机械零部件认识与分析实验报告.pdf&lt;/li>
+&lt;/ol>
+&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MECH2010/raw/main/labs/4.%20%E5%B8%A6%E4%BC%A0%E5%8A%A8%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A.pdf" class="ml-1">&lt;ol start="4">
+&lt;li>带传动实验报告.pdf&lt;/li>
+&lt;/ol>
+&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li class="group flex list-none flex-col">
+&lt;button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
+&lt;span data-state="closed" class="data-[state=open]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span data-state="closed" class="data-[state=closed]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span class="ml-1">notes&lt;/span>
+&lt;/button>
+&lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MECH2010/raw/main/notes/%E6%9C%BA%E6%A2%B0%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0%28%E4%B8%8D%E4%B8%80%E5%AE%9A%E5%A5%BD%E7%94%A8%29_%E5%B1%B1%E6%A8%B5.pdf" class="ml-1">机械设计基础复习笔记(不一定好用)_山樵.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MECH2010/raw/main/notes/%E6%9C%BA%E6%A2%B0%E8%AE%BE%E8%AE%A1%F0%9F%98%88%F0%9F%98%88%F0%9F%98%88_by_Spar%20Oce%CC%81sel_2023.apkg" class="ml-1">机械设计😈😈😈_by_Spar Océsel_2023.apkg&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li class="group flex list-none flex-col">
+&lt;button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
+&lt;span data-state="closed" class="data-[state=open]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span data-state="closed" class="data-[state=closed]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span class="ml-1">slides&lt;/span>
+&lt;/button>
+&lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MECH2010/raw/main/slides/23%E7%A7%8B%E6%9C%BA%E6%A2%B0%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80%E8%AF%BE%E4%BB%B6.pdf" class="ml-1">23秋机械设计基础课件.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/div>
+&lt;/div>
+&lt;br>
+如果你是校内学生，可移步至 &lt;a href="https://open.osa.moe/openauto/MECH2010" target="_blank" rel="noopener">open.osa.moe&lt;/a> 查看电子书和课件
 &lt;br>&lt;/p>
 &lt;h2>支持我们&lt;span class="absolute -mt-20" id="支持我们">&lt;/span>
 &lt;a href="#%e6%94%af%e6%8c%81%e6%88%91%e4%bb%ac" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>如果你喜欢 HITSZ 自动化课程攻略共享计划，想支持我们，以下是几种支持我们的方式:&lt;/p>
