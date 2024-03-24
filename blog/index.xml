@@ -1,4 +1,26 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HITSZ 自动化课程攻略共享计划 – 博客</title><link>https://hoa.moe/blog/</link><description>Recent content in 博客 on HITSZ 自动化课程攻略共享计划</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><atom:link href="https://hoa.moe/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>LaTeX 环境配置</title><link>https://hoa.moe/blog/markdown-and-latex/latex-setup/</link><pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate><guid>https://hoa.moe/blog/markdown-and-latex/latex-setup/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HITSZ 自动化课程攻略共享计划 – 博客</title><link>https://hoa.moe/blog/</link><description>Recent content in 博客 on HITSZ 自动化课程攻略共享计划</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><atom:link href="https://hoa.moe/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>我是如何使用 OSA 镜像站的</title><link>https://hoa.moe/blog/how-to-use-mirrors-in-hitsz/</link><pubDate>Sun, 24 Mar 2024 00:00:00 +0000</pubDate><guid>https://hoa.moe/blog/how-to-use-mirrors-in-hitsz/</guid><description>
+&lt;p>由 &lt;a href="https://osa.moe" target="_blank" rel="noopener">开源技术协会（OSA）&lt;/a> 建设的 &lt;a href="https://mirrors.osa.moe/" target="_blank" rel="noopener">镜像站&lt;/a> 其实从去年就开始运行了，但是目前只为各大实验室和开源技术协会的同学所使用，以至于身边的很多同学都仍在使用网上的各种清华换源、中科大换源教程，并且屡屡碰壁。这篇文章我想分享一下作为一名自动化的本科生，我们可以如何使用校内镜像站。&lt;/p>
+&lt;h2>什么是镜像站？&lt;span class="absolute -mt-20" id="什么是镜像站">&lt;/span>
+&lt;a href="#%e4%bb%80%e4%b9%88%e6%98%af%e9%95%9c%e5%83%8f%e7%ab%99" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>顾名思义，镜像站就是将现有的网站镜像到自己的服务器上，一方面是为了加快网站的的访问速度，另一方面是为了对网页内容进行备份。我们日常会用到镜像站的场景包括但不限于：&lt;/p>
+&lt;ul>
+&lt;li>下载 Ubuntu、Arch 等 Linux 发行版本的安装镜像&lt;/li>
+&lt;li>使用 Anaconda 安装 Python 环境中的各种包&lt;/li>
+&lt;li>安装 ROS（机器人操作系统）&lt;/li>
+&lt;li>进行 Ubuntu 中各种包的更新&lt;/li>
+&lt;li>&amp;hellip;&lt;/li>
+&lt;/ul>
+&lt;p>而由于众所周知的原因，国内往往很难访问到国际互联网的内容，当我们需要配置环境时，往往会碰到很多困难，这时候镜像站就从可选项变成必选项。但是国内各大面对公网的镜像站的质量往往参差不齐，而 OSA 推出的面向校内同学的镜像站却允许我们以&lt;strong>数十兆&lt;/strong>的速度从内网获取资源，可以说把镜像站从一个必选项变成了一个&lt;strong>最优解&lt;/strong>。&lt;/p>
+&lt;h2>我是如何使用镜像站的？&lt;span class="absolute -mt-20" id="我是如何使用镜像站的">&lt;/span>
+&lt;a href="#%e6%88%91%e6%98%af%e5%a6%82%e4%bd%95%e4%bd%bf%e7%94%a8%e9%95%9c%e5%83%8f%e7%ab%99%e7%9a%84" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>就按照上面介绍的场景展开吧&lt;/p>
+&lt;h3>安装 Ubuntu&lt;span class="absolute -mt-20" id="安装-ubuntu">&lt;/span>
+&lt;a href="#%e5%ae%89%e8%a3%85-ubuntu" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>很多同学会通过虚拟机或者双系统的方式安装 Ubuntu，但是首先都需要下载 Ubuntu 的安装镜像文件（.iso）。你可以在 &lt;a href="https://mirrors.osa.moe/" target="_blank" rel="noopener">mirrors.osa.moe&lt;/a> 这里找到相应的发行版进行下载，如下图所示：&lt;/p>
+&lt;p>&lt;img src="image-20240324123436274.png" alt="image-20240324123436274" loading="lazy" />&lt;/p>
+&lt;h3>Ubuntu 软件源&lt;span class="absolute -mt-20" id="ubuntu-软件源">&lt;/span>
+&lt;a href="#ubuntu-%e8%bd%af%e4%bb%b6%e6%ba%90" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>当你使用 &lt;code>sudo apt update&lt;/code> 更新软件源的时候，报错最有可能的原因是你的网络问题，为此我们需要设置成自己的软件源，当你点开标题为 ubuntu 的链接的时候，OSA 会很贴心地为你跳转到使用帮助页面：https://mirrors-help.osa.moe/ubuntu/。&lt;/p>
+&lt;p>按照使用帮助上的介绍配置即可，你需要修改的是 &lt;code>/etc/apt/sources.list&lt;/code> 这个文件。&lt;/p>
+&lt;p>在 &lt;code>使用官方安全更新软件源&lt;/code> 选项中，我建议选择否，否则仍有可能遇到网络问题。&lt;/p>
+&lt;h3>其他&lt;span class="absolute -mt-20" id="其他">&lt;/span>
+&lt;a href="#%e5%85%b6%e4%bb%96" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>Anaconda 和 ROS 的配置方法同样可以通过参考对应的使用帮助页面进行配置，ROS 在换好源后请从 &lt;a href="https://wiki.ros.org/noetic/Installation/Ubuntu" target="_blank" rel="noopener">官网教程&lt;/a> 的 1.4 节开始安装。&lt;/p></description></item><item><title>LaTeX 环境配置</title><link>https://hoa.moe/blog/markdown-and-latex/latex-setup/</link><pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate><guid>https://hoa.moe/blog/markdown-and-latex/latex-setup/</guid><description>
 &lt;p>&lt;strong>&lt;a href="../basic-of-latex-with-markdown" >返回Markdown文章主页&lt;/a>&lt;/strong>&lt;/p>
 &lt;p>分两部分：编译器和编辑器。&lt;/p>
 &lt;h3>编译器配置&lt;span class="absolute -mt-20" id="编译器配置">&lt;/span>
