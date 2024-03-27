@@ -219,6 +219,14 @@
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
+&lt;h3>个人实验仓库收集&lt;span class="absolute -mt-20" id="个人实验仓库收集">&lt;/span>
+&lt;a href="#%e4%b8%aa%e4%ba%ba%e5%ae%9e%e9%aa%8c%e4%bb%93%e5%ba%93%e6%94%b6%e9%9b%86" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;blockquote>
+&lt;p>已得到仓库所有者授权的引用许可。&lt;/p>
+&lt;/blockquote>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/LittleYe233/hitsz-physics-ib-reports" target="_blank" rel="noopener">LittleYe233/hitsz-physics-ib-reports&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/Doctxing/phytex" target="_blank" rel="noopener">Doctxing/phytex&lt;/a>：&lt;a href="https://github.com/Doctxing" target="_blank" rel="noopener">@Doctxing&lt;/a> 同学制作的 $\LaTeX$ 模板及数据处理程序&lt;/li>
+&lt;/ul>
 &lt;h2>贡献&lt;span class="absolute -mt-20" id="贡献">&lt;/span>
 &lt;a href="#%e8%b4%a1%e7%8c%ae" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>每个人选择的物理实验不同，一个人即使上传了自己全部的实验资料也不能覆盖到所有人的需求；仓库的几位维护者在一学期内也不一定做了全部的实验。&lt;/p>
 &lt;p>如果你发现某个实验下的 &lt;code>README.md&lt;/code> 文件缺少内容，或者想添加自己的评价，都可以通过 Pull Request 或 将文件打包发送邮件至 &lt;a href="mailto:hi@hoa.moe" >📮hi@hoa.moe&lt;/a> 的方式来贡献你的想法。&lt;/p>
@@ -231,11 +239,9 @@
 &lt;p>注意，&lt;strong>不要随意改动或删除别人的资料&lt;/strong>！&lt;/p>
 &lt;p>同时，非常欢迎大佬能为这些物理实验制作 $LaTeX$ 或 typst 等模版，
 这样对于熟悉这些排版系统的人来说会更加方便。&lt;/p>
-&lt;h2>Others&lt;span class="absolute -mt-20" id="others">&lt;/span>
-&lt;a href="#others" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>关于大学物理实验的资料，有一个 LaTeX 模板仓库：&lt;a href="https://github.com/LittleYe233/hitsz-physics-ib-reports" target="_blank" rel="noopener">hitsz-physics-ib-reports&lt;/a>
 &lt;br>
 &lt;br>
-&lt;br>&lt;/p>
+&lt;br>
 &lt;h2>资料下载&lt;span class="absolute -mt-20" id="资料下载">&lt;/span>
 &lt;a href="#%e8%b5%84%e6%96%99%e4%b8%8b%e8%bd%bd" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;div class="hextra-filetree mt-6 select-none text-sm text-gray-800 dark:text-gray-300 not-prose">
 &lt;div class="inline-block rounded-lg border px-4 py-2 dark:border-neutral-800">
@@ -903,6 +909,14 @@
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
+&lt;h3>个人实验仓库收集&lt;span class="absolute -mt-20" id="个人实验仓库收集">&lt;/span>
+&lt;a href="#%e4%b8%aa%e4%ba%ba%e5%ae%9e%e9%aa%8c%e4%bb%93%e5%ba%93%e6%94%b6%e9%9b%86" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;blockquote>
+&lt;p>已得到仓库所有者授权的引用许可。&lt;/p>
+&lt;/blockquote>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/LittleYe233/hitsz-physics-ib-reports" target="_blank" rel="noopener">LittleYe233/hitsz-physics-ib-reports&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/Doctxing/phytex" target="_blank" rel="noopener">Doctxing/phytex&lt;/a>：&lt;a href="https://github.com/Doctxing" target="_blank" rel="noopener">@Doctxing&lt;/a> 同学制作的 $\LaTeX$ 模板及数据处理程序&lt;/li>
+&lt;/ul>
 &lt;h2>贡献&lt;span class="absolute -mt-20" id="贡献">&lt;/span>
 &lt;a href="#%e8%b4%a1%e7%8c%ae" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>每个人选择的物理实验不同，一个人即使上传了自己全部的实验资料也不能覆盖到所有人的需求；仓库的几位维护者在一学期内也不一定做了全部的实验。&lt;/p>
 &lt;p>如果你发现某个实验下的 &lt;code>README.md&lt;/code> 文件缺少内容，或者想添加自己的评价，都可以通过 Pull Request 或 将文件打包发送邮件至 &lt;a href="mailto:hi@hoa.moe" >📮hi@hoa.moe&lt;/a> 的方式来贡献你的想法。&lt;/p>
@@ -915,11 +929,9 @@
 &lt;p>注意，&lt;strong>不要随意改动或删除别人的资料&lt;/strong>！&lt;/p>
 &lt;p>同时，非常欢迎大佬能为这些物理实验制作 $LaTeX$ 或 typst 等模版，
 这样对于熟悉这些排版系统的人来说会更加方便。&lt;/p>
-&lt;h2>Others&lt;span class="absolute -mt-20" id="others">&lt;/span>
-&lt;a href="#others" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>关于大学物理实验的资料，有一个 LaTeX 模板仓库：&lt;a href="https://github.com/LittleYe233/hitsz-physics-ib-reports" target="_blank" rel="noopener">hitsz-physics-ib-reports&lt;/a>
 &lt;br>
 &lt;br>
-&lt;br>&lt;/p>
+&lt;br>
 &lt;h2>资料下载&lt;span class="absolute -mt-20" id="资料下载">&lt;/span>
 &lt;a href="#%e8%b5%84%e6%96%99%e4%b8%8b%e8%bd%bd" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;div class="hextra-filetree mt-6 select-none text-sm text-gray-800 dark:text-gray-300 not-prose">
 &lt;div class="inline-block rounded-lg border px-4 py-2 dark:border-neutral-800">
