@@ -2631,13 +2631,16 @@ by &lt;a href="https://github.com/MaxwellJay256" target="_blank" rel="noopener">
 &lt;img src="https://img.shields.io/badge/%E5%AD%A6%E5%88%86-1%e6%88%960.5-moccasin" alt="学分" loading="lazy" />
 &lt;img src="https://img.shields.io/badge/%e5%bf%85%e4%bf%ae-lightskyblue" alt="必修" loading="lazy" />&lt;/p>
 &lt;p>&lt;img src="https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold" alt="成绩构成" loading="lazy" />
-&lt;img src="https://img.shields.io/badge/%e8%ba%ab%e4%bd%93%e7%b4%a0%e8%b4%a8-30%25-wheat" alt="身体素质30%" loading="lazy" />&lt;/p>
-&lt;p>&lt;img src="https://img.shields.io/badge/%e7%90%86%e8%ae%ba%e6%88%90%e7%bb%a9-10%25-wheat" alt="理论成绩10%" loading="lazy" />&lt;/p>
-&lt;p>&lt;img src="https://img.shields.io/badge/%e5%b9%b3%e6%97%b6%e6%88%90%e7%bb%a9-10%25-wheat" alt="期末考试60%" loading="lazy" />&lt;/p>
-&lt;p>&lt;img src="https://img.shields.io/badge/%e4%b8%93%e9%a1%b9%e6%8a%80%e6%9c%af-50%25-wheat" alt="身体素质30%" loading="lazy" />&lt;/p>
+&lt;img src="https://img.shields.io/badge/%e8%ba%ab%e4%bd%93%e7%b4%a0%e8%b4%a8-30%25-wheat" alt="身体素质30%" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/%e7%90%86%e8%ae%ba%e6%88%90%e7%bb%a9-10%25-wheat" alt="理论成绩10%" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/%e5%b9%b3%e6%97%b6%e6%88%90%e7%bb%a9-10%25-wheat" alt="期末考试60%" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/%e4%b8%93%e9%a1%b9%e6%8a%80%e6%9c%af-50%25-wheat" alt="专项技术30%" loading="lazy" />&lt;/p>
 &lt;p>大一上下学期的 PE1001 是 1 学分，大二上下学期的 PE1002 是 0.5 学分。&lt;/p>
 &lt;h2>游泳&lt;span class="absolute -mt-20" id="游泳">&lt;/span>
-&lt;a href="#%e6%b8%b8%e6%b3%b3" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>授课教师&lt;span class="absolute -mt-20" id="授课教师">&lt;/span>
+&lt;a href="#%e6%b8%b8%e6%b3%b3" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;blockquote>
+&lt;p>by &lt;a href="https://github.com/longlin10086" target="_blank" rel="noopener">@longlin10086&lt;/a>, 2024.3&lt;/p>
+&lt;/blockquote>
+&lt;h3>授课教师&lt;span class="absolute -mt-20" id="授课教师">&lt;/span>
 &lt;a href="#%e6%8e%88%e8%af%be%e6%95%99%e5%b8%88" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
 &lt;li>倪婧娇
 &lt;ul>
@@ -2650,7 +2653,8 @@ by &lt;a href="https://github.com/MaxwellJay256" target="_blank" rel="noopener">
 &lt;h3>授课地点&lt;span class="absolute -mt-20" id="授课地点">&lt;/span>
 &lt;a href="#%e6%8e%88%e8%af%be%e5%9c%b0%e7%82%b9" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>大学城游泳馆&lt;/p>
 &lt;h3>关于考试&lt;span class="absolute -mt-20" id="关于考试">&lt;/span>
-&lt;a href="#%e5%85%b3%e4%ba%8e%e8%80%83%e8%af%95" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>无论零基础还是有基础的同学最后专项技术期末都是 100m 蛙泳（短泳道一来一回），评分会照顾零基础的同学，所以零基础的同学不用担心&lt;/p>
+&lt;a href="#%e5%85%b3%e4%ba%8e%e8%80%83%e8%af%95" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>无论零基础还是有基础的同学最后专项技术期末都是 100m 蛙泳（短泳道一来一回），评分会照顾零基础的同学，所以零基础的同学不用担心。&lt;/p>
+&lt;p>身体素质考察 1000m，引体向上，平板支撑 三项。&lt;/p>
 &lt;h3>学习建议&lt;span class="absolute -mt-20" id="学习建议">&lt;/span>
 &lt;a href="#%e5%ad%a6%e4%b9%a0%e5%bb%ba%e8%ae%ae" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
 &lt;li>游泳馆内有热水供应（虽然比较晚才会开）&lt;/li>
@@ -2658,9 +2662,36 @@ by &lt;a href="https://github.com/MaxwellJay256" target="_blank" rel="noopener">
 &lt;li>冬天水温会比较冷，刚下水可能会不适应&lt;/li>
 &lt;li>课堂外前往游泳馆需要支付 ¥20（校园卡）&lt;/li>
 &lt;/ul>
+&lt;h2>跆拳道 / 空手道&lt;span class="absolute -mt-20" id="跆拳道--空手道">&lt;/span>
+&lt;a href="#%e8%b7%86%e6%8b%b3%e9%81%93--%e7%a9%ba%e6%89%8b%e9%81%93" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;blockquote>
+&lt;p>by &lt;a href="https://github.com/MaxwellJay256" target="_blank" rel="noopener">@MaxwellJay256&lt;/a>, 2024.3&lt;/p>
+&lt;p>跆拳道和空手道本身就是同类型的运动，两门课的内容和考核要求也非常相似，因此我把它们合在一起记录。
+我也很推荐选了其中一门的同学在另一个学期选修另一门。&lt;/p>
+&lt;/blockquote>
+&lt;h3>授课教师&lt;span class="absolute -mt-20" id="授课教师-1">&lt;/span>
+&lt;a href="#%e6%8e%88%e8%af%be%e6%95%99%e5%b8%88-1" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>曾翠兰 / 周紫微
+&lt;ul>
+&lt;li>好（各种方面的）&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3>关于考试&lt;span class="absolute -mt-20" id="关于考试-1">&lt;/span>
+&lt;a href="#%e5%85%b3%e4%ba%8e%e8%80%83%e8%af%95-1" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>跆拳道 / 空手道的身体素质考核内容为：&lt;/p>
+&lt;ol>
+&lt;li>1 分钟开合跳&lt;/li>
+&lt;li>1 分钟下蹲&lt;/li>
+&lt;li>1 分钟仰卧起坐（主要拉分项）&lt;/li>
+&lt;/ol>
+&lt;p>&lt;strong>不考长跑！不考引体向上！&lt;/strong>&lt;/p>
+&lt;p>技术考核内容则是打一套跆拳道 / 空手道的招式。
+用来学习动作的时间很多，只要认真学都能学会。&lt;/p>
+&lt;h3>学习建议&lt;span class="absolute -mt-20" id="学习建议-1">&lt;/span>
+&lt;a href="#%e5%ad%a6%e4%b9%a0%e5%bb%ba%e8%ae%ae-1" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>跆拳道 / 空手道是重视技术而不刻意强调体能的运动，因此即使擦线过体测的同学也能学好它们。
+它们可以为你贡献两个学期的高分，因此有机会就把它们设置成第一志愿吧。
 &lt;br>
 &lt;br>
-&lt;br>
+&lt;br>&lt;/p>
 &lt;h2>资料下载&lt;span class="absolute -mt-20" id="资料下载">&lt;/span>
 &lt;a href="#%e8%b5%84%e6%96%99%e4%b8%8b%e8%bd%bd" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;div class="hextra-filetree mt-6 select-none text-sm text-gray-800 dark:text-gray-300 not-prose">
 &lt;div class="inline-block rounded-lg border px-4 py-2 dark:border-neutral-800">
