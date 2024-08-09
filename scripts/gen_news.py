@@ -192,7 +192,7 @@ if filtered_commits:
     if summary:
         final_markdown_report += f'## ✨AI 摘要\n\n{summary}\n\n'
 
-    final_markdown_report += markdown_report
+    # final_markdown_report += markdown_report
 
     if NEWS_TYPE == "weekly":
         with open(f'content/news/weekly-{display_start_time.date()}.md', 'w') as file:
